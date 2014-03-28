@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Vivek Nallur</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+ 
+  <div id="main">
+ 
+    <header>
+      <h1> Vivek Nallur </h1>
+    <header>
+ 
+    <nav role="navigation">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/research/">Research</a></li>
+        <li><a href="/pubs">Selected Publications</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog/">Blog</a></li>
+      </ul>
+    </nav>
+ 
+    {{ content }}
+ 
+    <footer>
+      <p>&copy; Vivek Nallur  2014 | All Rights Reserved. </p>
+    </footer>
+ 
+  </div>
+</body>
+</html>
