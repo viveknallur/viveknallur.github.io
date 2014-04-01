@@ -5,7 +5,8 @@ title: Home
 section: Home
 ---
 
-<img class='inset right' src='images/vivek_face.jpg' title='Vivek Nallur' alt='Photo of Vivek Nallur ' width='120px' />
+<img class='inset right' src='images/vivek_hatfieldhouse.jpg' title='Vivek 
+Nallur' alt='Photo of Vivek Nallur ' width='120px' />
 
 Welcome
 =======
