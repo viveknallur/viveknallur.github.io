@@ -11,7 +11,11 @@ Nallur' alt='Photo of Vivek Nallur ' width='120px' />
 Welcome
 =======
 
-I'm Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic traveller. I love asking questions, and then launching on search for answers to those questions. Hence, my career as a researcher came, more or less, naturally to me. And I've already lied to you at least twice, in this paragraph!
+I'm Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic 
+traveller. I love asking questions, and then launching on a search for answers 
+to those questions. Hence, my career as a researcher came, more or less, 
+naturally to me. And I've already lied to you at least twice, in this 
+paragraph!
 
 +--	{.section}
 Research
