@@ -4,19 +4,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }} &larr; {{ page.top }}</title>
+   <title> &larr; </title>
    <meta name="author" content="Vivek Nallur" />
 
 
    <link rel="start" href="/" />
 
-	{% if page.keywords %}
-	<meta name="keywords" content="{{ page.keywords }}">
-	{% endif %}
 	
-	{% if page.feed %}
-  	<link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="RSS feed" />
-	{% endif %}
+	
+	
 
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="/files/css/syntax.css" type="text/css" />
@@ -25,10 +21,19 @@
    <link rel="stylesheet" href="/files/css/screen.css" type="text/css" />
 
 </head>
-<body id="{{ page.section }}">
+<body id="">
 <div id="site">
 
-  {{ content }}
+  <section role="banner">
+   <img src="imgs/vivek_face.jpg" />
+</section>
+
+<section class="content">
+	<p>
+	Hello, worldwide wanderer! I'm a Research Fellow in the School of Computer Science and Statistics, at Trinity College Dublin. These pages detail my research interests, my current project, and also host some itinerant musings. Check out the appropriate section for pages that might interest you.
+	</p>
+</section>
+
   
   <div id="footer">
 	<address>
