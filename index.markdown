@@ -20,7 +20,10 @@ paragraph!
 +--	{.section}
 Research
 ========
-I work as a [Research Fellow](/work) with the [Distributed Systems Group](http://www.dsg.cs.tcd.ie) in the [School of Computer Science & Statistics](http://www.scss.tcd.ie) at [Trinity College Dublin](http://www.tcd.ie).
+I work as a [Research Fellow](/research.html) with the [Distributed Systems 
+Group](http://www.dsg.cs.tcd.ie) in the [School of Computer Science & 
+Statistics](http://www.scss.tcd.ie) at [Trinity College 
+Dublin](http://www.tcd.ie).
 
 =--
 

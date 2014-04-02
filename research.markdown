@@ -32,14 +32,14 @@ feedback loops, predicting and controlling emergence in humano-tech systems
 (where technical systems interact heavily with human desires/abilities), 
 neering robust systems from non-robust parts. If you're interested in 
 collaborating, or just want to chat about a specific topic, [get in 
-touch](/contact)!
+touch](/contact.html)!
 
 =--
 
 +--   {.section}
 Google Scholar link
 ====
-http://scholar.google.com/citations?user=TeqJsjcAAAAJ&hl=en
+[Papers and Citations](http://scholar.google.com/citations?user=TeqJsjcAAAAJ)
 
 
 =--
