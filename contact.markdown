@@ -30,6 +30,6 @@ Ireland
 +-- {.section}
 Electronic
 =====
-*Tel*: +353(0) 896 1543  
+*Tel*: +353 (1) 896 1543  
 *Email*: firstname.lastname at scss.tcd.ie
 =--
