@@ -3,6 +3,7 @@ lsi         : false
 pygments    : true
 permalink   : none
 markdown    : maruku
+baseurl     : http://www.scss.tcd.ie/~nallurv
 
 maruku:
     use_divs: true

@@ -32,7 +32,7 @@ feedback loops, predicting and controlling emergence in humano-tech systems
 (where technical systems interact heavily with human desires/abilities), 
 neering robust systems from non-robust parts. If you're interested in 
 collaborating, or just want to chat about a specific topic, [get in 
-touch](/contact.html)!
+touch]({{ site.baseurl }}/contact.html)!
 
 =--
 
