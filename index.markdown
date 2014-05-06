@@ -29,5 +29,4 @@ Current Project
 ---------------
 I work on an EU project called [Diversify](http://diversify-project.eu) which aims at using 'Diversity' as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.
 
-=--
 
