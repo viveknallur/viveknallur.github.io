@@ -17,7 +17,7 @@ to those questions. Hence, my career as a researcher came, more or less,
 naturally to me. And I've already lied to you at least twice, in this 
 paragraph!
 
-+--	{.section}
+{.section}
 Research
 ========
 I work as a [Research Fellow]({{ site.baseurl }}/research.html) with the 
@@ -27,7 +27,7 @@ Dublin](http://www.tcd.ie).
 
 =--
 
-+-- {.section}
+{.section}
 Current Project
 =====
 I work on an EU project called [Diversify](http://diversify-project.eu) which aims at using 'Diversity' as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.
