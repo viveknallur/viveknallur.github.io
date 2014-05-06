@@ -12,7 +12,7 @@ Diversify
 =======
 [Diversify](http://diversify-project.eu/) is an EU FP7 project, that aims at 
 leveraging diversity, to improve software systems. An inter-disciplinary 
-effort, one of our partners is the ECOBIO[^1]
+effort, one of our partners is the ECOBIO[^1] group
  from the [Université de Rennes 1](http://www.univ-rennes1.fr/english/). The 
 intent is that knowledge, concepts, and techniques flow in a two-way stream, 
 between ecology and computer science. The full list of partners is as follows:
@@ -23,7 +23,6 @@ between ecology and computer science. The full list of partners is as follows:
 * [Université de Rennes 1](http://www.univ-rennes1.fr/english/)
 
 [^1]: http://ecobio.univ-rennes1.fr/dernieres_publications.php
-
 
 Other Research
 --------------
@@ -38,5 +37,3 @@ Google Scholar link
 -------------------
 [Papers and Citations](http://scholar.google.com/citations?user=TeqJsjcAAAAJ)
 
-
-=--
