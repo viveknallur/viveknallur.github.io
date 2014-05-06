@@ -2,10 +2,10 @@
 lsi         : false
 pygments    : true
 permalink   : none
-markdown    : maruku
+markdown    : kramdown
 baseurl     : http://www.scss.tcd.ie/~nallurv
 
-maruku:
+kramdown:
     use_divs: true
     use_tex: true
     png_engine : blahtex
