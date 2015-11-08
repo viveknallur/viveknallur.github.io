@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diversify on Vivek Nallur</title>
+    <link>http://viveknallur.github.io/tags/diversify/</link>
+    <description>Recent content in Diversify on Vivek Nallur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <atom:link href="http://viveknallur.github.io/tags/diversify/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Least Noise Routing!</title>
+      <link>http://viveknallur.github.io/smarthopper/least_noise_routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smarthopper/least_noise_routing/</guid>
+      <description>
+
+&lt;h3 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
