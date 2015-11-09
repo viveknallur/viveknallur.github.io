@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diversifies on Vivek Nallur</title>
-    <link>http://localhost:1313/diversify/</link>
+    <link>http://viveknallur.github.io/diversify/</link>
     <description>Recent content in Diversifies on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/diversify/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://viveknallur.github.io/diversify/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Algorithmic Diversity</title>
-      <link>http://localhost:1313/diversify/algorithmic-diversity/</link>
+      <link>http://viveknallur.github.io/diversify/algorithmic-diversity/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/diversify/algorithmic-diversity/</guid>
+      <guid>http://viveknallur.github.io/diversify/algorithmic-diversity/</guid>
       <description>&lt;p&gt;Algorithmic diversity aims to quantify the amount of natural diversity available in a pool of algorithms, and their effect on system properties.  In many domains,
 there are multiple algorithms available that can perform the same / similar tasks. For example, there are a plethora of algorithms available for sorting, load-balancing,
 compression, etc. Almost every computer science student studies multiple sorting algorithms, and their respective complexity (big-O). Apart from complexity, there are
@@ -33,10 +33,10 @@ amount of diversity in this pool? These are some of the questions that we aim to
     
     <item>
       <title>The Diversify Project</title>
-      <link>http://localhost:1313/diversify/introduction/</link>
+      <link>http://viveknallur.github.io/diversify/introduction/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/diversify/introduction/</guid>
+      <guid>http://viveknallur.github.io/diversify/introduction/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://diversify-project.eu/&#34;&gt;Diversify&lt;/a&gt; is an EU FP7 project, that aims at
 leveraging diversity, to improve software systems.  An inter-disciplinary
 effort, one of our partners is the ECOBIO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; group
