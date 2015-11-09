@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivek Nallur</title>
-    <link>http://viveknallur.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
     <lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://viveknallur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Future Cities</title>
-      <link>http://viveknallur.github.io/smartcities/futurecities/</link>
+      <link>http://localhost:1313/smartcities/futurecities/</link>
       <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
+      <guid>http://localhost:1313/smartcities/futurecities/</guid>
       <description>
 
 &lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
@@ -49,10 +49,10 @@ to bear legal policy, urban planning, economic incentives, and educational aware
     
     <item>
       <title>Algorithmic Diversity</title>
-      <link>http://viveknallur.github.io/diversify/algorithmic-diversity/</link>
+      <link>http://localhost:1313/diversify/algorithmic-diversity/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/diversify/algorithmic-diversity/</guid>
+      <guid>http://localhost:1313/diversify/algorithmic-diversity/</guid>
       <description>&lt;p&gt;Algorithmic diversity aims to quantify the amount of natural diversity available in a pool of algorithms, and their effect on system properties.  In many domains,
 there are multiple algorithms available that can perform the same / similar tasks. For example, there are a plethora of algorithms available for sorting, load-balancing,
 compression, etc. Almost every computer science student studies multiple sorting algorithms, and their respective complexity (big-O). Apart from complexity, there are
@@ -70,17 +70,17 @@ amount of diversity in this pool? These are some of the questions that we aim to
     
     <item>
       <title>Research Interests</title>
-      <link>http://viveknallur.github.io/research/interests/</link>
+      <link>http://localhost:1313/research/interests/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/research/interests/</guid>
+      <guid>http://localhost:1313/research/interests/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;m very interested in complex self-adaptive systems, engineering emergent
 feedback loops, predicting and controlling emergence in humano-tech systems
 (where technical systems interact heavily with human desires/abilities),
 engineering robust systems from non-robust parts. If you&amp;rsquo;re interested in
-collaborating, or just want to chat about a specific topic, &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;get in
+collaborating, or just want to chat about a specific topic, &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;get in
 touch&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;multi-agent-systems:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Multi-Agent Systems&lt;/h2&gt;
@@ -129,10 +129,10 @@ for a particular behaviour is considerably more difficult :-). But, that&amp;rsq
     
     <item>
       <title>The Diversify Project</title>
-      <link>http://viveknallur.github.io/diversify/introduction/</link>
+      <link>http://localhost:1313/diversify/introduction/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/diversify/introduction/</guid>
+      <guid>http://localhost:1313/diversify/introduction/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://diversify-project.eu/&#34;&gt;Diversify&lt;/a&gt; is an EU FP7 project, that aims at
 leveraging diversity, to improve software systems.  An inter-disciplinary
 effort, one of our partners is the ECOBIO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; group
@@ -171,10 +171,10 @@ between ecology and computer science. The full list of partners is as follows:&l
     
     <item>
       <title>About Me</title>
-      <link>http://viveknallur.github.io/contact/about/</link>
+      <link>http://localhost:1313/contact/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/contact/about/</guid>
+      <guid>http://localhost:1313/contact/about/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
@@ -198,10 +198,10 @@ Dublin&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>Contact Details</title>
-      <link>http://viveknallur.github.io/contact/details/</link>
+      <link>http://localhost:1313/contact/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/contact/details/</guid>
+      <guid>http://localhost:1313/contact/details/</guid>
       <description>
 
 &lt;h1 id=&#34;location:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Location&lt;/h1&gt;
@@ -226,10 +226,10 @@ Ireland&lt;/p&gt;
     
     <item>
       <title>SmartHopper</title>
-      <link>http://viveknallur.github.io/smarthopper/introduction/</link>
+      <link>http://localhost:1313/smarthopper/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smarthopper/introduction/</guid>
+      <guid>http://localhost:1313/smarthopper/introduction/</guid>
       <description>
 
 &lt;h4 id=&#34;introduction:2767292a573dc549b9b4297b701af3ab&#34;&gt;Introduction&lt;/h4&gt;
@@ -261,16 +261,16 @@ We are trying to get air pollution data of several kinds, which can be quite use
 not necessarily be the fastest or the shortest, but are more to their liking. We&amp;rsquo;re looking into tapping into Open Data from any source that is able to generate
 consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
 taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
-to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
+to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Least Noise Routing!</title>
-      <link>http://viveknallur.github.io/smarthopper/least_noise_routing/</link>
+      <link>http://localhost:1313/smarthopper/least_noise_routing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smarthopper/least_noise_routing/</guid>
+      <guid>http://localhost:1313/smarthopper/least_noise_routing/</guid>
       <description>
 
 &lt;h3 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h3&gt;

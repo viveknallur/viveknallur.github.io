@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smartcities on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/smartcities/</link>
+    <link>http://localhost:1313/smartcities/</link>
     <description>Recent content in Smartcities on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
     <lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://viveknallur.github.io/smartcities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/smartcities/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Future Cities</title>
-      <link>http://viveknallur.github.io/smartcities/futurecities/</link>
+      <link>http://localhost:1313/smartcities/futurecities/</link>
       <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
+      <guid>http://localhost:1313/smartcities/futurecities/</guid>
       <description>
 
 &lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to

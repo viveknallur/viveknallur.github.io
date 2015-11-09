@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smarthoppers on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/smarthopper/</link>
+    <link>http://localhost:1313/smarthopper/</link>
     <description>Recent content in Smarthoppers on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <atom:link href="http://viveknallur.github.io/smarthopper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/smarthopper/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Least Noise Routing!</title>
-      <link>http://viveknallur.github.io/smarthopper/least_noise_routing/</link>
+      <link>http://localhost:1313/smarthopper/least_noise_routing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smarthopper/least_noise_routing/</guid>
+      <guid>http://localhost:1313/smarthopper/least_noise_routing/</guid>
       <description>
 
 &lt;h3 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h3&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>SmartHopper</title>
-      <link>http://viveknallur.github.io/smarthopper/introduction/</link>
+      <link>http://localhost:1313/smarthopper/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smarthopper/introduction/</guid>
+      <guid>http://localhost:1313/smarthopper/introduction/</guid>
       <description>
 
 &lt;h4 id=&#34;introduction:2767292a573dc549b9b4297b701af3ab&#34;&gt;Introduction&lt;/h4&gt;
@@ -58,7 +58,7 @@ We are trying to get air pollution data of several kinds, which can be quite use
 not necessarily be the fastest or the shortest, but are more to their liking. We&amp;rsquo;re looking into tapping into Open Data from any source that is able to generate
 consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
 taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
-to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
+to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

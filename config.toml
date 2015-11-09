@@ -67,7 +67,7 @@ SectionPagesMenu = "Main"
         email = "&#118;&#105;&#118;&#101;&#107;&#46;&#110;&#97;&#108;&#108;&#117;&#114;&#64;&#115;&#99;&#115;&#115;&#46;&#116;&#99;&#100;&#46;&#105;&#101;"
 
         # Not providing this results in a color being used
-        image = "/images/gorilla.jpg"
+        image = "images/gorilla.jpg"
 
         # This uses the CSS background-position, given the image above is set,
         # useful when you want to adjust where the background-image lands
@@ -137,10 +137,10 @@ SectionPagesMenu = "Main"
             name = "Posts"
 
             # The link to associate with the cell, used when clicked
-            link = "/posts/"
+            link = "posts/"
 
             # The image to use as a background-image for the cell
-            image = "/images/thinking-machine.jpg"
+            image = "images/thinking-machine.jpg"
 
             # This uses the CSS background-position, given the image above is
             # set, useful when you want to adjust where the background-image
@@ -169,35 +169,35 @@ SectionPagesMenu = "Main"
         [[Params.Cells.List]]
 
             name = "Research"
-            link = "/research/"
-            image = "/images/oldman.jpg"
+            link = "research/"
+            image = "images/oldman.jpg"
 			always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "Diversify"
-            link = "/diversify/"
-            image = "/images/ecosystem.jpg"
+            link = "diversify/"
+            image = "images/ecosystem.jpg"
 			always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "Smart and Sustainable Cities"
-            link = "/smartcities/"
-            image = "/images/sustainablecity.jpg"
+            link = "smartcities/"
+            image = "images/sustainablecity.jpg"
 			always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "SmartHopper"
-            link = "/smarthopper/"
-            image = "/images/signposts.jpg"
+            link = "smarthopper/"
+            image = "images/signposts.jpg"
 			always_show_text = true
 
         [[Params.Cells.List]]
 
             name = "About Me"
-            link = "/contact/"
-            image = "/images/grinning-mug.jpg"
+            link = "contact/"
+            image = "images/grinning-mug.jpg"
 			always_show_text = true
 
