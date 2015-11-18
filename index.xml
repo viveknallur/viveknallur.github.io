@@ -93,25 +93,6 @@ amount of diversity in this pool? These are some of the questions that we aim to
     </item>
     
     <item>
-      <title>Publication List</title>
-      <link>http://viveknallur.github.io/research/publications/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/research/publications/</guid>
-      <description>
-
-&lt;h3 id=&#34;my-publication-list:480c4de99851329b51acecc000e2e84f&#34;&gt;My publication list&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;A decentralized self-adaptation mechanism for service-based applications in the cloud&lt;/strong&gt;
-    &amp;gt;! &lt;em&gt;IEEE Transactions on Software Engineering (TSE)&lt;/em&gt;, 39(5), 591&amp;ndash;612, 2013
-    &amp;gt;! DOI: 10.1109/TSE.2012.53&lt;/p&gt;
-
-&lt;p&gt;** Design of a market-based mechanism for quality attribute tradeoff of services in the cloud**
-    &amp;gt;! Proceedings of the 2010 ACM Symposium on Applied Computing, 367&amp;ndash;371&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research Interests</title>
       <link>http://viveknallur.github.io/research/interests/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -171,6 +152,25 @@ for a particular behaviour is considerably more difficult :-). But, that&amp;rsq
     </item>
     
     <item>
+      <title>Publication List</title>
+      <link>http://viveknallur.github.io/research/publications/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/research/publications/</guid>
+      <description>
+
+&lt;h3 id=&#34;my-publication-list:480c4de99851329b51acecc000e2e84f&#34;&gt;My publication list&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;A decentralized self-adaptation mechanism for service-based applications in the cloud&lt;/strong&gt;
+    &amp;gt;! &lt;em&gt;IEEE Transactions on Software Engineering (TSE)&lt;/em&gt;, 39(5), 591&amp;ndash;612, 2013
+    &amp;gt;! DOI: 10.1109/TSE.2012.53&lt;/p&gt;
+
+&lt;p&gt;** Design of a market-based mechanism for quality attribute tradeoff of services in the cloud**
+    &amp;gt;! Proceedings of the 2010 ACM Symposium on Applied Computing, 367&amp;ndash;371&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Diversify Project</title>
       <link>http://viveknallur.github.io/diversify/introduction/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
@@ -213,33 +213,6 @@ between ecology and computer science. The full list of partners is as follows:&l
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>http://viveknallur.github.io/contact/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
-traveller.  I love asking questions, and then launching on a search for answers
-to those questions. Hence, my career as a researcher came, more or less,
-naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
-paragraph!&lt;/p&gt;
-
-&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
-
-&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
-&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
-Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
-Dublin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
-
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact Details</title>
       <link>http://viveknallur.github.io/contact/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -264,6 +237,33 @@ Ireland&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Tel&lt;/em&gt;: +353 (1) 896 1543&lt;br /&gt;
 &lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://viveknallur.github.io/contact/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/contact/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
+traveller.  I love asking questions, and then launching on a search for answers
+to those questions. Hence, my career as a researcher came, more or less,
+naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
+paragraph!&lt;/p&gt;
+
+&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
+&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
+Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
+Dublin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
+
+&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
 </description>
     </item>
     
