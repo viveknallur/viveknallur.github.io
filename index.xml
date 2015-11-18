@@ -240,34 +240,6 @@ Dublin&lt;/a&gt;.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Contact Details</title>
-      <link>http://viveknallur.github.io/contact/details/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/details/</guid>
-      <description>
-
-&lt;h1 id=&#34;location:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Location&lt;/h1&gt;
-
-&lt;p&gt;Lloyd Institute(&lt;a href=&#34;https://www.tcd.ie/Maps/&#34;&gt;Map&lt;/a&gt;)&lt;br /&gt;
-&lt;strong&gt;Office&lt;/strong&gt;: 1.17&lt;/p&gt;
-
-&lt;h1 id=&#34;postal:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Postal&lt;/h1&gt;
-
-&lt;p&gt;Distributed Systems Group,&lt;br /&gt;
-School of Computer Science &amp;amp; Statistics,&lt;br /&gt;
-Trinity College,&lt;br /&gt;
-Dublin 2,&lt;br /&gt;
-Ireland&lt;/p&gt;
-
-&lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;Tel&lt;/em&gt;: +353 (1) 896 1543&lt;br /&gt;
-&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>SmartHopper</title>
       <link>http://viveknallur.github.io/smarthopper/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -305,6 +277,34 @@ not necessarily be the fastest or the shortest, but are more to their liking. We
 consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
 taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
 to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Details</title>
+      <link>http://viveknallur.github.io/contact/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/contact/details/</guid>
+      <description>
+
+&lt;h1 id=&#34;location:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Location&lt;/h1&gt;
+
+&lt;p&gt;Lloyd Institute(&lt;a href=&#34;https://www.tcd.ie/Maps/&#34;&gt;Map&lt;/a&gt;)&lt;br /&gt;
+&lt;strong&gt;Office&lt;/strong&gt;: 1.17&lt;/p&gt;
+
+&lt;h1 id=&#34;postal:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Postal&lt;/h1&gt;
+
+&lt;p&gt;Distributed Systems Group,&lt;br /&gt;
+School of Computer Science &amp;amp; Statistics,&lt;br /&gt;
+Trinity College,&lt;br /&gt;
+Dublin 2,&lt;br /&gt;
+Ireland&lt;/p&gt;
+
+&lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Tel&lt;/em&gt;: +353 (1) 896 1543&lt;br /&gt;
+&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
 </description>
     </item>
     
