@@ -11,25 +11,6 @@
     <atom:link href="http://viveknallur.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Publication List</title>
-      <link>http://viveknallur.github.io/research/publications/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/research/publications/</guid>
-      <description>
-
-&lt;h3 id=&#34;my-publication-list:480c4de99851329b51acecc000e2e84f&#34;&gt;My publication list&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;A decentralized self-adaptation mechanism for service-based applications in the cloud&lt;/strong&gt;
-    &amp;gt;! &lt;em&gt;IEEE Transactions on Software Engineering (TSE)&lt;/em&gt;, 39(5), 591&amp;ndash;612, 2013
-    &amp;gt;! DOI: 10.1109/TSE.2012.53&lt;/p&gt;
-
-&lt;p&gt;** Design of a market-based mechanism for quality attribute tradeoff of services in the cloud**
-    &amp;gt;! Proceedings of the 2010 ACM Symposium on Applied Computing, 367&amp;ndash;371&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research Interests</title>
       <link>http://viveknallur.github.io/research/interests/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
