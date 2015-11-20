@@ -17,36 +17,7 @@
       <guid>http://viveknallur.github.io/smarthopper/least_noise_routing/</guid>
       <description>
 
-&lt;h5 id=&#34;screenshots-of-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of SmartHopper in Action&lt;/h5&gt;
-
-&lt;p&gt;SmartHopper is able to use sensor data, gathered from smartphones, and integrate them with maps.  This allows citizens to make queries other than the usual
-&lt;em&gt;fastest&lt;/em&gt; or &lt;em&gt;shortest&lt;/em&gt; routes between two points. Citizens can also now ask for the &lt;strong&gt;Least Noisy Route&lt;/strong&gt;. The fact that the noise data is collected by
-the citizens, in the first place, closes the loop between participatory sensing (where data is voluntarily collected by participants) and the people that live
-in the city&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14e155c9dfbc473b106c3b0188962a23:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14e155c9dfbc473b106c3b0188962a23:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you first start the SmartHopper software, it looks pretty much like any other map/routing software
-&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Normal-Routing-Without-Noise.png&#34; width=&#34;800&#34; height=&#34;360&#34; alt=&#34;SmartHopper normal routing without noise&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;But then when you look for the Least Noisy Route, it searches through the noise data collected by the smartphones, and &lt;em&gt;calculates&lt;/em&gt; the least noisy routes. There&amp;rsquo;s
-also an overlay, that allows you to visualize the noise over all the streets in the city.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least-Noise-Routing.png&#34; width=&#34;800&#34; height=&#34;360&#34; alt=&#34;SmartHopper routing with noise overlay&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you look carefully, you&amp;rsquo;ll notice that it&amp;rsquo;s not just an overlay, but the suggested route has also changed!&lt;/p&gt;
-
-&lt;h5 id=&#34;other-uses:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Other Uses&lt;/h5&gt;
-
-&lt;p&gt;Noise is only one of the sensors that is available in a city. The uses that SmartHopper can be put to, are limited only by your imagination and the availability of data.
-If you have a particular use-case in mind, or if you would like to use SmartHopper for your own city, &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;get in touch&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:14e155c9dfbc473b106c3b0188962a23:1&#34;&gt;Cardozo, Nicolas and Vivek Nallur, Clarke, Siobhan. Enabling Participatory Routing Using A Smart City Platform. Accepted for publication in IEEE Smart Cities Conference, 2015
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14e155c9dfbc473b106c3b0188962a23:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
+&lt;h3 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h3&gt;
 </description>
     </item>
     
@@ -88,6 +59,25 @@ not necessarily be the fastest or the shortest, but are more to their liking. We
 consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
 taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
 to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SmartHopper Demo!</title>
+      <link>http://viveknallur.github.io/smarthopper/on_youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smarthopper/on_youtube/</guid>
+      <description>
+
+&lt;h5 id=&#34;smarthopper-is-now-on-youtube:1a3f305a9aa36c3eee1013f1fb70ba33&#34;&gt;SmartHopper is now on Youtube!&lt;/h5&gt;
+
+&lt;p&gt;If a picture is worth a thousand words, a video is worth, well, a book-chapter
+at least. Here&amp;rsquo;s &lt;a href=&#34;https://www.scss.tcd.ie/~cardozon/&#34;&gt;Nicolas Cardozo&lt;/a&gt; from our
+group demonstrating how to use SmartHopper for a whole variety of use-cases&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RWlJ4ibfuT0&#34; title=&#34;SmartHopper Demo&#34;&gt;&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/smarthopper-video-shot.png&#34; alt=&#34;SmartHopper Demonstration Video&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
