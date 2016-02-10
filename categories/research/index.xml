@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AAMAS&#39;16 Paper Accepted</title>
+      <link>http://viveknallur.github.io/posts/aamas-acceptance/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
+      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
+Yaay!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Successful Thesis Defense!</title>
+      <link>http://viveknallur.github.io/posts/eamonn-passes/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/eamonn-passes/</guid>
+      <description>
+
+&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours:d098cef219f9391405a424ae6f194f17&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours!&lt;/h5&gt;
+
+&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FutureCities on YouTube!</title>
@@ -16,9 +43,7 @@
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/futurecities-youtube/</guid>
-      <description>
-
-&lt;h5 id=&#34;futurecities-now-has-a-youtube-channel:d58494e4701130dbed7cfd9f64c6c876&#34;&gt;FutureCities now has a Youtube! channel&lt;/h5&gt;
+      <description>&lt;p&gt;FutureCities now has a Youtube! channel&lt;/p&gt;
 
 &lt;p&gt;The FutureCities centre now has a Youtube! channel, so it&amp;rsquo;s easier to find all
 of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
@@ -115,8 +140,8 @@ to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknal
 &lt;h5 id=&#34;smarthopper-is-now-on-youtube:1a3f305a9aa36c3eee1013f1fb70ba33&#34;&gt;SmartHopper is now on Youtube!&lt;/h5&gt;
 
 &lt;p&gt;If a picture is worth a thousand words, a video is worth, well, a book-chapter
-at least. Here&amp;rsquo;s &lt;a href=&#34;https://www.scss.tcd.ie/~cardozon/&#34;&gt;Nicolas Cardozo&lt;/a&gt; from our
-group demonstrating how to use SmartHopper for a whole variety of use-cases&lt;/p&gt;
+at least. Here&amp;rsquo;s &lt;a href=&#34;https://www.scss.tcd.ie/~cardozon/&#34;&gt;Nicolas Cardozo&lt;/a&gt;, from our
+group, demonstrating how to use SmartHopper for a whole variety of use-cases. If you don&amp;rsquo;t hear any audio, don&amp;rsquo;t fret. He&amp;rsquo;s the strong and silent type.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RWlJ4ibfuT0&#34; title=&#34;SmartHopper Demo&#34;&gt;&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/smarthopper-video-shot.png&#34; alt=&#34;SmartHopper Demonstration Video&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;

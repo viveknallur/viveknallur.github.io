@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site on Vivek Nallur</title>
+    <link>http://viveknallur.github.io/tags/site/</link>
+    <description>Recent content in Site on Vivek Nallur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <lastBuildDate>Wed, 15 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://viveknallur.github.io/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Thinking Primate</title>
+      <link>http://viveknallur.github.io/contact/thinking-ape/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/contact/thinking-ape/</guid>
+      <description>&lt;p&gt;Some folks have asked (maybe more have silently wondered) why the landing page features an ape. Especially since, as an academic, the general thrust
+of a website is to promote a &amp;lsquo;respectable&amp;rsquo; image of the owner. I suppose, in some weird way, it&amp;rsquo;s a rebellion against the carefully manufactured  image that
+most computer scientists / academics put out into the world (be it of a hacker, thinker, cool-dude, name-your-stereotype). Having an ape be the first impression leads to
+a distortion of what people expect from an academic&amp;rsquo;s site. It lets visitors take me a little less seriously, and reminds me that everything is ephemeral (impressions, papers, philosophies).
+It&amp;rsquo;s better to live life, than to think about living it.&lt;/p&gt;
+
+&lt;p&gt;Also, in a way, it pays homage to my evolutionary grand-parents. It always pays to know your roots.&lt;/p&gt;
+
+&lt;p&gt;Besides, my wife thinks the resemblance is quite striking :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Site Design</title>
+      <link>http://viveknallur.github.io/contact/site/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/contact/site/</guid>
+      <description>&lt;p&gt;Unfortunately, for some reason, during my academic and professional journey through computer science,
+I&amp;rsquo;ve never picked up website design/technologies. While I was in school, HTML 3.x was still
+the standard (yes, I&amp;rsquo;m slightly ancient), javascript was pretty clunky and css was still in its infancy.&lt;/p&gt;
+
+&lt;p&gt;While, I&amp;rsquo;ve gone on to learn bits of Oz, Lisp, Ruby, Python, R, Julia, I&amp;rsquo;ve never gone back to picking up
+web-based technologies. Hence, creating websites is a dark art for me. Thankfully, the advent of static website generators
+has come to my rescue, and my site is now more than just one big page like some really old professors&amp;rsquo; sites! (Fancy css + javascript based one-page sites are staging a come-back, though)&lt;/p&gt;
+
+&lt;p&gt;This avatar of my site is powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with the &lt;a href=&#34;https://github.com/chipsenkbeil/grid-side&#34;&gt;Grid-Side&lt;/a&gt; theme.
+Many thanks to the creators of these tools!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

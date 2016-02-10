@@ -14,7 +14,7 @@
     <meta name="description" content="">
     
     <meta name="generator" content="Hugo 0.14" />
-    <meta name="generation-date" content="2015-11-20 17:59:43.00663021 &#43;0000 GMT">
+    <meta name="generation-date" content="2016-02-10 18:58:14.162169086 &#43;0000 GMT">
     <title>The Diversify Project &middot; Vivek Nallur</title>
     <link rel="shortcut icon" href="http://viveknallur.github.io/img/favicon.ico">
     <link rel="icon" href="http://viveknallur.github.io/img/favicon.ico">
@@ -202,7 +202,9 @@
 
                     <section>
                         
-                            <p><a href="http://diversify-project.eu/">Diversify</a> is an EU FP7 project, that aims at
+                            
+
+<p><a href="http://diversify-project.eu/">Diversify</a> is an EU FP7 project, that aims at
 leveraging diversity, to improve software systems.  An inter-disciplinary
 effort, one of our partners is the ECOBIO<sup class="footnote-ref" id="fnref:2767292a573dc549b9b4297b701af3ab:1"><a rel="footnote" href="#fn:2767292a573dc549b9b4297b701af3ab:1">1</a></sup> group
  from the <a href="http://www.univ-rennes1.fr/english/">Université de Rennes 1</a>. The
@@ -219,13 +221,33 @@ between ecology and computer science. The full list of partners is as follows:</
 <p>TCD works, along with INRIA and SINTEF, to automatically insert diversity into software. There are several levels at which a software system can be characterized:</p>
 
 <ul>
-<li>Source code level</li>
-<li>Algorithmic level</li>
-<li>Architectural level</li>
+<li><a href="https://people.rennes.inria.fr/Benoit.Baudry/data/">Source code level</a></li>
+<li><a href="http://viveknallur.github.io/diversify/algorithmic-diversity">Algorithmic level</a></li>
+<li><a href="https://www.sintef.no/en/publication/?pubid=CRIStin+1280693">Architectural level</a></li>
 <li>Ecosystem level (one piece of software in relation to others)</li>
 </ul>
 
-<p>At each of these levels, our perspectives and concerns are different, and so are the basic units that can be manipulated.</p>
+<p>At each of these levels, our perspectives and concerns are different, and so are
+the basic units that can be manipulated. At TCD, we are focussed on the change
+in system, induced due to <a href="http://viveknallur.github.io/diversify/algorithmic-diversity">algorithmic
+diversity</a>.  That is, can we predict the
+effect on a system, produced <em>solely</em> due to the presence of a diversity of
+algorithms?  What does it mean to have a &ldquo;diversity of algorithms&rdquo; anyway? If
+diversity is better (or worse), can we increase (or decrease) this diversity, in
+an automated manner? These are the questions that we seek to answer, in this
+project.</p>
+
+<h2 id="smarthopper:2767292a573dc549b9b4297b701af3ab">SmartHopper</h2>
+
+<p>The Diversify project also uses a smart-mobility test-bed to experiment with,
+for all of the diversification techniques mentioned above, <em>i.e.</em>,
+<a href="http://viveknallur.github.io/smarthopper/">SmartHopper</a>. SmartHopper is derived from the open-source
+routing project, <a href="https://github.com/graphhopper/graphhopper/">GraphHopper Library</a>, by the lovely folk at <a href="https://graphhopper.com/">GraphHopper</a></p>
+
+<p>We&rsquo;ve made a fair few modifications to it, to enable both, experimentation with
+diversification techniques, as well as allow sensor information to be utilized
+on top of OpenStreetMaps plus routing. For more details, look at the
+<a href="http://viveknallur.github.io/smarthopper/">SmartHopper page</a></p>
 <div class="footnotes">
 
 <hr />
