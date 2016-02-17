@@ -231,6 +231,48 @@ forms of experimentation: having all agents follow simple rules, implementing co
 being used at the same time, are all possible with relatively simple conceptual structures. Decoding the end result and teasing out the real factor(s) responsible
 for a particular behaviour is considerably more difficult :-). But, that&amp;rsquo;s a part of the fun!&lt;/p&gt;
 
+&lt;h3 id=&#34;decentralized-self-adaptation:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Decentralized Self-Adaptation&lt;/h3&gt;
+
+&lt;p&gt;Self-Adaptation as a concept, has been recognized for a long time, from
+biological systems to human affairs. Most natural systems exhibit this
+phenomena, viz, the effecting of change by a system to ensure that it continues
+to achieve the utility that it previously did. Different self-adaptive systems
+exhibit adaptivity in different ways. In human-designed systems, the first
+systematic efforts to create a self-adaptive system have been in the domain of
+control loop design. Regardless of the type, most systems can be differentiated on the basis on
+where the locus of control for self-adaptation lies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Centralized&lt;/strong&gt;: In these type of systems, there is usually a hierarchy of
+components.
+Components at higher levels are responsible for goal management and planning for
+change while those at lower levels are responsible for immediate action
+and feedback. Decision-making is concentrated in one or a closely related set of
+components. Centralized self-adaptive systems exhibit a communication pattern
+that is
+characterized by sensory information (data) flowing from dumb components to the
+central decision maker, and instructions (commands) flowing from the decision
+maker
+to the dumb components. ‘Dumb’is used here, in the sense of a component having
+no awareness of itself and its effects on the environment. Predictable and
+cohesive
+response to change are advantages of this type of system. However, reaction
+times get
+slower and slower as the size of the system increases.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Decentralized&lt;/strong&gt;: On the other hand, decentralized systems do not have a
+hierarchy of
+components. Each component acts as an individual agent with its own goals, and its
+own perception of the environment. This has the advantage of quick reaction to change.
+But it also has the disadvantage of being fragmented. That is, different components
+may react differently to the same change stimulus. This could make the self-adaptation
+inefficient or even deleterious. The challenge in building a decentralized
+system is to ensure that all the agents collectively move the system towards a common goal. This
+is usually accomplished by agents communicating amongst themselves. However, the
+lack of a centralized communication pattern means that the communication protocol
+must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h5 id=&#34;coin-coordination-organization-institutions-norms:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;COIN: Coordination, Organization, Institutions, Norms&lt;/h5&gt;
 
 &lt;p&gt;These are the particular problems using Multi-Agent Systems, that I&amp;rsquo;m interested in solving.&lt;/p&gt;
@@ -359,33 +401,6 @@ on top of OpenStreetMaps plus routing. For more details, look at the
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>http://viveknallur.github.io/contact/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
-traveller.  I love asking questions, and then launching on a search for answers
-to those questions. Hence, my career as a researcher came, more or less,
-naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
-paragraph!&lt;/p&gt;
-
-&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
-
-&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
-&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
-Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
-Dublin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
-
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact Details</title>
       <link>http://viveknallur.github.io/contact/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -411,6 +426,33 @@ Ireland&lt;/p&gt;
 &lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://viveknallur.github.io/contact/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/contact/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
+traveller.  I love asking questions, and then launching on a search for answers
+to those questions. Hence, my career as a researcher came, more or less,
+naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
+paragraph!&lt;/p&gt;
+
+&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
+&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
+Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
+Dublin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
+
+&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
 </description>
     </item>
     
