@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SEAMS&#39;16 Paper Accepted</title>
+      <link>http://viveknallur.github.io/posts/seams-acceptance/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/seams-acceptance/</guid>
+      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
+in Multi-Agent Systems&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;
+Yaay!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AAMAS&#39;16 Paper Accepted</title>
@@ -77,43 +91,6 @@ and the components themselves, change dynamically?&lt;/em&gt;&lt;/li&gt;
     </item>
     
     <item>
-      <title>Future Cities</title>
-      <link>http://viveknallur.github.io/smartcities/futurecities/</link>
-      <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
-      <description>
-
-&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
-conduct holistic research into all aspects of a smart and sustainable city, and not just view a city as a agglomeration of sensors and people.  It connects
-researchers across Trinity, and brings to bear multiple perspectives on the pressing problems of urban living. Typical smart city projects tend to concentrate
-on leveraging sensors and the much-vaunted &lt;em&gt;Internet of Things&lt;/em&gt;, to create technical solutions to human problems. We believe that while technology can and should
-play an important enabling role in a sustainable future, ultimately the citizens must take responsibility for their city. We investigate projects that can bring
-to bear legal policy, urban planning, economic incentives, and educational awareness to nudge citizens towards a healthier and sustainable future.&lt;/p&gt;
-
-&lt;h4 id=&#34;active-areas-of-research:0902b81ceffb0826a9dc92843526137b&#34;&gt;Active Areas of Research&lt;/h4&gt;
-
-&lt;p&gt;We work on areas such as:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/mobility/&#34;&gt;Smart Mobility&lt;/a&gt;: Future Cities&amp;rsquo; Mobility research strand focuses on addressing the effects of increasing road usage including delay, unpredictable journey times, exessive pollution, and driver frustration as well as to improve road safety.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/energy/&#34;&gt;Energy Management&lt;/a&gt;: The Future Cities’ Energy research strand focuses on technology development of platforms that enable services for urban energy management. The approaches investigated include forecasting energy demand, improving energy efficiency within the built environment and integrating renewable energy sources into the electrical grid.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/pollution/&#34;&gt;Pollution&lt;/a&gt;: The Future Cities’ Pollution research strand looks at improving methodologies for monitoring levels of urban pollution.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/citizen-engagement/&#34;&gt;Citizen Engagement&lt;/a&gt;: This research strands addresses how citizens can be integrated early in the research pipeline, to ensure that practical considerations are taken into account, highlighting potential negative impact on society (e.g., through weakened privacy and security) and effectively to co-design potential futures.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/urban-scale-data/&#34;&gt;Urban-Scale Data&lt;/a&gt;: This research strand addresses middleware and communications architectures to allow high volumes of data from public, business-owned and user-contributed sensors to be gathered and exploited by smart cities. This area merges wireless sensor networks, vehicular sensor networks, and participatory sensing.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;interested:0902b81ceffb0826a9dc92843526137b&#34;&gt;Interested?&lt;/h5&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Reproducible Results in Software Engineering</title>
       <link>http://viveknallur.github.io/research/reproducible_research/</link>
       <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
@@ -148,6 +125,43 @@ than redoing so much of it in a trivially different way.&lt;/p&gt;
 up on Docker Hub in a docker container. So, at the very least, folks can reproduce my results, if not build on it. I&amp;rsquo;m also trying to convince my colleagues to do the same.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://hub.docker.com/r/viveknallur/&#34;&gt;Vivek Nallur&amp;rsquo;s Docker Hub Repo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future Cities</title>
+      <link>http://viveknallur.github.io/smartcities/futurecities/</link>
+      <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
+conduct holistic research into all aspects of a smart and sustainable city, and not just view a city as a agglomeration of sensors and people.  It connects
+researchers across Trinity, and brings to bear multiple perspectives on the pressing problems of urban living. Typical smart city projects tend to concentrate
+on leveraging sensors and the much-vaunted &lt;em&gt;Internet of Things&lt;/em&gt;, to create technical solutions to human problems. We believe that while technology can and should
+play an important enabling role in a sustainable future, ultimately the citizens must take responsibility for their city. We investigate projects that can bring
+to bear legal policy, urban planning, economic incentives, and educational awareness to nudge citizens towards a healthier and sustainable future.&lt;/p&gt;
+
+&lt;h4 id=&#34;active-areas-of-research:0902b81ceffb0826a9dc92843526137b&#34;&gt;Active Areas of Research&lt;/h4&gt;
+
+&lt;p&gt;We work on areas such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/mobility/&#34;&gt;Smart Mobility&lt;/a&gt;: Future Cities&amp;rsquo; Mobility research strand focuses on addressing the effects of increasing road usage including delay, unpredictable journey times, exessive pollution, and driver frustration as well as to improve road safety.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/energy/&#34;&gt;Energy Management&lt;/a&gt;: The Future Cities’ Energy research strand focuses on technology development of platforms that enable services for urban energy management. The approaches investigated include forecasting energy demand, improving energy efficiency within the built environment and integrating renewable energy sources into the electrical grid.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/pollution/&#34;&gt;Pollution&lt;/a&gt;: The Future Cities’ Pollution research strand looks at improving methodologies for monitoring levels of urban pollution.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/citizen-engagement/&#34;&gt;Citizen Engagement&lt;/a&gt;: This research strands addresses how citizens can be integrated early in the research pipeline, to ensure that practical considerations are taken into account, highlighting potential negative impact on society (e.g., through weakened privacy and security) and effectively to co-design potential futures.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/urban-scale-data/&#34;&gt;Urban-Scale Data&lt;/a&gt;: This research strand addresses middleware and communications architectures to allow high volumes of data from public, business-owned and user-contributed sensors to be gathered and exploited by smart cities. This area merges wireless sensor networks, vehicular sensor networks, and participatory sensing.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;interested:0902b81ceffb0826a9dc92843526137b&#34;&gt;Interested?&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -206,6 +220,32 @@ do not stay at the same level, as when deployed.&lt;/p&gt;
 in a positive way, and if so, how do we quantify it? And herein lies the challenge. A little reflection would lead us to the conclusion that, in an uncertain
 operating environment, using a pool of algorithms would definitely affect the system&amp;rsquo;s robustness, but by how much? And can we pre-determine the
 amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://viveknallur.github.io/research/publications/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/research/publications/</guid>
+      <description>
+
+&lt;p&gt;Our paper entitled *&lt;em&gt;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo; accepted at [*AAMAS&amp;rsquo;2016&lt;/em&gt;](&lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;http://sis.smu.edu.sg/aamas2016&lt;/a&gt;)
+Yay! I&amp;rsquo;ll put up a pre-print as soon as I&amp;rsquo;ve got this page fixed, with a proper bibliographic style of some sort.&lt;/p&gt;
+
+&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa:480c4de99851329b51acecc000e2e84f&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
+
+&lt;div class=&#34;pubentry&#34;&gt;
+
+###### + Increasing Information in a Socio-Technical MAS Considered Contentious
+Vivek Nallur, Julien Monteil, Tyler Sammons, Melanie Bouroche, Siobhan Clarke. Eighth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), 2015
+
+&lt;/div&gt;
+
+&lt;h6 id=&#34;participatory-routing:480c4de99851329b51acecc000e2e84f&#34;&gt;+ Participatory Routing&lt;/h6&gt;
+
+&lt;p&gt;Vivek Nallur, Amal Elgammal, Siobhan Clarke.&lt;/p&gt;
 </description>
     </item>
     
@@ -311,32 +351,6 @@ must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>http://viveknallur.github.io/research/publications/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/research/publications/</guid>
-      <description>
-
-&lt;p&gt;Our paper entitled *&lt;em&gt;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo; accepted at [*AAMAS&amp;rsquo;2016&lt;/em&gt;](&lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;http://sis.smu.edu.sg/aamas2016&lt;/a&gt;)
-Yay! I&amp;rsquo;ll put up a pre-print as soon as I&amp;rsquo;ve got this page fixed, with a proper bibliographic style of some sort.&lt;/p&gt;
-
-&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa:480c4de99851329b51acecc000e2e84f&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
-
-&lt;div class=&#34;pubentry&#34;&gt;
-
-###### + Increasing Information in a Socio-Technical MAS Considered Contentious
-Vivek Nallur, Julien Monteil, Tyler Sammons, Melanie Bouroche, Siobhan Clarke. Eighth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), 2015
-
-&lt;/div&gt;
-
-&lt;h6 id=&#34;participatory-routing:480c4de99851329b51acecc000e2e84f&#34;&gt;+ Participatory Routing&lt;/h6&gt;
-
-&lt;p&gt;Vivek Nallur, Amal Elgammal, Siobhan Clarke.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Diversify Project</title>
       <link>http://viveknallur.github.io/diversify/introduction/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
@@ -401,35 +415,6 @@ on top of OpenStreetMaps plus routing. For more details, look at the
     </item>
     
     <item>
-      <title>Contact Details</title>
-      <link>http://viveknallur.github.io/contact/details/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/details/</guid>
-      <description>
-
-&lt;p&gt;The very many ways of getting in touch with me&lt;/p&gt;
-
-&lt;h1 id=&#34;location:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Location&lt;/h1&gt;
-
-&lt;p&gt;Lloyd Institute(&lt;a href=&#34;https://www.tcd.ie/Maps/&#34;&gt;Map&lt;/a&gt;)&lt;br /&gt;
-&lt;strong&gt;Office&lt;/strong&gt;: 1.17&lt;/p&gt;
-
-&lt;h1 id=&#34;postal:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Postal&lt;/h1&gt;
-
-&lt;p&gt;Distributed Systems Group,&lt;br /&gt;
-School of Computer Science &amp;amp; Statistics,&lt;br /&gt;
-Trinity College,&lt;br /&gt;
-Dublin 2,&lt;br /&gt;
-Ireland&lt;/p&gt;
-
-&lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>http://viveknallur.github.io/contact/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -457,43 +442,31 @@ Dublin&lt;/a&gt;.&lt;/p&gt;
     </item>
     
     <item>
-      <title>SmartHopper</title>
-      <link>http://viveknallur.github.io/smarthopper/introduction/</link>
+      <title>Contact Details</title>
+      <link>http://viveknallur.github.io/contact/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/smarthopper/introduction/</guid>
+      <guid>http://viveknallur.github.io/contact/details/</guid>
       <description>
 
-&lt;h4 id=&#34;introduction:2767292a573dc549b9b4297b701af3ab&#34;&gt;Introduction&lt;/h4&gt;
+&lt;p&gt;The very many ways of getting in touch with me&lt;/p&gt;
 
-&lt;p&gt;Ever since the SETI@Home project took off, the idea of using `crowd power&amp;rsquo; to help out with computing needs has been explored by many projects. The explosion of
-the smartphone market opened up a niche in this voluntary computing world. Suddenly, participatory sensing became a means to harness the power of the crowd
-in an almost-literal sense.  Given enough enthusiastic participants, researchers could potentially get access to sensor measurements that could be statistically
-massaged to get a treasure-trove of GPS-tagged data. However, the excitement of such potential quickly waned as the number of enthusiastic participants dropped with
-each additional participatory sensing app, that arrived on the app-market.&lt;/p&gt;
+&lt;h1 id=&#34;location:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Location&lt;/h1&gt;
 
-&lt;p&gt;We believe that more people can be motivated to contribute data to research, if this contribution can be linked to a tangible benefit that citizens can receive
-in turn, for volunteering their time and data. &lt;em&gt;SmartHopper&lt;/em&gt; is a smart mobility platform, developed at TCD, that incorporates participatory sensing and combines
-it with an open-source routing engine, to enable citizens to generate smarter routes for themselves.&lt;/p&gt;
+&lt;p&gt;Lloyd Institute(&lt;a href=&#34;https://www.tcd.ie/Maps/&#34;&gt;Map&lt;/a&gt;)&lt;br /&gt;
+&lt;strong&gt;Office&lt;/strong&gt;: 1.17&lt;/p&gt;
 
-&lt;h4 id=&#34;basic-idea:2767292a573dc549b9b4297b701af3ab&#34;&gt;Basic Idea&lt;/h4&gt;
+&lt;h1 id=&#34;postal:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Postal&lt;/h1&gt;
 
-&lt;p&gt;We collaborate with the good folks working on the &lt;a href=&#34;http://www.noisetube.net/&#34;&gt;NoiseTube Project&lt;/a&gt; at &lt;a href=&#34;http://www.vub.ac.be/&#34;&gt;Vrije Universiteit Brussel&lt;/a&gt; and ask volunteers to walk around Dublin city, so that
-we get noise measurements from different streets. Given enough walkers, we are able to generate a &lt;code&gt;Noise Map&lt;/code&gt; of Dublin on a street-by-street basis. Then we transform
-this data, and insert it into a Redis store. We also forked the open-source &lt;a href=&#34;http://graphhopper.com/&#34;&gt;GraphHopper&lt;/a&gt; project, to allow it to be deployed and queried
-using REST-based API. Now, when you query SmartHopper, it is able to combine a query for a route from (say) Trinity College to (say) Dundrum, with the noise information
-gathered from the volunteers and generate the `least noisy&amp;rsquo; route between them. This can be useful for parents with infants, or elderly people wishing to take a walk,
-as it enables them to choose a route, that is least affected by noise pollution. For more information about the architecture of the system, check out our &lt;a href=&#34;http://www.tara.tcd.ie/handle/2262/73955?show=full&#34;&gt;paper&lt;/a&gt;, published
-at the Open Source Systems conference. Also, check out the SmartHopper UI page, where you can see screenshots of the system in action.&lt;/p&gt;
+&lt;p&gt;Distributed Systems Group,&lt;br /&gt;
+School of Computer Science &amp;amp; Statistics,&lt;br /&gt;
+Trinity College,&lt;br /&gt;
+Dublin 2,&lt;br /&gt;
+Ireland&lt;/p&gt;
 
-&lt;h4 id=&#34;other-ideas:2767292a573dc549b9b4297b701af3ab&#34;&gt;Other Ideas&lt;/h4&gt;
+&lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
 
-&lt;p&gt;Noise is merely an exemplar of what is possible, by combining sensor data with other software. Smarter routes can be enabled, limited only by the availability of data.
-We are trying to get air pollution data of several kinds, which can be quite useful for sufferers of pollen allergies, asthma, etc. to generate routes that may
-not necessarily be the fastest or the shortest, but are more to their liking. We&amp;rsquo;re looking into tapping into Open Data from any source that is able to generate
-consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
-taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
-to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decentralized Adaptation on Vivek Nallur</title>
+    <link>http://viveknallur.github.io/categories/decentralized-adaptation/</link>
+    <description>Recent content in Decentralized Adaptation on Vivek Nallur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <lastBuildDate>Thu, 18 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://viveknallur.github.io/categories/decentralized-adaptation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SEAMS&#39;16 Paper Accepted</title>
+      <link>http://viveknallur.github.io/posts/seams-acceptance/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/seams-acceptance/</guid>
+      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
+in Multi-Agent Systems&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;
+Yaay!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
