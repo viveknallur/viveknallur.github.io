@@ -224,32 +224,6 @@ amount of diversity in this pool? These are some of the questions that we aim to
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>http://viveknallur.github.io/research/publications/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/research/publications/</guid>
-      <description>
-
-&lt;p&gt;Our paper entitled *&lt;em&gt;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo; accepted at [*AAMAS&amp;rsquo;2016&lt;/em&gt;](&lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;http://sis.smu.edu.sg/aamas2016&lt;/a&gt;)
-Yay! I&amp;rsquo;ll put up a pre-print as soon as I&amp;rsquo;ve got this page fixed, with a proper bibliographic style of some sort.&lt;/p&gt;
-
-&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa:480c4de99851329b51acecc000e2e84f&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
-
-&lt;div class=&#34;pubentry&#34;&gt;
-
-###### + Increasing Information in a Socio-Technical MAS Considered Contentious
-Vivek Nallur, Julien Monteil, Tyler Sammons, Melanie Bouroche, Siobhan Clarke. Eighth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), 2015
-
-&lt;/div&gt;
-
-&lt;h6 id=&#34;participatory-routing:480c4de99851329b51acecc000e2e84f&#34;&gt;+ Participatory Routing&lt;/h6&gt;
-
-&lt;p&gt;Vivek Nallur, Amal Elgammal, Siobhan Clarke.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research Interests</title>
       <link>http://viveknallur.github.io/research/interests/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -351,6 +325,58 @@ must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>http://viveknallur.github.io/research/publications/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/research/publications/</guid>
+      <description>
+
+&lt;p&gt;We are all measured by a number these days. So, here&amp;rsquo;s the mandatory Google Scholar link that leads to the citation count, for me:&lt;/p&gt;
+
+&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa:480c4de99851329b51acecc000e2e84f&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h5 id=&#34;the-list-in-reverse-chronological-order:480c4de99851329b51acecc000e2e84f&#34;&gt;The List (in reverse chronological order)&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent Systems&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/ClonalPlasticity.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Accepted for publication in &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;, co-located with &lt;a href=&#34;http://2016.icse.cs.txstate.edu/&#34;&gt;ICSE&amp;rsquo;2016&lt;/a&gt; - 11th International Symposium on Software Engineering for Adaptive and Self-Managing Systems&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Algorithm Diversity - A Mechanism for Distributive Justice in a Socio-Technical MAS&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/aamas2016.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Accepted for publication in &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt; - International Conference on Autonomous Agents and Multiagent Systems&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Enabling Participatory Routing Using a Smart-City Platform&lt;/em&gt;&lt;br /&gt;
+1^st IEEE Smart Cities Conference, Guadalajara, October 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Increasing Information in a Socio-Technical MAS Considered Contentious&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/sasow-15.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Ninth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), September 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;On Architectural Diversity of Dynamic Adaptive Systems&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/icse-nier-2015.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+37^th International Conference on Software Engineering - New Ideas and Emerging Results, May 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Smart Route Planning Using Open Data and Participatory Sensing&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/SmartRoutePlanning.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+11^th Conference on Open Source Systems: Adoption and Impact&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Towards Decentralized Detection of Emergence in Complex Adaptive Systems&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/Saso-Emergence.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Eighth IEEE Conference on Self-Adaptive and Self-Organizing Systems, September 2014&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It&amp;rsquo;s good to be different: Diversity, Heterogeneity and Dynamics in Collective Systems&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/sasow-14.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Eighth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), September 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A Decentralized Self-Adaptation Mechanism for Service-Based Applications in the Cloud&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/TSE-2013.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+IEEE Transactions on Software Engineering, Vol 39:5, Pages 591&amp;ndash;612, 2013&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Self-Adapting Applications Based on QA Requirements in the Cloud Using Market-Based Heuristics&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/servicewave-2010.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Towards a Service-Based Internet, SERVICEWAVE, 2010&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Design of a Market-Based Mechanism for Quality Attribute Tradeoff of Services in the Cloud&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/SAC-preprint.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+25^th ACM Symposium on Applied Computing, 2010&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Self-optimizing architecture for ensuring Quality Attributes in the Cloud&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/wicsa-ecsa-2009.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Joint Working IEEE/IFIP Conference on Software Architecture - WICSA/ECSA, 2009&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Diversify Project</title>
       <link>http://viveknallur.github.io/diversify/introduction/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
@@ -415,33 +441,6 @@ on top of OpenStreetMaps plus routing. For more details, look at the
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>http://viveknallur.github.io/contact/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
-traveller.  I love asking questions, and then launching on a search for answers
-to those questions. Hence, my career as a researcher came, more or less,
-naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
-paragraph!&lt;/p&gt;
-
-&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
-
-&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
-&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
-Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
-Dublin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
-
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact Details</title>
       <link>http://viveknallur.github.io/contact/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -467,6 +466,33 @@ Ireland&lt;/p&gt;
 &lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://viveknallur.github.io/contact/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/contact/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
+traveller.  I love asking questions, and then launching on a search for answers
+to those questions. Hence, my career as a researcher came, more or less,
+naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
+paragraph!&lt;/p&gt;
+
+&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
+&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
+Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
+Dublin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
+
+&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
 </description>
     </item>
     
