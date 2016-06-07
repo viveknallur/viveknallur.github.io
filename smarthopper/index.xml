@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <lastBuildDate>Sun, 03 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/smarthopper/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Smoothest Streets in Dublin</title>
+      <link>http://viveknallur.github.io/smarthopper/least_bumpy_ride/</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smarthopper/least_bumpy_ride/</guid>
+      <description>
+
+&lt;h4 id=&#34;least-bumpy-routing:2cd36ad9af90a975251feeaeed6d527a&#34;&gt;Least Bumpy Routing&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; extended to use road smoothness data provided by cyclists.&lt;/p&gt;
+
+&lt;p&gt;One of the aims of SmartHopper is to be able to accept any spatial sensor data provided by citizens, and turn it into
+useful information. One of our Masters&amp;rsquo; students is an avid cyclist, and he wrote an app that collected smoothness data
+from sensors attached to bikes. He then asked his friends to attach sensors and simply use it during their daily rides
+through the city. We were able to turn this road-by-road smoothness data into a heatmap and routing information with
+minimal effort (took us about 2-3 person days).&lt;/p&gt;
+
+&lt;p&gt;Take a look at the routing that&amp;rsquo;s now made possible, with SmartHopper
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least_Bumpy_800x600.jpg&#34; alt=&#34;Smoothest Cycling Route Through Dublin&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Notice, that in the visualization, the user can opt to see different layers of road smoothness. And also, SmartHopper simply took
+this information, and used it for providing the smoothest (or rather, &amp;ldquo;least bumpy&amp;rdquo;) route.&lt;/p&gt;
+
+&lt;p&gt;What else can you imagine SmartHopper being extended for?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Least Noise Routing!</title>
@@ -17,7 +47,21 @@
       <guid>http://viveknallur.github.io/smarthopper/least_noise_routing/</guid>
       <description>
 
-&lt;h3 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h3&gt;
+&lt;h4 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; fuses the routing engine, provided by the GraphHopper folks, with the participatory noise data collected by citizens.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what it looks like without the noise data being used:&lt;br /&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Normal-Routing-Without-Noise-800x600.png&#34; alt=&#34;Normal Usage&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Then, add the noise overlay created from the data uploaded from the smartphones of participating citizens&lt;br /&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Routing-with-Noise-Overlay-800x600.png&#34; alt=&#34;Noise Overlay&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;From the menu on the left hand side, change the &lt;em&gt;weighting&lt;/em&gt; to &lt;strong&gt;Least Noisy&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least-Noise-Routing-800x600.png&#34; alt=&#34;Least Noisy Route&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     

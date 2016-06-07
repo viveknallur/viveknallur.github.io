@@ -7,8 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Thu, 18 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Urban Infrastructure and Democracy</title>
+      <link>http://viveknallur.github.io/smartcities/city-systems-report/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smartcities/city-systems-report/</guid>
+      <description>&lt;p&gt;The term &lt;em&gt;smart cities&lt;/em&gt; gets a lot of play in the tech press and there are many companies that present solutions in this space. But the root cause of the problem isn&amp;rsquo;t
+the lack of technology. Rather, it is pressure of population and the scarcity of resources in urban agglomerations, in a future that seems almost as inevitable as climate change.&lt;/p&gt;
+
+&lt;p&gt;Given this dystopian near-future, sustainability is the most important aspect that a wannabe smart city should focus on. And sustainability requires active and enthusiastic
+participation from citizens. Instead of focussing on how many objects in a city are &lt;em&gt;connected&lt;/em&gt;, the emphasis should be on disseminating information and knowledge (which is quite a different concept) to
+citizens, so that they can participate fruitfully in how their city and life is governed. In my opinion, this is the smartest thing a smart-city could do.&lt;/p&gt;
+
+&lt;p&gt;Recently, the Indian government announced an &lt;a href=&#34;http://smartcities.gov.in/&#34;&gt;urban renewal and infrastructural development mission&lt;/a&gt; that envisages the creation of &lt;a href=&#34;http://www.makeinindia.com/article/-/v/internet-of-things&#34;&gt;100 smart cities&lt;/a&gt;
+as a part of a larger agenda of creating an industrial corridor between the existing mega-cities of Delhi, Mumbai, Chennai, and Kolkata. While the mission may be ambitious (and laudable)
+in terms of providing access to world-class infrastructure, to a large proportion of the population, it would be foolish to expect growth to be smooth and sustainable without explicit
+steps taken to ensure that this happens. Depending on city growth to somehow organically result in an increase in the quality of life is a recipe for disaster. Anyone who has
+navigated Bangalore traffic knows that unless urban infrastructural problems (and solutions) are measured and scrutinized regularly in an objective manner, there is no hope
+of improvement in city life.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.janaagraha.org/about-us/&#34;&gt;&lt;strong&gt;Janaagraha Centre for Citizenship and Democracy&lt;/strong&gt;&lt;/a&gt; attempts to provide the first part of the jigsaw, in this regard.
+Their &lt;a href=&#34;http://janaagraha.org/reports/ASICS-2015.pdf&#34;&gt;annual survey on city-systems&lt;/a&gt; is a data-rich report with problem evaluation and measurement. Anyone interested
+in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take a look. London and New York are included as benchmarks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Smoothest Streets in Dublin</title>
+      <link>http://viveknallur.github.io/smarthopper/least_bumpy_ride/</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smarthopper/least_bumpy_ride/</guid>
+      <description>
+
+&lt;h4 id=&#34;least-bumpy-routing:2cd36ad9af90a975251feeaeed6d527a&#34;&gt;Least Bumpy Routing&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; extended to use road smoothness data provided by cyclists.&lt;/p&gt;
+
+&lt;p&gt;One of the aims of SmartHopper is to be able to accept any spatial sensor data provided by citizens, and turn it into
+useful information. One of our Masters&amp;rsquo; students is an avid cyclist, and he wrote an app that collected smoothness data
+from sensors attached to bikes. He then asked his friends to attach sensors and simply use it during their daily rides
+through the city. We were able to turn this road-by-road smoothness data into a heatmap and routing information with
+minimal effort (took us about 2-3 person days).&lt;/p&gt;
+
+&lt;p&gt;Take a look at the routing that&amp;rsquo;s now made possible, with SmartHopper
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least_Bumpy_800x600.jpg&#34; alt=&#34;Smoothest Cycling Route Through Dublin&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Notice, that in the visualization, the user can opt to see different layers of road smoothness. And also, SmartHopper simply took
+this information, and used it for providing the smoothest (or rather, &amp;ldquo;least bumpy&amp;rdquo;) route.&lt;/p&gt;
+
+&lt;p&gt;What else can you imagine SmartHopper being extended for?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SEAMS&#39;16 Paper Accepted</title>
@@ -338,11 +393,13 @@ must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
 
 &lt;h5 id=&#34;the-list-in-reverse-chronological-order:480c4de99851329b51acecc000e2e84f&#34;&gt;The List (in reverse chronological order)&lt;/h5&gt;
 
-&lt;p&gt;&lt;em&gt;Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent Systems&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/ClonalPlasticity.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
-Accepted for publication in &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;, co-located with &lt;a href=&#34;http://2016.icse.cs.txstate.edu/&#34;&gt;ICSE&amp;rsquo;2016&lt;/a&gt; - 11th International Symposium on Software Engineering for Adaptive and Self-Managing Systems&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent
+Systems&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/ClonalPlasticity.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2897067&#34;&gt;11th International Symposium on Software Engineering for Adaptive and
+Self-Managing Systems&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Algorithm Diversity - A Mechanism for Distributive Justice in a Socio-Technical MAS&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/aamas2016.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
-Accepted for publication in &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt; - International Conference on Autonomous Agents and Multiagent Systems&lt;/p&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2936986&#34;&gt;AAMAS&amp;rsquo;2016 - International Conference on Autonomous Agents and Multiagent Systems&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Enabling Participatory Routing Using a Smart-City Platform&lt;/em&gt;&lt;br /&gt;
 1^st IEEE Smart Cities Conference, Guadalajara, October 2015&lt;/p&gt;
@@ -437,62 +494,6 @@ on top of OpenStreetMaps plus routing. For more details, look at the
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact Details</title>
-      <link>http://viveknallur.github.io/contact/details/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/details/</guid>
-      <description>
-
-&lt;p&gt;The very many ways of getting in touch with me&lt;/p&gt;
-
-&lt;h1 id=&#34;location:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Location&lt;/h1&gt;
-
-&lt;p&gt;Lloyd Institute(&lt;a href=&#34;https://www.tcd.ie/Maps/&#34;&gt;Map&lt;/a&gt;)&lt;br /&gt;
-&lt;strong&gt;Office&lt;/strong&gt;: 1.17&lt;/p&gt;
-
-&lt;h1 id=&#34;postal:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Postal&lt;/h1&gt;
-
-&lt;p&gt;Distributed Systems Group,&lt;br /&gt;
-School of Computer Science &amp;amp; Statistics,&lt;br /&gt;
-Trinity College,&lt;br /&gt;
-Dublin 2,&lt;br /&gt;
-Ireland&lt;/p&gt;
-
-&lt;h1 id=&#34;electronic:3789eaeeff8ecc2cfc6cb286a08a9c71&#34;&gt;Electronic&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://viveknallur.github.io/contact/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/contact/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
-traveller.  I love asking questions, and then launching on a search for answers
-to those questions. Hence, my career as a researcher came, more or less,
-naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
-paragraph!&lt;/p&gt;
-
-&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
-
-&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
-&lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
-Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
-Dublin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
-
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
 </description>
     </item>
     

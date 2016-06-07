@@ -7,8 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/smartcities/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Urban Infrastructure and Democracy</title>
+      <link>http://viveknallur.github.io/smartcities/city-systems-report/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/smartcities/city-systems-report/</guid>
+      <description>&lt;p&gt;The term &lt;em&gt;smart cities&lt;/em&gt; gets a lot of play in the tech press and there are many companies that present solutions in this space. But the root cause of the problem isn&amp;rsquo;t
+the lack of technology. Rather, it is pressure of population and the scarcity of resources in urban agglomerations, in a future that seems almost as inevitable as climate change.&lt;/p&gt;
+
+&lt;p&gt;Given this dystopian near-future, sustainability is the most important aspect that a wannabe smart city should focus on. And sustainability requires active and enthusiastic
+participation from citizens. Instead of focussing on how many objects in a city are &lt;em&gt;connected&lt;/em&gt;, the emphasis should be on disseminating information and knowledge (which is quite a different concept) to
+citizens, so that they can participate fruitfully in how their city and life is governed. In my opinion, this is the smartest thing a smart-city could do.&lt;/p&gt;
+
+&lt;p&gt;Recently, the Indian government announced an &lt;a href=&#34;http://smartcities.gov.in/&#34;&gt;urban renewal and infrastructural development mission&lt;/a&gt; that envisages the creation of &lt;a href=&#34;http://www.makeinindia.com/article/-/v/internet-of-things&#34;&gt;100 smart cities&lt;/a&gt;
+as a part of a larger agenda of creating an industrial corridor between the existing mega-cities of Delhi, Mumbai, Chennai, and Kolkata. While the mission may be ambitious (and laudable)
+in terms of providing access to world-class infrastructure, to a large proportion of the population, it would be foolish to expect growth to be smooth and sustainable without explicit
+steps taken to ensure that this happens. Depending on city growth to somehow organically result in an increase in the quality of life is a recipe for disaster. Anyone who has
+navigated Bangalore traffic knows that unless urban infrastructural problems (and solutions) are measured and scrutinized regularly in an objective manner, there is no hope
+of improvement in city life.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.janaagraha.org/about-us/&#34;&gt;&lt;strong&gt;Janaagraha Centre for Citizenship and Democracy&lt;/strong&gt;&lt;/a&gt; attempts to provide the first part of the jigsaw, in this regard.
+Their &lt;a href=&#34;http://janaagraha.org/reports/ASICS-2015.pdf&#34;&gt;annual survey on city-systems&lt;/a&gt; is a data-rich report with problem evaluation and measurement. Anyone interested
+in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take a look. London and New York are included as benchmarks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Future Cities</title>
