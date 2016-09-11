@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Vivek Nallur</title>
+    <link>http://viveknallur.github.io/tags/teaching/</link>
+    <description>Recent content in Teaching on Vivek Nallur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
+    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://viveknallur.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CS3012 - Software Engineering</title>
+      <link>http://viveknallur.github.io/teaching/cs3012/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/teaching/cs3012/</guid>
+      <description>
+
+&lt;p&gt;This is the landing page for the CS 3012 course on Software Engineering.&lt;/p&gt;
+
+&lt;p&gt;Here you can find announcements regarding the course, and slides.&lt;/p&gt;
+
+&lt;h4 id=&#34;announcements&#34;&gt;Announcements&lt;/h4&gt;
+
+&lt;h4 id=&#34;slides&#34;&gt;Slides&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

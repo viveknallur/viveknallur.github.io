@@ -12,10 +12,10 @@
     
     <item>
       <title>Algorithmic Diversity</title>
-      <link>http://viveknallur.github.io/diversify/algorithmic-diversity/</link>
+      <link>http://viveknallur.github.io/research/algorithmic-diversity/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/diversify/algorithmic-diversity/</guid>
+      <guid>http://viveknallur.github.io/research/algorithmic-diversity/</guid>
       <description>&lt;p&gt;Algorithmic diversity aims to quantify the amount of natural diversity available in a pool of algorithms, and their effect on system properties.  In many domains,
 there are multiple algorithms available that can perform the same / similar tasks. For example, there are a plethora of algorithms available for sorting, load-balancing,
 compression, etc. Almost every computer science student studies multiple sorting algorithms, and their respective complexity (big-O). Apart from complexity, there are

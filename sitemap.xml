@@ -3,8 +3,12 @@
   
   <url>
     <loc>http://viveknallur.github.io/</loc>
-    <lastmod>2016-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2016-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/teaching/cs3012/</loc>
+    <lastmod>2016-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,12 +47,12 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/research/reproducible_research/</loc>
+    <loc>http://viveknallur.github.io/smartcities/futurecities/</loc>
     <lastmod>2015-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/smartcities/futurecities/</loc>
+    <loc>http://viveknallur.github.io/research/reproducible_research/</loc>
     <lastmod>2015-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +67,7 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/diversify/algorithmic-diversity/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://viveknallur.github.io/research/interests/</loc>
+    <loc>http://viveknallur.github.io/research/algorithmic-diversity/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +77,13 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/diversify/introduction/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <loc>http://viveknallur.github.io/research/interests/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/contact/details/</loc>
+    <loc>http://viveknallur.github.io/smartcities/diversify/introduction/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -91,11 +91,15 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/smarthopper/introduction/</loc>
+    <loc>http://viveknallur.github.io/contact/details/</loc>
   </url>
   
   <url>
     <loc>http://viveknallur.github.io/smarthopper/least_noise_routing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/smarthopper/introduction/</loc>
   </url>
   
   <url>
