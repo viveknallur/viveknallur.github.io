@@ -7,8 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Sep 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Slides for CS3012</title>
+      <link>http://viveknallur.github.io/teaching/slides/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/teaching/slides/</guid>
+      <description>
+
+&lt;p&gt;Slides from the lectures for the CS 3012 course on Software Engineering can be
+found here.&lt;/p&gt;
+
+&lt;h5 id=&#34;slides:90014a872bdadc29d38e0ddafb91b9e9&#34;&gt;Slides&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/01-introduction.pdf&#34;&gt;Introduction to the Module&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CS3012 - Software Engineering</title>
@@ -20,11 +39,15 @@
 
 &lt;p&gt;This is the landing page for the CS 3012 course on Software Engineering.&lt;/p&gt;
 
-&lt;p&gt;Here you can find announcements regarding the course, and slides.&lt;/p&gt;
+&lt;p&gt;Here you can find announcements regarding the course, and other miscellaneous
+information.&lt;/p&gt;
 
-&lt;h4 id=&#34;announcements&#34;&gt;Announcements&lt;/h4&gt;
+&lt;h4 id=&#34;announcements:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Announcements&lt;/h4&gt;
 
-&lt;h4 id=&#34;slides&#34;&gt;Slides&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The module repository is now live and all students &lt;strong&gt;must&lt;/strong&gt; request access to
+be able to submit assignments&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
