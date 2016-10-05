@@ -14,7 +14,7 @@
     <meta name="description" content="">
     
     <meta name="generator" content="Hugo 0.14" />
-    <meta name="generation-date" content="2016-09-29 09:51:41.7360338 &#43;0100 IST">
+    <meta name="generation-date" content="2016-10-05 11:40:16.161804237 &#43;0100 IST">
     <title>CS3012 - Software Engineering &middot; Vivek Nallur</title>
     <link rel="shortcut icon" href="http://viveknallur.github.io/img/favicon.ico">
     <link rel="icon" href="http://viveknallur.github.io/img/favicon.ico">
@@ -213,9 +213,25 @@ information.</p>
 
 <h4 id="announcements:e3569ea0094b2f25a013d21134dc31b1">Announcements</h4>
 
+<p><p> We seem to be having problems with Gitlab (developers are not granted
+<code>push</code> access to the master branch, by default). You can get around this
+with the following set of commands:</p>
+
+<pre><code>your-cs3012_username-directory&gt; git checkout -b assignments
+your-cs3012_username-directory&gt; mkdir 1
+your-cs3012_username-directory&gt; cd 1
+your-cs3012_username-directory&gt; git add yourfile.java
+your-cs3012_username-directory&gt; git add EngineersLog.csv
+your-cs3012_username-directory&gt; git commit -a -m &quot;submission for assignment 1&quot;
+your-cs3012_username-directory&gt; git push origin assignments
+</code></pre>
+
+<p>Basically, the first command creates a new branch called &ldquo;assignments&rdquo; and switches to it. Then you can add or commit as many files as you want. Just remember to push to &ldquo;assignments&rdquo; and not &ldquo;master&rdquo;.</p>
+
 <ul>
-<li>The module repository is now live and all students <strong>must</strong> request access to
-be able to submit assignments</li>
+<li><p>Download your Engineer&rsquo;s Log <a href="http://viveknallur.github.io/misc/EngineerLog.csv">here</a></p></li>
+
+<li><p>Access assignment-1 <a href="http://viveknallur.github.io/misc/ricebugs.pdf">here</a></p></li>
 </ul>
 
                         
