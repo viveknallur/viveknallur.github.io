@@ -51,21 +51,25 @@ information.&lt;/p&gt;
 &lt;code&gt;push&lt;/code&gt; access to the master branch, by default). You can get around this
 with the following set of commands:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;your-cs3012_username-directory&amp;gt; git checkout -b assignments
-your-cs3012_username-directory&amp;gt; mkdir 1
-your-cs3012_username-directory&amp;gt; cd 1
+&lt;pre&gt;&lt;code&gt;your-directory&amp;gt; git clone http://gitlab.scss.tcd.ie/vivek.nallur/cs3012_&amp;lt;yourusername&amp;gt;.git
+your-director&amp;gt; cd cs3012_&amp;lt;yourusername&amp;gt;/
+your-cs3012_username-directory&amp;gt; git checkout -b assignments
+your-cs3012_username-directory&amp;gt; mkdir 2
+your-cs3012_username-directory&amp;gt; cd 2
 your-cs3012_username-directory&amp;gt; git add yourfile.java
 your-cs3012_username-directory&amp;gt; git add EngineersLog.csv
-your-cs3012_username-directory&amp;gt; git commit -a -m &amp;quot;submission for assignment 1&amp;quot;
+your-cs3012_username-directory&amp;gt; git commit -a -m &amp;quot;submission for assignment 2&amp;quot;
 your-cs3012_username-directory&amp;gt; git push origin assignments
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Basically, the first command creates a new branch called &amp;ldquo;assignments&amp;rdquo; and switches to it. Then you can add or commit as many files as you want. Just remember to push to &amp;ldquo;assignments&amp;rdquo; and not &amp;ldquo;master&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Remember to push to the &amp;lsquo;assignments&amp;rsquo; branch and not &amp;lsquo;master&amp;rsquo;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Download your Engineer&amp;rsquo;s Log &lt;a href=&#34;http://viveknallur.github.io/misc/EngineerLog.csv&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Access assignment-1 &lt;a href=&#34;http://viveknallur.github.io/misc/ricebugs.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Access assignment-2 &lt;a href=&#34;http://viveknallur.github.io/misc/assignment-2.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
