@@ -28,6 +28,9 @@ found here.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/02-slides.pdf&#34;&gt;Requirements Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/03-slides.pdf&#34;&gt;Usecase Modelling&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/04-slides.pdf&#34;&gt;Software Estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/05-intro-to-architecture.pdf&#34;&gt;Introduction to Software Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/06-slides.pdf&#34;&gt;Architectural Styles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/07-slides.pdf&#34;&gt;Architectural Styles - Continued&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -144,19 +147,6 @@ Yaay!&lt;/p&gt;
     </item>
     
     <item>
-      <title>AAMAS&#39;16 Paper Accepted</title>
-      <link>http://viveknallur.github.io/posts/aamas-acceptance/</link>
-      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
-Yaay!&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Successful Thesis Defense!</title>
       <link>http://viveknallur.github.io/posts/eamonn-passes/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
@@ -167,6 +157,19 @@ Yaay!&lt;/p&gt;
 &lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours:d098cef219f9391405a424ae6f194f17&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours!&lt;/h5&gt;
 
 &lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AAMAS&#39;16 Paper Accepted</title>
+      <link>http://viveknallur.github.io/posts/aamas-acceptance/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
+      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
+Yaay!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
 </description>
     </item>
     
