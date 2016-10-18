@@ -50,6 +50,24 @@ information.&lt;/p&gt;
 
 &lt;h4 id=&#34;announcements:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Announcements&lt;/h4&gt;
 
+&lt;hr/&gt;
+
+&lt;p&gt;&lt;p&gt;List of demonstrators you can contact:&lt;br/&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:paladea@scss.tcd.ie&#34;&gt;Andrei Palade&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:amcgover@scss.tcd.ie&#34;&gt;Aonghus McGovern&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:cabrerac@scss.tcd.ie&#34;&gt;Christian Cabrera&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:munnellg@scss.tcd.ie&#34;&gt;Gary Munelly&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:whiteg5@scss.tcd.ie&#34;&gt;Gary White&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr/&gt;
+
 &lt;p&gt;&lt;p&gt; We seem to be having problems with Gitlab (developers are not granted
 &lt;code&gt;push&lt;/code&gt; access to the master branch, by default). You can get around this
 with the following set of commands:&lt;/p&gt;
@@ -66,6 +84,8 @@ your-cs3012_username-directory&amp;gt; git push origin assignments
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Remember to push to the &amp;lsquo;assignments&amp;rsquo; branch and not &amp;lsquo;master&amp;rsquo;.&lt;/p&gt;
+
+&lt;hr/&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Download your Engineer&amp;rsquo;s Log &lt;a href=&#34;http://viveknallur.github.io/misc/EngineerLog.csv&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -147,6 +167,19 @@ Yaay!&lt;/p&gt;
     </item>
     
     <item>
+      <title>AAMAS&#39;16 Paper Accepted</title>
+      <link>http://viveknallur.github.io/posts/aamas-acceptance/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
+      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
+Yaay!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Successful Thesis Defense!</title>
       <link>http://viveknallur.github.io/posts/eamonn-passes/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
@@ -157,19 +190,6 @@ Yaay!&lt;/p&gt;
 &lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours:d098cef219f9391405a424ae6f194f17&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours!&lt;/h5&gt;
 
 &lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AAMAS&#39;16 Paper Accepted</title>
-      <link>http://viveknallur.github.io/posts/aamas-acceptance/</link>
-      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
-Yaay!&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
 </description>
     </item>
     
@@ -325,27 +345,6 @@ Many thanks to the creators of these tools!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Algorithmic Diversity</title>
-      <link>http://viveknallur.github.io/research/algorithmic-diversity/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/research/algorithmic-diversity/</guid>
-      <description>&lt;p&gt;Algorithmic diversity aims to quantify the amount of natural diversity available in a pool of algorithms, and their effect on system properties.  In many domains,
-there are multiple algorithms available that can perform the same / similar tasks. For example, there are a plethora of algorithms available for sorting, load-balancing,
-compression, etc. Almost every computer science student studies multiple sorting algorithms, and their respective complexity (big-O). Apart from complexity, there are
-many aspects in which algorithms differ, data structures, strategies, etc. These aspects have an impact on the real-world performance of software systems. In most
-cases, the developer or system administrator tries to foresee the operating environment of the software system, its input characteristics and chose the best / optimal
-algorithm, that they could possibly implement. However, in the real world, operating environments rarely stay stagnant and the desired quality attributes of the system
-do not stay at the same level, as when deployed.&lt;/p&gt;
-
-&lt;p&gt;We are investigating whether using a pool of algorithms, instead of a single optimal pre-chosen algorithm, could impact the software system&amp;rsquo;s quality attributes
-in a positive way, and if so, how do we quantify it? And herein lies the challenge. A little reflection would lead us to the conclusion that, in an uncertain
-operating environment, using a pool of algorithms would definitely affect the system&amp;rsquo;s robustness, but by how much? And can we pre-determine the
-amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research Interests</title>
       <link>http://viveknallur.github.io/research/interests/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -443,6 +442,65 @@ must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;** How do we design an intelligent socio-technical system?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://viveknallur.github.io/research/publications/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/research/publications/</guid>
+      <description>
+
+&lt;p&gt;We are all measured by a number these days. So, here&amp;rsquo;s the mandatory Google Scholar link that leads to the citation count, for me:&lt;/p&gt;
+
+&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa:480c4de99851329b51acecc000e2e84f&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h5 id=&#34;the-list-in-reverse-chronological-order:480c4de99851329b51acecc000e2e84f&#34;&gt;The List (in reverse chronological order)&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent
+Systems&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/ClonalPlasticity.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2897067&#34;&gt;11th International Symposium on Software Engineering for Adaptive and
+Self-Managing Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Algorithm Diversity - A Mechanism for Distributive Justice in a Socio-Technical MAS&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/aamas2016.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2936986&#34;&gt;AAMAS&amp;rsquo;2016 - International Conference on Autonomous Agents and Multiagent Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Enabling Participatory Routing Using a Smart-City Platform&lt;/em&gt;&lt;br /&gt;
+1^st IEEE Smart Cities Conference, Guadalajara, October 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Increasing Information in a Socio-Technical MAS Considered Contentious&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/sasow-15.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2866787&#34;&gt;Ninth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), September 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;On Architectural Diversity of Dynamic Adaptive Systems&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/icse-nier-2015.pdf&#34;&gt;Author
+preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2819112&#34;&gt;37^th International Conference on Software Engineering - New Ideas and Emerging Results, May 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Smart Route Planning Using Open Data and Participatory Sensing&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/SmartRoutePlanning.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+11^th Conference on Open Source Systems: Adoption and Impact&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Towards Decentralized Detection of Emergence in Complex Adaptive Systems&lt;/em&gt;
+[&lt;a href=&#34;http://viveknallur.github.io/pubs/Saso-Emergence.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2763125&#34;&gt;Eighth IEEE Conference on Self-Adaptive and Self-Organizing Systems, September 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It&amp;rsquo;s good to be different: Diversity, Heterogeneity and Dynamics in Collective
+Systems&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/sasow-14.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2763072&#34;&gt;Eighth IEEE Self-Adaptive and Self-Organizing Workshops (SASOW), September 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A Decentralized Self-Adaptation Mechanism for Service-Based Applications in the
+Cloud&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/TSE-2013.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2498775&#34;&gt;IEEE Transactions on Software Engineering, Vol 39:5, Pages 591&amp;ndash;612, 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Self-Adapting Applications Based on QA Requirements in the Cloud Using Market-Based Heuristics&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/servicewave-2010.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Towards a Service-Based Internet, SERVICEWAVE, 2010&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Design of a Market-Based Mechanism for Quality Attribute Tradeoff of Services
+in the Cloud&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/SAC-preprint.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=1774168&amp;amp;CFID=797660203&#34;&gt;25^th ACM Symposium on Applied Computing, 2010&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Self-optimizing architecture for ensuring Quality Attributes in the Cloud&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/wicsa-ecsa-2009.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
+Joint Working IEEE/IFIP Conference on Software Architecture - WICSA/ECSA, 2009&lt;/p&gt;
 </description>
     </item>
     

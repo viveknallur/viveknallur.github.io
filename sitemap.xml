@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/posts/eamonn-passes/</loc>
+    <loc>http://viveknallur.github.io/posts/aamas-acceptance/</loc>
     <lastmod>2016-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/posts/aamas-acceptance/</loc>
+    <loc>http://viveknallur.github.io/posts/eamonn-passes/</loc>
     <lastmod>2016-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/research/algorithmic-diversity/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://viveknallur.github.io/research/interests/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -88,8 +83,17 @@
   </url>
   
   <url>
+    <loc>http://viveknallur.github.io/research/algorithmic-diversity/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://viveknallur.github.io/smartcities/diversify/introduction/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viveknallur.github.io/contact/details/</loc>
   </url>
   
   <url>
@@ -97,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://viveknallur.github.io/contact/details/</loc>
+    <loc>http://viveknallur.github.io/smarthopper/least_noise_routing/</loc>
   </url>
   
   <url>
@@ -106,10 +110,6 @@
   
   <url>
     <loc>http://viveknallur.github.io/smarthopper/on_youtube/</loc>
-  </url>
-  
-  <url>
-    <loc>http://viveknallur.github.io/smarthopper/least_noise_routing/</loc>
   </url>
   
 </urlset>
