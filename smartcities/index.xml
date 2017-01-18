@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smartcities on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/smartcities/</link>
+    <link>http://viveknallur.github.io/smartcities/index.xml</link>
     <description>Recent content in Smartcities on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -17,9 +17,9 @@
       
       <guid>http://viveknallur.github.io/smartcities/city-systems-report/</guid>
       <description>&lt;p&gt;The term &lt;em&gt;smart cities&lt;/em&gt; gets a lot of play in the tech press and there are many companies that present solutions in this space. But the root cause of the problem isn&amp;rsquo;t
-the lack of technology. Rather, it is pressure of population and the scarcity of resources in urban agglomerations, in a future that seems almost as inevitable as climate change.&lt;/p&gt;
+the lack of technology. Rather, it is pressure of population and the scarcity of resources in urban agglomerations, in a future that seems almost as inevitable as climate change.
 
-&lt;p&gt;Given this dystopian near-future, sustainability is the most important aspect that a wannabe smart city should focus on. And sustainability requires active and enthusiastic
+Given this dystopian near-future, sustainability is the most important aspect that a wannabe smart city should focus on. And sustainability requires active and enthusiastic
 participation from citizens. Instead of focussing on how many objects in a city are &lt;em&gt;connected&lt;/em&gt;, the emphasis should be on disseminating information and knowledge (which is quite a different concept) to
 citizens, so that they can participate fruitfully in how their city and life is governed. In my opinion, this is the smartest thing a smart-city could do.&lt;/p&gt;
 
@@ -32,8 +32,7 @@ of improvement in city life.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;http://www.janaagraha.org/about-us/&#34;&gt;&lt;strong&gt;Janaagraha Centre for Citizenship and Democracy&lt;/strong&gt;&lt;/a&gt; attempts to provide the first part of the jigsaw, in this regard.
 Their &lt;a href=&#34;http://janaagraha.org/reports/ASICS-2015.pdf&#34;&gt;annual survey on city-systems&lt;/a&gt; is a data-rich report with problem evaluation and measurement. Anyone interested
-in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take a look. London and New York are included as benchmarks.&lt;/p&gt;
-</description>
+in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take a look. London and New York are included as benchmarks.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,16 +41,14 @@ in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take
       <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
-      <description>
-
-&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
 conduct holistic research into all aspects of a smart and sustainable city, and not just view a city as a agglomeration of sensors and people.  It connects
 researchers across Trinity, and brings to bear multiple perspectives on the pressing problems of urban living. Typical smart city projects tend to concentrate
 on leveraging sensors and the much-vaunted &lt;em&gt;Internet of Things&lt;/em&gt;, to create technical solutions to human problems. We believe that while technology can and should
 play an important enabling role in a sustainable future, ultimately the citizens must take responsibility for their city. We investigate projects that can bring
 to bear legal policy, urban planning, economic incentives, and educational awareness to nudge citizens towards a healthier and sustainable future.&lt;/p&gt;
 
-&lt;h4 id=&#34;active-areas-of-research:0902b81ceffb0826a9dc92843526137b&#34;&gt;Active Areas of Research&lt;/h4&gt;
+&lt;h4 id=&#34;active-areas-of-research&#34;&gt;Active Areas of Research&lt;/h4&gt;
 
 &lt;p&gt;We work on areas such as:&lt;/p&gt;
 
@@ -67,10 +64,9 @@ to bear legal policy, urban planning, economic incentives, and educational aware
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/urban-scale-data/&#34;&gt;Urban-Scale Data&lt;/a&gt;: This research strand addresses middleware and communications architectures to allow high volumes of data from public, business-owned and user-contributed sensors to be gathered and exploited by smart cities. This area merges wireless sensor networks, vehicular sensor networks, and participatory sensing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;interested:0902b81ceffb0826a9dc92843526137b&#34;&gt;Interested?&lt;/h5&gt;
+&lt;h5 id=&#34;interested&#34;&gt;Interested?&lt;/h5&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,11 +75,9 @@ to bear legal policy, urban planning, economic incentives, and educational aware
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smartcities/diversify/introduction/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://diversify-project.eu/&#34;&gt;Diversify&lt;/a&gt; is an EU FP7 project, that aims at
+      <description>&lt;p&gt;&lt;a href=&#34;http://diversify-project.eu/&#34;&gt;Diversify&lt;/a&gt; is an EU FP7 project, that aims at
 leveraging diversity, to improve software systems.  An inter-disciplinary
-effort, one of our partners is the ECOBIO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; group
+effort, one of our partners is the ECOBIO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; group
  from the &lt;a href=&#34;http://www.univ-rennes1.fr/english/&#34;&gt;Université de Rennes 1&lt;/a&gt;. The
 intent is that knowledge, concepts, and techniques flow in a two-way stream,
 between ecology and computer science. The full list of partners is as follows:&lt;/p&gt;
@@ -114,7 +108,7 @@ diversity is better (or worse), can we increase (or decrease) this diversity, in
 an automated manner? These are the questions that we seek to answer, in this
 project.&lt;/p&gt;
 
-&lt;h2 id=&#34;smarthopper:2767292a573dc549b9b4297b701af3ab&#34;&gt;SmartHopper&lt;/h2&gt;
+&lt;h2 id=&#34;smarthopper&#34;&gt;SmartHopper&lt;/h2&gt;
 
 &lt;p&gt;The Diversify project also uses a smart-mobility test-bed to experiment with,
 for all of the diversification techniques mentioned above, &lt;em&gt;i.e.&lt;/em&gt;,
@@ -130,11 +124,10 @@ on top of OpenStreetMaps plus routing. For more details, look at the
 &lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;a href=&#34;http://ecobio.univ-rennes1.fr/dernieres_publications.php&#34;&gt;http://ecobio.univ-rennes1.fr/dernieres_publications.php&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;http://ecobio.univ-rennes1.fr/dernieres_publications.php&#34;&gt;http://ecobio.univ-rennes1.fr/dernieres_publications.php&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
   </channel>

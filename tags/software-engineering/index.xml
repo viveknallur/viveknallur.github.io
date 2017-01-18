@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/tags/software-engineering/</link>
+    <link>http://viveknallur.github.io/tags/software-engineering/index.xml</link>
     <description>Recent content in Software Engineering on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,12 +15,11 @@
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/project-list/</guid>
-      <description>
+      <description>&lt;p&gt;Here are a list of projects that your group can choose from, for the scrum-based
+mini-project.
+&lt;/p&gt;
 
-&lt;p&gt;Here are a list of projects that your group can choose from, for the scrum-based
-mini-project.&lt;/p&gt;
-
-&lt;h4 id=&#34;android-app-for-inventory-tracking:2fb13922e3566fbd1aac2902c933157a&#34;&gt;Android App for Inventory Tracking&lt;/h4&gt;
+&lt;h4 id=&#34;android-app-for-inventory-tracking&#34;&gt;Android App for Inventory Tracking&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -43,7 +41,7 @@ faculty (one email per group).&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;statistical-visualization-using-r:2fb13922e3566fbd1aac2902c933157a&#34;&gt;Statistical Visualization Using R&lt;/h4&gt;
+&lt;h4 id=&#34;statistical-visualization-using-r&#34;&gt;Statistical Visualization Using R&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -59,7 +57,7 @@ faculty (one email per group).&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;web-based-application-for-visualizing-social-network-data:2fb13922e3566fbd1aac2902c933157a&#34;&gt;Web-based application for visualizing social network data&lt;/h4&gt;
+&lt;h4 id=&#34;web-based-application-for-visualizing-social-network-data&#34;&gt;Web-based application for visualizing social network data&lt;/h4&gt;
 
 &lt;p&gt;There are several social network APIs available that allow a user to visualize
 how they are connected with other people. The project will use (atleast) two
@@ -77,8 +75,7 @@ analysis needs to be done.&lt;/p&gt;
 
 &lt;p&gt;For a more detailed description of the project, please register your group with
 the faculty (one email per group).
-&lt;hr/&gt;&lt;/p&gt;
-</description>
+&lt;hr/&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,16 +84,16 @@ the faculty (one email per group).
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/real-time-availability/</guid>
-      <description>
-
-&lt;p&gt;Teams may want to interact with the client during the mini-project. For this
+      <description>&lt;p&gt;Teams may want to interact with the client during the mini-project. For this
 purpose, some lecture slots have been converted to client meeting days. The
 following days and times are available for client meetings.  The location for
 these client meetings are the lecture-rooms, that were previously used for that
 weekday&amp;rsquo;s lecture.  10-minute slots will be available for each team, that books
 a slot by emailing the faculty, in advance.&lt;/p&gt;
 
-&lt;h4 id=&#34;available-client-meetings:62ceb6df1bc500247fde151f30b9b83f&#34;&gt;Available Client Meetings&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;available-client-meetings&#34;&gt;Available Client Meetings&lt;/h4&gt;
 
 &lt;p&gt;The link below shows the currently booked and available meeting slots for the
 mini-project. The page is refreshed every 5 minutes from data confirmed by the
@@ -105,21 +102,17 @@ faculty.&lt;/p&gt;
 &lt;p&gt;Meeting &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1a_nLugeUsKC9g2fWKMTCRFpmsYUBn-uT3VMZ8C_9GVE/pubhtml&#34;&gt;schedule
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
-      <title>CS3012 - Assessment</title>
-      <link>http://viveknallur.github.io/teaching/assessment/</link>
-      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Understanding Blackboard for CS3012</title>
+      <link>http://viveknallur.github.io/teaching/understanding-blackboard-scores/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/teaching/assessment/</guid>
-      <description>
-
-&lt;p&gt;The assessment pattern for the module is as follows:&lt;/p&gt;
-
-&lt;p&gt;There are two components to the module evaluation:&lt;/p&gt;
+      <guid>http://viveknallur.github.io/teaching/understanding-blackboard-scores/</guid>
+      <description>&lt;p&gt;Recall that there are two components to the module evaluation:
+&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Theory (evaluated using an exam) &amp;ndash; 30% of your final mark&lt;/p&gt;&lt;/li&gt;
@@ -128,9 +121,96 @@ faculty.&lt;/p&gt;
 final mark&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/OverallAssessment.png&#34; alt=&#34;Overall Assessment&#34; title=&#34;Overall assessment 
-pattern&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/OverallAssessment.png&#34; alt=&#34;Overall Assessment&#34; title=&#34;Overall assessment
+pattern&#34; /&gt;&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;h4 id=&#34;programming-assignment-marks&#34;&gt;Programming Assignment Marks&lt;/h4&gt;
+
+&lt;p&gt;The individual programming assignments cummulatively account for 35% of your total mark. Hence,
+all marks will finally be scaled to 35. Blackboard will show 7 columns for your programming assignments. The columns:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ProgAssgn-Coding&lt;/em&gt;: Cummulative score from the test-cases, across 4 assignments. Max marks - 20&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ProgAssgn-ZScore&lt;/em&gt;: Cummulative score from the AverageVelocity across 4 assignments. Max marks - 20&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ProgAssgn-PersonalTrend&lt;/em&gt;: Personal Trend score according to the slope of your AverageVelocity. Max marks - 10&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WeightedCodingMark&lt;/em&gt;: Coding accounts for 50% of your programming assignment mark. Max marks - 17.5&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WeightedZScore&lt;/em&gt;: The Z-Score accounts for 25% of your programing assignment mark. Max marks - 8.75&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WeightedPersonalTrend&lt;/em&gt;: The Personal Trend accounts for 25% of your programming assignment mark. Max marks - 8.75&lt;/p&gt;
+
+&lt;p&gt;The seventh column shows the aggregate marks (out of 35). The aggregate marks for the programming assignments are a summation of: &lt;em&gt;WeightedCodingMark&lt;/em&gt;, &lt;em&gt;WeightedZScore&lt;/em&gt;, &lt;em&gt;WeightedPersonalTrend&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h6 id=&#34;note-these-marks-have-been-uploaded-to-blackboard-if-you-don-t-see-a-mark-for-yourself-please-send-an-email-to-vivek-nallur-scss-tcd-ie&#34;&gt;&lt;strong&gt;NOTE: These marks have been uploaded to Blackboard. If you don&amp;rsquo;t see a mark for yourself, please send an email to: vivek.nallur@scss.tcd.ie&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr/&gt;
+
+&lt;h4 id=&#34;scrum-based-mini-project&#34;&gt;Scrum-Based Mini-Project&lt;/h4&gt;
+
+&lt;p&gt;Each project will be graded independently by three graders. Each grader will grade the sprints, as well as the final deliverable, and award a total mark out of 100. The marking table for the  mini-project is as follows:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Marks&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Explanation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;lt; 40&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;More than one deliverable missing; Committed documents unacceptable/incorrect/low quality&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;40-50&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Minimally correct, but barely adequate,  more than one deliverable missing&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;51-70&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Adequate; one/more faults present  or one deliverable missing&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;71-85&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Fairly good; No major faults; all deliverables present; minor obvious improvements possible&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;86-100&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Very good; Can expect to manage a project well, given evidence from deliverables&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h6 id=&#34;note-marks-for-the-project-have-not-yet-been-uploaded-to-blackboard-marks-will-be-scaled-from-the-total-mark-to-a-maximum-of-35&#34;&gt;&lt;strong&gt;NOTE: Marks for the project have not yet been uploaded to Blackboard. Marks will be scaled from the total mark to a maximum of 35.&lt;/strong&gt;&lt;/h6&gt;</description>
+    </item>
+    
+    <item>
+      <title>CS3012 - Assessment</title>
+      <link>http://viveknallur.github.io/teaching/assessment/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/teaching/assessment/</guid>
+      <description>&lt;p&gt;The assessment pattern for the module is as follows:
+
+There are two components to the module evaluation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Theory (evaluated using an exam) &amp;ndash; 30% of your final mark&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Practical (evaluated using assignments and a mini-project) &amp;ndash; 70% of your
+final mark&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/OverallAssessment.png&#34; alt=&#34;Overall Assessment&#34; title=&#34;Overall assessment
+pattern&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There is a difference between software engineering &amp;lsquo;in-the-large&amp;rsquo; and software
 engineering &amp;lsquo;in-the-small&amp;rsquo;. As explained during the first class, most of the
@@ -157,7 +237,7 @@ mini-project can be found &lt;a href=&#34;http://viveknallur.github.io/teaching/
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;evaluating-an-individual-assignment:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Evaluating an individual assignment&lt;/h4&gt;
+&lt;h4 id=&#34;evaluating-an-individual-assignment&#34;&gt;Evaluating an individual assignment&lt;/h4&gt;
 
 &lt;p&gt;Each individual assignment has three components that contribute toward your
 mark:&lt;/p&gt;
@@ -200,8 +280,7 @@ accuracy. This effectively measures you against your own previous performance.&l
 correctness, (b) performance vis-a-vis peers, ( c) performance vis-a-vis past
 performance&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/Assignment-Assessment-Pattern.png&#34; alt=&#34;Assignment Assessment Pattern&#34; title=&#34;The assessment pattern for cs3012&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/Assignment-Assessment-Pattern.png&#34; alt=&#34;Assignment Assessment Pattern&#34; title=&#34;The assessment pattern for cs3012&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of our demonstrators, Gary Munnelly, has put together a little document
 along with code, test-cases, and scripts to give you a flavour of how the
@@ -210,7 +289,7 @@ evaluation of the individual assignments is done. Check it out
 
 &lt;hr/&gt;
 
-&lt;h5 id=&#34;test-cases:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Test Cases&lt;/h5&gt;
+&lt;h5 id=&#34;test-cases&#34;&gt;Test Cases&lt;/h5&gt;
 
 &lt;p&gt;The number of testcases may be different for each assignment, however your score
 will always be normalized to 5. That is, your maximum score will be five (5), if
@@ -234,7 +313,7 @@ all test cases pass. The minimum score will be zero (0), if:&lt;br/&gt;&lt;/p&gt
 
 &lt;hr/&gt;
 
-&lt;h5 id=&#34;z-score:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Z-score&lt;/h5&gt;
+&lt;h5 id=&#34;z-score&#34;&gt;Z-score&lt;/h5&gt;
 
 &lt;p&gt;The &lt;em&gt;Average Velocity&lt;/em&gt; of an assignment is calculated as: &lt;br/&gt;&lt;/p&gt;
 
@@ -266,31 +345,80 @@ deviations ==&amp;gt; 2 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;personal-trend:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Personal Trend&lt;/h4&gt;
+&lt;h4 id=&#34;personal-trend&#34;&gt;Personal Trend&lt;/h4&gt;
 
 &lt;p&gt;A student&amp;rsquo;s personal trendline is calculated as the best-fit straight line using
-the average velocities over all the assigments. The slope of this trendline
+the average velocities over all the assignments. The slope of this trendline
 shows the rate of change of AverageVelocity with continued assignments. All
-students should (ideally) have a negative slope, by the end of the course. The
-entire class&amp;rsquo; slope will be calculated at the end of the term, and the mean and
-standard deviation calculated. The marks for the slope will then be calculated
-using the bagging rules, that are as follows:&lt;/p&gt;
+students should (ideally) have a negative slope, by the end of the course.
+The slope indicates the improvement made over the period of the assignments. The more
+negative the slope, the greater the improvement, and correspondingly higher the score.
+A positive slope indicates that the student&amp;rsquo;s AverageVelocity has worsened over time.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;More than 1-standard deviation &lt;em&gt;below&lt;/em&gt; the mean ==&amp;gt; 5 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Each student&amp;rsquo;s slope is calculated and binned according to the table shown below. The student&amp;rsquo;s personal trend score depends on the first bin, that the slope falls into.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Between 1-standard deviation below mean and mean(incl. mean) ==&amp;gt; 4 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Bin&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;li&gt;&lt;p&gt;Up to 1-standard deviation &lt;em&gt;above&lt;/em&gt; mean =&amp;gt; 3 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Less than/equal to -0.77598254&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;li&gt;&lt;p&gt;More than 1-standard deviation &lt;em&gt;above&lt;/em&gt; mean but less than 2-standard
-deviations ==&amp;gt; 2 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;tr&gt;
+&lt;td&gt;-0.586965079&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;li&gt;&lt;p&gt;2-standard deviations and more &lt;em&gt;above&lt;/em&gt; the mean ==&amp;gt; 1 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;tr&gt;
+&lt;td&gt;-0.397947619&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;tr&gt;
+&lt;td&gt;-0.208930159&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;-0.019912698&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.169104762&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.358122222&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.547139683&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.736157143&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.925174603&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -299,12 +427,12 @@ deviations ==&amp;gt; 2 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/project/</guid>
-      <description>
-
-&lt;p&gt;The process of the mini-project, to be developed using the scrum methodology, is
+      <description>&lt;p&gt;The process of the mini-project, to be developed using the scrum methodology, is
 detailed here.&lt;/p&gt;
 
-&lt;h4 id=&#34;group-selection-and-registration:10be9c81b9315bdc8704629d17642664&#34;&gt;Group Selection and Registration&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;group-selection-and-registration&#34;&gt;Group Selection and Registration&lt;/h4&gt;
 
 &lt;p&gt;All students must form groups and register their group with the faculty. A group
 can be formed with 4-6 students. Students are free to form groups of their
@@ -327,7 +455,7 @@ between the team and the faculty.&lt;/li&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;project-selection:10be9c81b9315bdc8704629d17642664&#34;&gt;Project Selection&lt;/h4&gt;
+&lt;h4 id=&#34;project-selection&#34;&gt;Project Selection&lt;/h4&gt;
 
 &lt;p&gt;There are three projects outlined on the &lt;a href=&#34;http://viveknallur.github.io/teaching/project-list&#34;&gt;projects&lt;/a&gt;
 page.  As a group, select one of the projects, according to your language and
@@ -340,7 +468,7 @@ the project.&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;project-development:10be9c81b9315bdc8704629d17642664&#34;&gt;Project Development&lt;/h4&gt;
+&lt;h4 id=&#34;project-development&#34;&gt;Project Development&lt;/h4&gt;
 
 &lt;p&gt;Project development will be done using the scrum methodology. This entails
 weekly sprint cycles. After the client describes the project requirements, the
@@ -374,8 +502,7 @@ the client. This will modify the &lt;em&gt;Product Backlog&lt;/em&gt;.
 Deliverables&lt;/em&gt; mentioned in the detailed requirements must be committed to the
 team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -384,11 +511,11 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/scrum-schedule/</guid>
-      <description>
+      <description>&lt;p&gt;Here is a list of, and schedule for, the scrum deliverables.&lt;/p&gt;
 
-&lt;p&gt;Here is a list of, and schedule for, the scrum deliverables.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;sprint-weekly-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;Sprint (weekly) deliverables&lt;/h4&gt;
+&lt;h4 id=&#34;sprint-weekly-deliverables&#34;&gt;Sprint (weekly) deliverables&lt;/h4&gt;
 
 &lt;p&gt;Sprint deliverable(s) from all teams (committed and pushed to their respective team-leader&amp;rsquo;s repository), are due by end-of-day (6 p.m.) on:&lt;/p&gt;
 
@@ -398,7 +525,7 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
 &lt;li&gt;6-December-2016&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&#34;list-of-sprint-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;List of sprint deliverables:&lt;/h5&gt;
+&lt;h5 id=&#34;list-of-sprint-deliverables&#34;&gt;List of sprint deliverables:&lt;/h5&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Burn-down chart&lt;/li&gt;
@@ -409,18 +536,17 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;final-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;Final deliverables&lt;/h4&gt;
+&lt;h4 id=&#34;final-deliverables&#34;&gt;Final deliverables&lt;/h4&gt;
 
 &lt;p&gt;The fourth sprint cycle (6-Dec to  12-Dec) culminates with the final deliverables. Every project has its own list of final deliverables. These  must be committed and pushed to the respective team-leader&amp;rsquo;s repository by end-of-day (6 p.m.) on: 13-December-2016&lt;/p&gt;
 
-&lt;h5 id=&#34;list-of-common-final-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;List of (common) final deliverables:&lt;/h5&gt;
+&lt;h5 id=&#34;list-of-common-final-deliverables&#34;&gt;List of (common) final deliverables:&lt;/h5&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Signed (by all team members) declaration of work proportion&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -429,12 +555,11 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/slides/</guid>
-      <description>
+      <description>&lt;p&gt;Slides from the lectures for the CS 3012 course on Software Engineering can be
+found here.
+&lt;/p&gt;
 
-&lt;p&gt;Slides from the lectures for the CS 3012 course on Software Engineering can be
-found here.&lt;/p&gt;
-
-&lt;h5 id=&#34;slides:90014a872bdadc29d38e0ddafb91b9e9&#34;&gt;Slides&lt;/h5&gt;
+&lt;h5 id=&#34;slides&#34;&gt;Slides&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/01-introduction.pdf&#34;&gt;Introduction to the Module&lt;/a&gt;&lt;/li&gt;
@@ -456,8 +581,7 @@ found here.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/17-software-testing.pdf&#34;&gt;Software Testing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/18-biz-aspects-se.pdf&#34;&gt;Business and Legal Aspects of Software Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/recap-lecture.pdf&#34;&gt;Re-cap Lecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -466,15 +590,13 @@ found here.&lt;/p&gt;
       <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/cs3012/</guid>
-      <description>
+      <description>&lt;p&gt;This is the landing page for the CS 3012 course on Software Engineering.
 
-&lt;p&gt;This is the landing page for the CS 3012 course on Software Engineering.&lt;/p&gt;
-
-&lt;p&gt;Here you can find announcements regarding the course, assignments, and other
+Here you can find announcements regarding the course, assignments, and other
 miscellaneous information. Take a look at the &lt;a href=&#34;http://viveknallur.github.io/teaching/&#34;&gt;other pages&lt;/a&gt; for more
 information about the course.&lt;/p&gt;
 
-&lt;h4 id=&#34;announcements:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Announcements&lt;/h4&gt;
+&lt;h4 id=&#34;announcements&#34;&gt;Announcements&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -498,7 +620,7 @@ group workshops that are tailored to the students&amp;rsquo; programming ability
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:whiteg5@scss.tcd.ie&#34;&gt;Gary White&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;assignments:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Assignments&lt;/h4&gt;
+&lt;h4 id=&#34;assignments&#34;&gt;Assignments&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -515,7 +637,7 @@ group workshops that are tailored to the students&amp;rsquo; programming ability
 &lt;li&gt;&lt;p&gt;Access assignment-4 &lt;a href=&#34;http://viveknallur.github.io/misc/assignment-4.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;gitlab:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Gitlab&lt;/h4&gt;
+&lt;h4 id=&#34;gitlab&#34;&gt;Gitlab&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -536,8 +658,7 @@ your-cs3012_username-directory&amp;gt; git push origin assignments
 
 &lt;p&gt;Remember to push to the &amp;lsquo;assignments&amp;rsquo; branch and not &amp;lsquo;master&amp;rsquo;.&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -557,8 +678,7 @@ do not stay at the same level, as when deployed.&lt;/p&gt;
 &lt;p&gt;We are investigating whether using a pool of algorithms, instead of a single optimal pre-chosen algorithm, could impact the software system&amp;rsquo;s quality attributes
 in a positive way, and if so, how do we quantify it? And herein lies the challenge. A little reflection would lead us to the conclusion that, in an uncertain
 operating environment, using a pool of algorithms would definitely affect the system&amp;rsquo;s robustness, but by how much? And can we pre-determine the
-amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;
-</description>
+amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/tags/research/</link>
+    <link>http://viveknallur.github.io/tags/research/index.xml</link>
     <description>Recent content in Research on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Sun, 03 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,27 +15,23 @@
       <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smarthopper/least_bumpy_ride/</guid>
-      <description>
+      <description>&lt;h4 id=&#34;least-bumpy-routing&#34;&gt;Least Bumpy Routing&lt;/h4&gt;
 
-&lt;h4 id=&#34;least-bumpy-routing:2cd36ad9af90a975251feeaeed6d527a&#34;&gt;Least Bumpy Routing&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; extended to use road smoothness data provided by cyclists.&lt;br /&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; extended to use road smoothness data provided by cyclists.&lt;/p&gt;
-
-&lt;p&gt;One of the aims of SmartHopper is to be able to accept any spatial sensor data provided by citizens, and turn it into
+One of the aims of SmartHopper is to be able to accept any spatial sensor data provided by citizens, and turn it into
 useful information. One of our Masters&amp;rsquo; students is an avid cyclist, and he wrote an app that collected smoothness data
 from sensors attached to bikes. He then asked his friends to attach sensors and simply use it during their daily rides
 through the city. We were able to turn this road-by-road smoothness data into a heatmap and routing information with
 minimal effort (took us about 2-3 person days).&lt;/p&gt;
 
 &lt;p&gt;Take a look at the routing that&amp;rsquo;s now made possible, with SmartHopper
-&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least_Bumpy_800x600.jpg&#34; alt=&#34;Smoothest Cycling Route Through Dublin&#34; /&gt;
-&lt;/p&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least_Bumpy_800x600.jpg&#34; alt=&#34;Smoothest Cycling Route Through Dublin&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Notice, that in the visualization, the user can opt to see different layers of road smoothness. And also, SmartHopper simply took
 this information, and used it for providing the smoothest (or rather, &amp;ldquo;least bumpy&amp;rdquo;) route.&lt;/p&gt;
 
-&lt;p&gt;What else can you imagine SmartHopper being extended for?&lt;/p&gt;
-</description>
+&lt;p&gt;What else can you imagine SmartHopper being extended for?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,12 +40,12 @@ this information, and used it for providing the smoothest (or rather, &amp;ldquo
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/seams-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
+      <description>&lt;p&gt;
+Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
 in Multi-Agent Systems&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;
 Yaay!&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -59,11 +54,11 @@ Yaay!&lt;/p&gt;
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
+      <description>&lt;p&gt;
+Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
 Yaay!&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,12 +67,9 @@ Yaay!&lt;/p&gt;
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/eamonn-passes/</guid>
-      <description>
+      <description>&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours-hugomore42&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours! &lt;/h5&gt;
 
-&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours:d098cef219f9391405a424ae6f194f17&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours!&lt;/h5&gt;
-
-&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;
-</description>
+&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -86,13 +78,12 @@ Yaay!&lt;/p&gt;
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/futurecities-youtube/</guid>
-      <description>&lt;p&gt;FutureCities now has a Youtube! channel&lt;/p&gt;
+      <description>&lt;p&gt;FutureCities now has a Youtube! channel &lt;/p&gt;
 
 &lt;p&gt;The FutureCities centre now has a Youtube! channel, so it&amp;rsquo;s easier to find all
 of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC9odOg7SQMug4mQGzdJJehg&#34;&gt;FutureCities Youtube Channel&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC9odOg7SQMug4mQGzdJJehg&#34;&gt;FutureCities Youtube Channel&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -101,9 +92,7 @@ of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/eamonn-submits/</guid>
-      <description>
-
-&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection:dee999b9b5019ee00d8b9e52e357b2eb&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection!&lt;/h5&gt;
+      <description>&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection-hugomore42&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection! &lt;/h5&gt;
 
 &lt;p&gt;Eamonn has just submitted his thesis entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;. Way to go, Eamonn! Very well done! Of course, it&amp;rsquo;s really special to me since he&amp;rsquo;s my first PhD student mentee. It&amp;rsquo;s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!&lt;/p&gt;
 
@@ -115,8 +104,7 @@ of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
 and the components themselves, change dynamically?&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;
-</description>
+&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -125,16 +113,14 @@ and the components themselves, change dynamically?&lt;/em&gt;&lt;/li&gt;
       <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smartcities/futurecities/</guid>
-      <description>
-
-&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.tcd.ie/futurecities/&#34;&gt;Future cities research centre&lt;/a&gt; is a multi-disciplinary centre at Trinity College Dublin. Its mission is to
 conduct holistic research into all aspects of a smart and sustainable city, and not just view a city as a agglomeration of sensors and people.  It connects
 researchers across Trinity, and brings to bear multiple perspectives on the pressing problems of urban living. Typical smart city projects tend to concentrate
 on leveraging sensors and the much-vaunted &lt;em&gt;Internet of Things&lt;/em&gt;, to create technical solutions to human problems. We believe that while technology can and should
 play an important enabling role in a sustainable future, ultimately the citizens must take responsibility for their city. We investigate projects that can bring
 to bear legal policy, urban planning, economic incentives, and educational awareness to nudge citizens towards a healthier and sustainable future.&lt;/p&gt;
 
-&lt;h4 id=&#34;active-areas-of-research:0902b81ceffb0826a9dc92843526137b&#34;&gt;Active Areas of Research&lt;/h4&gt;
+&lt;h4 id=&#34;active-areas-of-research&#34;&gt;Active Areas of Research&lt;/h4&gt;
 
 &lt;p&gt;We work on areas such as:&lt;/p&gt;
 
@@ -150,10 +136,9 @@ to bear legal policy, urban planning, economic incentives, and educational aware
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/research/urban-scale-data/&#34;&gt;Urban-Scale Data&lt;/a&gt;: This research strand addresses middleware and communications architectures to allow high volumes of data from public, business-owned and user-contributed sensors to be gathered and exploited by smart cities. This area merges wireless sensor networks, vehicular sensor networks, and participatory sensing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;interested:0902b81ceffb0826a9dc92843526137b&#34;&gt;Interested?&lt;/h5&gt;
+&lt;h5 id=&#34;interested&#34;&gt;Interested?&lt;/h5&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/futurecities/contact/&#34;&gt;Talk to us&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -162,9 +147,7 @@ to bear legal policy, urban planning, economic incentives, and educational aware
       <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/research/reproducible_research/</guid>
-      <description>
-
-&lt;hr /&gt;
+      <description>&lt;hr /&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Perhaps the central problem we face in all of computer science is how we are
@@ -177,7 +160,7 @@ than redoing so much of it in a trivially different way.&lt;/p&gt;
 &lt;em&gt;Journal of the ACM (Jan 1969), 16, No. 1, 10.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;reproducing-and-sharing-results-of-experiments-in-software-engineering:0a02261f8657866700056ef61d86ade2&#34;&gt;Reproducing and Sharing Results of Experiments in Software Engineering&lt;/h4&gt;
+&lt;h4 id=&#34;reproducing-and-sharing-results-of-experiments-in-software-engineering&#34;&gt;Reproducing and Sharing Results of Experiments in Software Engineering&lt;/h4&gt;
 
 &lt;p&gt;Richard Hamming&amp;rsquo;s statement has perhaps never been as true, as it is true today. There are literally hundreds of conferences, with tens of thousands of papers published every year. Surely, going by the volume of output, we should be in a much better position with regard to the big problems, than we are at the moment. Of course, there are some problems that are genuinely hard, but even so, a whole lot of effort is expended in trying to do something trivially better or trivially different.&lt;/p&gt;
 
@@ -185,13 +168,12 @@ than redoing so much of it in a trivially different way.&lt;/p&gt;
 
 &lt;p&gt;While Software Engineering has yet to figure out how to document and preserve forever and ever, the ideas/decisions/assumptions behind a big piece of code, we have reached a point where it is possible to checkpoint a piece of working code and make it available economically to anyone who wants it. Virtual Machines, while cool and dandy, are terribly big and difficult to share. Docker containers, though, in  my opinion, hit a sweet spot where, for certain kinds of code and libraries, the exact configuration and environment can be captured and shared with the world. Thanks to the Docker hub, we can also be reasonably sure that it (the code) won&amp;rsquo;t go away, as soon as researcher moves institutions (To my great mortification and embarrassment, all of my code and data vanished from my PhD student website, soon after I graduated. Which meant that reproducing (and building upon) my TSE paper results was next to impossible).&lt;/p&gt;
 
-&lt;h4 id=&#34;docker-hub-address:0a02261f8657866700056ef61d86ade2&#34;&gt;Docker Hub Address&lt;/h4&gt;
+&lt;h4 id=&#34;docker-hub-address&#34;&gt;Docker Hub Address&lt;/h4&gt;
 
 &lt;p&gt;Having learnt my lesson, I&amp;rsquo;m going to put up all of  my paper submissions&amp;rsquo; code
 up on Docker Hub in a docker container. So, at the very least, folks can reproduce my results, if not build on it. I&amp;rsquo;m also trying to convince my colleagues to do the same.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://hub.docker.com/r/viveknallur/&#34;&gt;Vivek Nallur&amp;rsquo;s Docker Hub Repo&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://hub.docker.com/r/viveknallur/&#34;&gt;Vivek Nallur&amp;rsquo;s Docker Hub Repo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -211,8 +193,7 @@ do not stay at the same level, as when deployed.&lt;/p&gt;
 &lt;p&gt;We are investigating whether using a pool of algorithms, instead of a single optimal pre-chosen algorithm, could impact the software system&amp;rsquo;s quality attributes
 in a positive way, and if so, how do we quantify it? And herein lies the challenge. A little reflection would lead us to the conclusion that, in an uncertain
 operating environment, using a pool of algorithms would definitely affect the system&amp;rsquo;s robustness, but by how much? And can we pre-determine the
-amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;
-</description>
+amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -221,13 +202,11 @@ amount of diversity in this pool? These are some of the questions that we aim to
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/research/publications/</guid>
-      <description>
+      <description>&lt;p&gt;We are all measured by a number these days. So, here&amp;rsquo;s the mandatory Google Scholar link that leads to the citation count, for me:&lt;/p&gt;
 
-&lt;p&gt;We are all measured by a number these days. So, here&amp;rsquo;s the mandatory Google Scholar link that leads to the citation count, for me:&lt;/p&gt;
+&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
 
-&lt;h5 id=&#34;google-scholar-link-https-scholar-google-com-citations-user-teqjsjcaaaa:480c4de99851329b51acecc000e2e84f&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=TeqJsjcAAAA&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/h5&gt;
-
-&lt;h5 id=&#34;the-list-in-reverse-chronological-order:480c4de99851329b51acecc000e2e84f&#34;&gt;The List (in reverse chronological order)&lt;/h5&gt;
+&lt;h5 id=&#34;the-list-in-reverse-chronological-order&#34;&gt;The List (in reverse chronological order)&lt;/h5&gt;
 
 &lt;p&gt;&lt;em&gt;Clonal Plasticity: A Mechanism For Decentralized Adaptation in Multi-Agent
 Systems&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/ClonalPlasticity.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
@@ -270,8 +249,7 @@ in the Cloud&lt;/em&gt; [&lt;a href=&#34;http://viveknallur.github.io/pubs/SAC-p
 &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=1774168&amp;amp;CFID=797660203&#34;&gt;25^th ACM Symposium on Applied Computing, 2010&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Self-optimizing architecture for ensuring Quality Attributes in the Cloud&lt;/em&gt;  [&lt;a href=&#34;http://viveknallur.github.io/pubs/wicsa-ecsa-2009.pdf&#34;&gt;Author preprint&lt;/a&gt;]&lt;br /&gt;
-Joint Working IEEE/IFIP Conference on Software Architecture - WICSA/ECSA, 2009&lt;/p&gt;
-</description>
+Joint Working IEEE/IFIP Conference on Software Architecture - WICSA/ECSA, 2009&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -280,23 +258,21 @@ Joint Working IEEE/IFIP Conference on Software Architecture - WICSA/ECSA, 2009&l
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/research/interests/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m very interested in complex self-adaptive systems, engineering emergent
+      <description>&lt;p&gt;I&amp;rsquo;m very interested in complex self-adaptive systems, engineering emergent
 feedback loops, predicting and controlling emergence in humano-tech systems
 (where technical systems interact heavily with human desires/abilities),
 engineering robust systems from non-robust parts.  If you&amp;rsquo;re interested in
 collaborating, or just want to chat about a specific topic, &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;get in
 touch&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;multi-agent-systems:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Multi-Agent Systems&lt;/h3&gt;
+&lt;h3 id=&#34;multi-agent-systems&#34;&gt;Multi-Agent Systems&lt;/h3&gt;
 
 &lt;p&gt;Multi-Agent Systems (MAS) are my preferred tool for approaching problems in self-adaptation, complexity, emergence, etc. They lend themselves to extensive
 forms of experimentation: having all agents follow simple rules, implementing complex machine-learning algorithms, investigating the interplay of different algorithms
 being used at the same time, are all possible with relatively simple conceptual structures. Decoding the end result and teasing out the real factor(s) responsible
 for a particular behaviour is considerably more difficult :-). But, that&amp;rsquo;s a part of the fun!&lt;/p&gt;
 
-&lt;h3 id=&#34;decentralized-self-adaptation:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Decentralized Self-Adaptation&lt;/h3&gt;
+&lt;h3 id=&#34;decentralized-self-adaptation&#34;&gt;Decentralized Self-Adaptation&lt;/h3&gt;
 
 &lt;p&gt;Self-Adaptation as a concept, has been recognized for a long time, from
 biological systems to human affairs. Most natural systems exhibit this
@@ -338,11 +314,11 @@ lack of a centralized communication pattern means that the communication protoco
 must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;coin-coordination-organization-institutions-norms:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;COIN: Coordination, Organization, Institutions, Norms&lt;/h5&gt;
+&lt;h5 id=&#34;coin-coordination-organization-institutions-norms&#34;&gt;COIN: Coordination, Organization, Institutions, Norms&lt;/h5&gt;
 
 &lt;p&gt;These are the particular problems using Multi-Agent Systems, that I&amp;rsquo;m interested in solving.&lt;/p&gt;
 
-&lt;h6 id=&#34;coordination:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Coordination&lt;/h6&gt;
+&lt;h6 id=&#34;coordination&#34;&gt;Coordination&lt;/h6&gt;
 
 &lt;ul&gt;
 &lt;li&gt;How do we create coordination mechanisms for (really) large open distributed systems, which have autonomous components?
@@ -352,27 +328,26 @@ must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h6 id=&#34;organization:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Organization&lt;/h6&gt;
+&lt;h6 id=&#34;organization&#34;&gt;Organization&lt;/h6&gt;
 
 &lt;ul&gt;
 &lt;li&gt;How can we depend on self-organization to meet system goals?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h6 id=&#34;institutions:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Institutions&lt;/h6&gt;
+&lt;h6 id=&#34;institutions&#34;&gt;Institutions&lt;/h6&gt;
 
 &lt;ul&gt;
 &lt;li&gt;What structural patterns are most conducive to emergent institutions?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h6 id=&#34;norms:9ff85ae240172bb97ce520c762b5dcae&#34;&gt;Norms&lt;/h6&gt;
+&lt;h6 id=&#34;norms&#34;&gt;Norms&lt;/h6&gt;
 
 &lt;ul&gt;
 &lt;li&gt;How do we engineer an intelligent socio-technical system such that a self-sustaining/enduring MAS is an emergent property?&lt;/li&gt;
 &lt;li&gt;Can we ensure some form of computational social justice amongst autonomous agents?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;** How do we design an intelligent socio-technical system?&lt;/p&gt;
-</description>
+&lt;p&gt;** How do we design an intelligent socio-technical system?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -381,11 +356,9 @@ must be decentralized and environment-based&lt;/p&gt;&lt;/li&gt;
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smartcities/diversify/introduction/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://diversify-project.eu/&#34;&gt;Diversify&lt;/a&gt; is an EU FP7 project, that aims at
+      <description>&lt;p&gt;&lt;a href=&#34;http://diversify-project.eu/&#34;&gt;Diversify&lt;/a&gt; is an EU FP7 project, that aims at
 leveraging diversity, to improve software systems.  An inter-disciplinary
-effort, one of our partners is the ECOBIO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; group
+effort, one of our partners is the ECOBIO&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; group
  from the &lt;a href=&#34;http://www.univ-rennes1.fr/english/&#34;&gt;Université de Rennes 1&lt;/a&gt;. The
 intent is that knowledge, concepts, and techniques flow in a two-way stream,
 between ecology and computer science. The full list of partners is as follows:&lt;/p&gt;
@@ -416,7 +389,7 @@ diversity is better (or worse), can we increase (or decrease) this diversity, in
 an automated manner? These are the questions that we seek to answer, in this
 project.&lt;/p&gt;
 
-&lt;h2 id=&#34;smarthopper:2767292a573dc549b9b4297b701af3ab&#34;&gt;SmartHopper&lt;/h2&gt;
+&lt;h2 id=&#34;smarthopper&#34;&gt;SmartHopper&lt;/h2&gt;
 
 &lt;p&gt;The Diversify project also uses a smart-mobility test-bed to experiment with,
 for all of the diversification techniques mentioned above, &lt;em&gt;i.e.&lt;/em&gt;,
@@ -432,11 +405,10 @@ on top of OpenStreetMaps plus routing. For more details, look at the
 &lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;a href=&#34;http://ecobio.univ-rennes1.fr/dernieres_publications.php&#34;&gt;http://ecobio.univ-rennes1.fr/dernieres_publications.php&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2767292a573dc549b9b4297b701af3ab:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;http://ecobio.univ-rennes1.fr/dernieres_publications.php&#34;&gt;http://ecobio.univ-rennes1.fr/dernieres_publications.php&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -445,24 +417,18 @@ on top of OpenStreetMaps plus routing. For more details, look at the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smarthopper/least_noise_routing/</guid>
-      <description>
+      <description>&lt;h4 id=&#34;screenshots-of-the-smarthopper-in-action&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h4&gt;
 
-&lt;h4 id=&#34;screenshots-of-the-smarthopper-in-action:14e155c9dfbc473b106c3b0188962a23&#34;&gt;Screenshots of the SmartHopper in Action&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; fuses the routing engine, provided by the GraphHopper folks, with the participatory noise data collected by citizens.&lt;br /&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; fuses the routing engine, provided by the GraphHopper folks, with the participatory noise data collected by citizens.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s what it looks like without the noise data being used:&lt;br /&gt;
-&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Normal-Routing-Without-Noise-800x600.png&#34; alt=&#34;Normal Usage&#34; /&gt;
-&lt;/p&gt;
+Here&amp;rsquo;s what it looks like without the noise data being used:&lt;br /&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Normal-Routing-Without-Noise-800x600.png&#34; alt=&#34;Normal Usage&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Then, add the noise overlay created from the data uploaded from the smartphones of participating citizens&lt;br /&gt;
-&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Routing-with-Noise-Overlay-800x600.png&#34; alt=&#34;Noise Overlay&#34; /&gt;
-&lt;/p&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Routing-with-Noise-Overlay-800x600.png&#34; alt=&#34;Noise Overlay&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;From the menu on the left hand side, change the &lt;em&gt;weighting&lt;/em&gt; to &lt;strong&gt;Least Noisy&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least-Noise-Routing-800x600.png&#34; alt=&#34;Least Noisy Route&#34; /&gt;
-&lt;/p&gt;
-</description>
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least-Noise-Routing-800x600.png&#34; alt=&#34;Least Noisy Route&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -471,9 +437,7 @@ on top of OpenStreetMaps plus routing. For more details, look at the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smarthopper/introduction/</guid>
-      <description>
-
-&lt;h4 id=&#34;introduction:2767292a573dc549b9b4297b701af3ab&#34;&gt;Introduction&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
 
 &lt;p&gt;Ever since the SETI@Home project took off, the idea of using `crowd power&amp;rsquo; to help out with computing needs has been explored by many projects. The explosion of
 the smartphone market opened up a niche in this voluntary computing world. Suddenly, participatory sensing became a means to harness the power of the crowd
@@ -485,7 +449,7 @@ each additional participatory sensing app, that arrived on the app-market.&lt;/p
 in turn, for volunteering their time and data. &lt;em&gt;SmartHopper&lt;/em&gt; is a smart mobility platform, developed at TCD, that incorporates participatory sensing and combines
 it with an open-source routing engine, to enable citizens to generate smarter routes for themselves.&lt;/p&gt;
 
-&lt;h4 id=&#34;basic-idea:2767292a573dc549b9b4297b701af3ab&#34;&gt;Basic Idea&lt;/h4&gt;
+&lt;h4 id=&#34;basic-idea&#34;&gt;Basic Idea&lt;/h4&gt;
 
 &lt;p&gt;We collaborate with the good folks working on the &lt;a href=&#34;http://www.noisetube.net/&#34;&gt;NoiseTube Project&lt;/a&gt; at &lt;a href=&#34;http://www.vub.ac.be/&#34;&gt;Vrije Universiteit Brussel&lt;/a&gt; and ask volunteers to walk around Dublin city, so that
 we get noise measurements from different streets. Given enough walkers, we are able to generate a &lt;code&gt;Noise Map&lt;/code&gt; of Dublin on a street-by-street basis. Then we transform
@@ -495,15 +459,14 @@ gathered from the volunteers and generate the `least noisy&amp;rsquo; route betw
 as it enables them to choose a route, that is least affected by noise pollution. For more information about the architecture of the system, check out our &lt;a href=&#34;http://www.tara.tcd.ie/handle/2262/73955?show=full&#34;&gt;paper&lt;/a&gt;, published
 at the Open Source Systems conference. Also, check out the SmartHopper UI page, where you can see screenshots of the system in action.&lt;/p&gt;
 
-&lt;h4 id=&#34;other-ideas:2767292a573dc549b9b4297b701af3ab&#34;&gt;Other Ideas&lt;/h4&gt;
+&lt;h4 id=&#34;other-ideas&#34;&gt;Other Ideas&lt;/h4&gt;
 
 &lt;p&gt;Noise is merely an exemplar of what is possible, by combining sensor data with other software. Smarter routes can be enabled, limited only by the availability of data.
 We are trying to get air pollution data of several kinds, which can be quite useful for sufferers of pollen allergies, asthma, etc. to generate routes that may
 not necessarily be the fastest or the shortest, but are more to their liking. We&amp;rsquo;re looking into tapping into Open Data from any source that is able to generate
 consistent and city-wide data, which can then be automatically turned into query-able routes! Smart Mobility is not merely about using technology to find
 taxis or public transport, but also being able to query the state-of-the-city, in a personalized manner. If you want to talk to us about data that you have, or ideas
-to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;
-</description>
+to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknallur.github.io/contact/&#34;&gt;touch&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -514,14 +477,13 @@ to increase the smartness of SmartHopper, get in &lt;a href=&#34;http://viveknal
       <guid>http://viveknallur.github.io/smarthopper/on_youtube/</guid>
       <description>
 
-&lt;h5 id=&#34;smarthopper-is-now-on-youtube:1a3f305a9aa36c3eee1013f1fb70ba33&#34;&gt;SmartHopper is now on Youtube!&lt;/h5&gt;
+&lt;h5 id=&#34;smarthopper-is-now-on-youtube&#34;&gt;SmartHopper is now on Youtube!&lt;/h5&gt;
 
 &lt;p&gt;If a picture is worth a thousand words, a video is worth, well, a book-chapter
 at least. Here&amp;rsquo;s &lt;a href=&#34;https://www.scss.tcd.ie/~cardozon/&#34;&gt;Nicolas Cardozo&lt;/a&gt;, from our
 group, demonstrating how to use SmartHopper for a whole variety of use-cases. If you don&amp;rsquo;t hear any audio, don&amp;rsquo;t fret. He&amp;rsquo;s the strong and silent type.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RWlJ4ibfuT0&#34; title=&#34;SmartHopper Demo&#34;&gt;&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/smarthopper-video-shot.png&#34; alt=&#34;SmartHopper Demonstration Video&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RWlJ4ibfuT0&#34; title=&#34;SmartHopper Demo&#34;&gt;&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/smarthopper-video-shot.png&#34; alt=&#34;SmartHopper Demonstration Video&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

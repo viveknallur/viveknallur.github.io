@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/tags/about/</link>
+    <link>http://viveknallur.github.io/tags/about/index.xml</link>
     <description>Recent content in About on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Wed, 15 Jul 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -24,8 +23,7 @@ It&amp;rsquo;s better to live life, than to think about living it.&lt;/p&gt;
 
 &lt;p&gt;Also, in a way, it pays homage to my evolutionary grand-parents. It always pays to know your roots.&lt;/p&gt;
 
-&lt;p&gt;Besides, my wife thinks the resemblance is quite striking :)&lt;/p&gt;
-</description>
+&lt;p&gt;Besides, my wife thinks the resemblance is quite striking :)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,8 +41,7 @@ web-based technologies. Hence, creating websites is a dark art for me. Thankfull
 has come to my rescue, and my site is now more than just one big page like some really old professors&amp;rsquo; sites! (Fancy css + javascript based one-page sites are staging a come-back, though)&lt;/p&gt;
 
 &lt;p&gt;This avatar of my site is powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with the &lt;a href=&#34;https://github.com/chipsenkbeil/grid-side&#34;&gt;Grid-Side&lt;/a&gt; theme.
-Many thanks to the creators of these tools!&lt;/p&gt;
-</description>
+Many thanks to the creators of these tools!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,25 +50,22 @@ Many thanks to the creators of these tools!&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/contact/about/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
+      <description>&lt;p&gt;I&amp;rsquo;m Vivek Nallur, itinerant academic, wannabe go-player and an enthusiastic
 traveller.  I love asking questions, and then launching on a search for answers
 to those questions. Hence, my career as a researcher came, more or less,
 naturally to me. And I&amp;rsquo;ve already lied to you at least twice, in this
 paragraph!&lt;/p&gt;
 
-&lt;h2 id=&#34;research:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research&lt;/h2&gt;
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 
 &lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
 &lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
 Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
 Dublin&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;current-project:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Project&lt;/h2&gt;
+&lt;h2 id=&#34;current-project&#34;&gt;Current Project&lt;/h2&gt;
 
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;
-</description>
+&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;</description>
     </item>
     
   </channel>

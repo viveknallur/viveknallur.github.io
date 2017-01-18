@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivek Nallur</title>
-    <link>http://viveknallur.github.io/</link>
+    <link>http://viveknallur.github.io/index.xml</link>
     <description>Recent content on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -16,12 +16,11 @@
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/project-list/</guid>
-      <description>
+      <description>&lt;p&gt;Here are a list of projects that your group can choose from, for the scrum-based
+mini-project.
+&lt;/p&gt;
 
-&lt;p&gt;Here are a list of projects that your group can choose from, for the scrum-based
-mini-project.&lt;/p&gt;
-
-&lt;h4 id=&#34;android-app-for-inventory-tracking:2fb13922e3566fbd1aac2902c933157a&#34;&gt;Android App for Inventory Tracking&lt;/h4&gt;
+&lt;h4 id=&#34;android-app-for-inventory-tracking&#34;&gt;Android App for Inventory Tracking&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -43,7 +42,7 @@ faculty (one email per group).&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;statistical-visualization-using-r:2fb13922e3566fbd1aac2902c933157a&#34;&gt;Statistical Visualization Using R&lt;/h4&gt;
+&lt;h4 id=&#34;statistical-visualization-using-r&#34;&gt;Statistical Visualization Using R&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -59,7 +58,7 @@ faculty (one email per group).&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;web-based-application-for-visualizing-social-network-data:2fb13922e3566fbd1aac2902c933157a&#34;&gt;Web-based application for visualizing social network data&lt;/h4&gt;
+&lt;h4 id=&#34;web-based-application-for-visualizing-social-network-data&#34;&gt;Web-based application for visualizing social network data&lt;/h4&gt;
 
 &lt;p&gt;There are several social network APIs available that allow a user to visualize
 how they are connected with other people. The project will use (atleast) two
@@ -77,8 +76,7 @@ analysis needs to be done.&lt;/p&gt;
 
 &lt;p&gt;For a more detailed description of the project, please register your group with
 the faculty (one email per group).
-&lt;hr/&gt;&lt;/p&gt;
-</description>
+&lt;hr/&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,16 +85,16 @@ the faculty (one email per group).
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/real-time-availability/</guid>
-      <description>
-
-&lt;p&gt;Teams may want to interact with the client during the mini-project. For this
+      <description>&lt;p&gt;Teams may want to interact with the client during the mini-project. For this
 purpose, some lecture slots have been converted to client meeting days. The
 following days and times are available for client meetings.  The location for
 these client meetings are the lecture-rooms, that were previously used for that
 weekday&amp;rsquo;s lecture.  10-minute slots will be available for each team, that books
 a slot by emailing the faculty, in advance.&lt;/p&gt;
 
-&lt;h4 id=&#34;available-client-meetings:62ceb6df1bc500247fde151f30b9b83f&#34;&gt;Available Client Meetings&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;available-client-meetings&#34;&gt;Available Client Meetings&lt;/h4&gt;
 
 &lt;p&gt;The link below shows the currently booked and available meeting slots for the
 mini-project. The page is refreshed every 5 minutes from data confirmed by the
@@ -105,21 +103,17 @@ faculty.&lt;/p&gt;
 &lt;p&gt;Meeting &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1a_nLugeUsKC9g2fWKMTCRFpmsYUBn-uT3VMZ8C_9GVE/pubhtml&#34;&gt;schedule
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
-      <title>CS3012 - Assessment</title>
-      <link>http://viveknallur.github.io/teaching/assessment/</link>
-      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Understanding Blackboard for CS3012</title>
+      <link>http://viveknallur.github.io/teaching/understanding-blackboard-scores/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://viveknallur.github.io/teaching/assessment/</guid>
-      <description>
-
-&lt;p&gt;The assessment pattern for the module is as follows:&lt;/p&gt;
-
-&lt;p&gt;There are two components to the module evaluation:&lt;/p&gt;
+      <guid>http://viveknallur.github.io/teaching/understanding-blackboard-scores/</guid>
+      <description>&lt;p&gt;Recall that there are two components to the module evaluation:
+&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Theory (evaluated using an exam) &amp;ndash; 30% of your final mark&lt;/p&gt;&lt;/li&gt;
@@ -128,9 +122,96 @@ faculty.&lt;/p&gt;
 final mark&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/OverallAssessment.png&#34; alt=&#34;Overall Assessment&#34; title=&#34;Overall assessment 
-pattern&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/OverallAssessment.png&#34; alt=&#34;Overall Assessment&#34; title=&#34;Overall assessment
+pattern&#34; /&gt;&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;h4 id=&#34;programming-assignment-marks&#34;&gt;Programming Assignment Marks&lt;/h4&gt;
+
+&lt;p&gt;The individual programming assignments cummulatively account for 35% of your total mark. Hence,
+all marks will finally be scaled to 35. Blackboard will show 7 columns for your programming assignments. The columns:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ProgAssgn-Coding&lt;/em&gt;: Cummulative score from the test-cases, across 4 assignments. Max marks - 20&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ProgAssgn-ZScore&lt;/em&gt;: Cummulative score from the AverageVelocity across 4 assignments. Max marks - 20&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ProgAssgn-PersonalTrend&lt;/em&gt;: Personal Trend score according to the slope of your AverageVelocity. Max marks - 10&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WeightedCodingMark&lt;/em&gt;: Coding accounts for 50% of your programming assignment mark. Max marks - 17.5&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WeightedZScore&lt;/em&gt;: The Z-Score accounts for 25% of your programing assignment mark. Max marks - 8.75&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WeightedPersonalTrend&lt;/em&gt;: The Personal Trend accounts for 25% of your programming assignment mark. Max marks - 8.75&lt;/p&gt;
+
+&lt;p&gt;The seventh column shows the aggregate marks (out of 35). The aggregate marks for the programming assignments are a summation of: &lt;em&gt;WeightedCodingMark&lt;/em&gt;, &lt;em&gt;WeightedZScore&lt;/em&gt;, &lt;em&gt;WeightedPersonalTrend&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h6 id=&#34;note-these-marks-have-been-uploaded-to-blackboard-if-you-don-t-see-a-mark-for-yourself-please-send-an-email-to-vivek-nallur-scss-tcd-ie&#34;&gt;&lt;strong&gt;NOTE: These marks have been uploaded to Blackboard. If you don&amp;rsquo;t see a mark for yourself, please send an email to: vivek.nallur@scss.tcd.ie&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr/&gt;
+
+&lt;h4 id=&#34;scrum-based-mini-project&#34;&gt;Scrum-Based Mini-Project&lt;/h4&gt;
+
+&lt;p&gt;Each project will be graded independently by three graders. Each grader will grade the sprints, as well as the final deliverable, and award a total mark out of 100. The marking table for the  mini-project is as follows:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Marks&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Explanation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;lt; 40&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;More than one deliverable missing; Committed documents unacceptable/incorrect/low quality&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;40-50&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Minimally correct, but barely adequate,  more than one deliverable missing&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;51-70&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Adequate; one/more faults present  or one deliverable missing&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;71-85&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Fairly good; No major faults; all deliverables present; minor obvious improvements possible&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;86-100&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Very good; Can expect to manage a project well, given evidence from deliverables&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h6 id=&#34;note-marks-for-the-project-have-not-yet-been-uploaded-to-blackboard-marks-will-be-scaled-from-the-total-mark-to-a-maximum-of-35&#34;&gt;&lt;strong&gt;NOTE: Marks for the project have not yet been uploaded to Blackboard. Marks will be scaled from the total mark to a maximum of 35.&lt;/strong&gt;&lt;/h6&gt;</description>
+    </item>
+    
+    <item>
+      <title>CS3012 - Assessment</title>
+      <link>http://viveknallur.github.io/teaching/assessment/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://viveknallur.github.io/teaching/assessment/</guid>
+      <description>&lt;p&gt;The assessment pattern for the module is as follows:
+
+There are two components to the module evaluation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Theory (evaluated using an exam) &amp;ndash; 30% of your final mark&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Practical (evaluated using assignments and a mini-project) &amp;ndash; 70% of your
+final mark&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/OverallAssessment.png&#34; alt=&#34;Overall Assessment&#34; title=&#34;Overall assessment
+pattern&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There is a difference between software engineering &amp;lsquo;in-the-large&amp;rsquo; and software
 engineering &amp;lsquo;in-the-small&amp;rsquo;. As explained during the first class, most of the
@@ -157,7 +238,7 @@ mini-project can be found &lt;a href=&#34;http://viveknallur.github.io/teaching/
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;evaluating-an-individual-assignment:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Evaluating an individual assignment&lt;/h4&gt;
+&lt;h4 id=&#34;evaluating-an-individual-assignment&#34;&gt;Evaluating an individual assignment&lt;/h4&gt;
 
 &lt;p&gt;Each individual assignment has three components that contribute toward your
 mark:&lt;/p&gt;
@@ -200,8 +281,7 @@ accuracy. This effectively measures you against your own previous performance.&l
 correctness, (b) performance vis-a-vis peers, ( c) performance vis-a-vis past
 performance&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/Assignment-Assessment-Pattern.png&#34; alt=&#34;Assignment Assessment Pattern&#34; title=&#34;The assessment pattern for cs3012&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://viveknallur.github.io/images/cs3012/Assignment-Assessment-Pattern.png&#34; alt=&#34;Assignment Assessment Pattern&#34; title=&#34;The assessment pattern for cs3012&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of our demonstrators, Gary Munnelly, has put together a little document
 along with code, test-cases, and scripts to give you a flavour of how the
@@ -210,7 +290,7 @@ evaluation of the individual assignments is done. Check it out
 
 &lt;hr/&gt;
 
-&lt;h5 id=&#34;test-cases:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Test Cases&lt;/h5&gt;
+&lt;h5 id=&#34;test-cases&#34;&gt;Test Cases&lt;/h5&gt;
 
 &lt;p&gt;The number of testcases may be different for each assignment, however your score
 will always be normalized to 5. That is, your maximum score will be five (5), if
@@ -234,7 +314,7 @@ all test cases pass. The minimum score will be zero (0), if:&lt;br/&gt;&lt;/p&gt
 
 &lt;hr/&gt;
 
-&lt;h5 id=&#34;z-score:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Z-score&lt;/h5&gt;
+&lt;h5 id=&#34;z-score&#34;&gt;Z-score&lt;/h5&gt;
 
 &lt;p&gt;The &lt;em&gt;Average Velocity&lt;/em&gt; of an assignment is calculated as: &lt;br/&gt;&lt;/p&gt;
 
@@ -266,31 +346,80 @@ deviations ==&amp;gt; 2 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;personal-trend:692c8e8921865a9687ae9a5c8a86f2ad&#34;&gt;Personal Trend&lt;/h4&gt;
+&lt;h4 id=&#34;personal-trend&#34;&gt;Personal Trend&lt;/h4&gt;
 
 &lt;p&gt;A student&amp;rsquo;s personal trendline is calculated as the best-fit straight line using
-the average velocities over all the assigments. The slope of this trendline
+the average velocities over all the assignments. The slope of this trendline
 shows the rate of change of AverageVelocity with continued assignments. All
-students should (ideally) have a negative slope, by the end of the course. The
-entire class&amp;rsquo; slope will be calculated at the end of the term, and the mean and
-standard deviation calculated. The marks for the slope will then be calculated
-using the bagging rules, that are as follows:&lt;/p&gt;
+students should (ideally) have a negative slope, by the end of the course.
+The slope indicates the improvement made over the period of the assignments. The more
+negative the slope, the greater the improvement, and correspondingly higher the score.
+A positive slope indicates that the student&amp;rsquo;s AverageVelocity has worsened over time.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;More than 1-standard deviation &lt;em&gt;below&lt;/em&gt; the mean ==&amp;gt; 5 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Each student&amp;rsquo;s slope is calculated and binned according to the table shown below. The student&amp;rsquo;s personal trend score depends on the first bin, that the slope falls into.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Between 1-standard deviation below mean and mean(incl. mean) ==&amp;gt; 4 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Bin&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;li&gt;&lt;p&gt;Up to 1-standard deviation &lt;em&gt;above&lt;/em&gt; mean =&amp;gt; 3 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Less than/equal to -0.77598254&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;li&gt;&lt;p&gt;More than 1-standard deviation &lt;em&gt;above&lt;/em&gt; mean but less than 2-standard
-deviations ==&amp;gt; 2 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;tr&gt;
+&lt;td&gt;-0.586965079&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;li&gt;&lt;p&gt;2-standard deviations and more &lt;em&gt;above&lt;/em&gt; the mean ==&amp;gt; 1 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;tr&gt;
+&lt;td&gt;-0.397947619&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;tr&gt;
+&lt;td&gt;-0.208930159&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;-0.019912698&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.169104762&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.358122222&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.547139683&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.736157143&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0.925174603&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -299,12 +428,12 @@ deviations ==&amp;gt; 2 &lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/project/</guid>
-      <description>
-
-&lt;p&gt;The process of the mini-project, to be developed using the scrum methodology, is
+      <description>&lt;p&gt;The process of the mini-project, to be developed using the scrum methodology, is
 detailed here.&lt;/p&gt;
 
-&lt;h4 id=&#34;group-selection-and-registration:10be9c81b9315bdc8704629d17642664&#34;&gt;Group Selection and Registration&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;group-selection-and-registration&#34;&gt;Group Selection and Registration&lt;/h4&gt;
 
 &lt;p&gt;All students must form groups and register their group with the faculty. A group
 can be formed with 4-6 students. Students are free to form groups of their
@@ -327,7 +456,7 @@ between the team and the faculty.&lt;/li&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;project-selection:10be9c81b9315bdc8704629d17642664&#34;&gt;Project Selection&lt;/h4&gt;
+&lt;h4 id=&#34;project-selection&#34;&gt;Project Selection&lt;/h4&gt;
 
 &lt;p&gt;There are three projects outlined on the &lt;a href=&#34;http://viveknallur.github.io/teaching/project-list&#34;&gt;projects&lt;/a&gt;
 page.  As a group, select one of the projects, according to your language and
@@ -340,7 +469,7 @@ the project.&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;project-development:10be9c81b9315bdc8704629d17642664&#34;&gt;Project Development&lt;/h4&gt;
+&lt;h4 id=&#34;project-development&#34;&gt;Project Development&lt;/h4&gt;
 
 &lt;p&gt;Project development will be done using the scrum methodology. This entails
 weekly sprint cycles. After the client describes the project requirements, the
@@ -374,8 +503,7 @@ the client. This will modify the &lt;em&gt;Product Backlog&lt;/em&gt;.
 Deliverables&lt;/em&gt; mentioned in the detailed requirements must be committed to the
 team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -384,11 +512,11 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/scrum-schedule/</guid>
-      <description>
+      <description>&lt;p&gt;Here is a list of, and schedule for, the scrum deliverables.&lt;/p&gt;
 
-&lt;p&gt;Here is a list of, and schedule for, the scrum deliverables.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;sprint-weekly-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;Sprint (weekly) deliverables&lt;/h4&gt;
+&lt;h4 id=&#34;sprint-weekly-deliverables&#34;&gt;Sprint (weekly) deliverables&lt;/h4&gt;
 
 &lt;p&gt;Sprint deliverable(s) from all teams (committed and pushed to their respective team-leader&amp;rsquo;s repository), are due by end-of-day (6 p.m.) on:&lt;/p&gt;
 
@@ -398,7 +526,7 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
 &lt;li&gt;6-December-2016&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&#34;list-of-sprint-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;List of sprint deliverables:&lt;/h5&gt;
+&lt;h5 id=&#34;list-of-sprint-deliverables&#34;&gt;List of sprint deliverables:&lt;/h5&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Burn-down chart&lt;/li&gt;
@@ -409,18 +537,17 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;final-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;Final deliverables&lt;/h4&gt;
+&lt;h4 id=&#34;final-deliverables&#34;&gt;Final deliverables&lt;/h4&gt;
 
 &lt;p&gt;The fourth sprint cycle (6-Dec to  12-Dec) culminates with the final deliverables. Every project has its own list of final deliverables. These  must be committed and pushed to the respective team-leader&amp;rsquo;s repository by end-of-day (6 p.m.) on: 13-December-2016&lt;/p&gt;
 
-&lt;h5 id=&#34;list-of-common-final-deliverables:5faa45d1332e72cae52f8a7d128a7db0&#34;&gt;List of (common) final deliverables:&lt;/h5&gt;
+&lt;h5 id=&#34;list-of-common-final-deliverables&#34;&gt;List of (common) final deliverables:&lt;/h5&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Signed (by all team members) declaration of work proportion&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -429,12 +556,11 @@ team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/slides/</guid>
-      <description>
+      <description>&lt;p&gt;Slides from the lectures for the CS 3012 course on Software Engineering can be
+found here.
+&lt;/p&gt;
 
-&lt;p&gt;Slides from the lectures for the CS 3012 course on Software Engineering can be
-found here.&lt;/p&gt;
-
-&lt;h5 id=&#34;slides:90014a872bdadc29d38e0ddafb91b9e9&#34;&gt;Slides&lt;/h5&gt;
+&lt;h5 id=&#34;slides&#34;&gt;Slides&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/01-introduction.pdf&#34;&gt;Introduction to the Module&lt;/a&gt;&lt;/li&gt;
@@ -456,8 +582,7 @@ found here.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/17-software-testing.pdf&#34;&gt;Software Testing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/18-biz-aspects-se.pdf&#34;&gt;Business and Legal Aspects of Software Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://viveknallur.github.io/slides/recap-lecture.pdf&#34;&gt;Re-cap Lecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -466,15 +591,13 @@ found here.&lt;/p&gt;
       <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/cs3012/</guid>
-      <description>
+      <description>&lt;p&gt;This is the landing page for the CS 3012 course on Software Engineering.
 
-&lt;p&gt;This is the landing page for the CS 3012 course on Software Engineering.&lt;/p&gt;
-
-&lt;p&gt;Here you can find announcements regarding the course, assignments, and other
+Here you can find announcements regarding the course, assignments, and other
 miscellaneous information. Take a look at the &lt;a href=&#34;http://viveknallur.github.io/teaching/&#34;&gt;other pages&lt;/a&gt; for more
 information about the course.&lt;/p&gt;
 
-&lt;h4 id=&#34;announcements:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Announcements&lt;/h4&gt;
+&lt;h4 id=&#34;announcements&#34;&gt;Announcements&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -498,7 +621,7 @@ group workshops that are tailored to the students&amp;rsquo; programming ability
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;mailto:whiteg5@scss.tcd.ie&#34;&gt;Gary White&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;assignments:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Assignments&lt;/h4&gt;
+&lt;h4 id=&#34;assignments&#34;&gt;Assignments&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -515,7 +638,7 @@ group workshops that are tailored to the students&amp;rsquo; programming ability
 &lt;li&gt;&lt;p&gt;Access assignment-4 &lt;a href=&#34;http://viveknallur.github.io/misc/assignment-4.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;gitlab:e3569ea0094b2f25a013d21134dc31b1&#34;&gt;Gitlab&lt;/h4&gt;
+&lt;h4 id=&#34;gitlab&#34;&gt;Gitlab&lt;/h4&gt;
 
 &lt;hr/&gt;
 
@@ -536,8 +659,7 @@ your-cs3012_username-directory&amp;gt; git push origin assignments
 
 &lt;p&gt;Remember to push to the &amp;lsquo;assignments&amp;rsquo; branch and not &amp;lsquo;master&amp;rsquo;.&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
     <item>
@@ -547,9 +669,9 @@ your-cs3012_username-directory&amp;gt; git push origin assignments
       
       <guid>http://viveknallur.github.io/smartcities/city-systems-report/</guid>
       <description>&lt;p&gt;The term &lt;em&gt;smart cities&lt;/em&gt; gets a lot of play in the tech press and there are many companies that present solutions in this space. But the root cause of the problem isn&amp;rsquo;t
-the lack of technology. Rather, it is pressure of population and the scarcity of resources in urban agglomerations, in a future that seems almost as inevitable as climate change.&lt;/p&gt;
+the lack of technology. Rather, it is pressure of population and the scarcity of resources in urban agglomerations, in a future that seems almost as inevitable as climate change.
 
-&lt;p&gt;Given this dystopian near-future, sustainability is the most important aspect that a wannabe smart city should focus on. And sustainability requires active and enthusiastic
+Given this dystopian near-future, sustainability is the most important aspect that a wannabe smart city should focus on. And sustainability requires active and enthusiastic
 participation from citizens. Instead of focussing on how many objects in a city are &lt;em&gt;connected&lt;/em&gt;, the emphasis should be on disseminating information and knowledge (which is quite a different concept) to
 citizens, so that they can participate fruitfully in how their city and life is governed. In my opinion, this is the smartest thing a smart-city could do.&lt;/p&gt;
 
@@ -562,8 +684,7 @@ of improvement in city life.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;http://www.janaagraha.org/about-us/&#34;&gt;&lt;strong&gt;Janaagraha Centre for Citizenship and Democracy&lt;/strong&gt;&lt;/a&gt; attempts to provide the first part of the jigsaw, in this regard.
 Their &lt;a href=&#34;http://janaagraha.org/reports/ASICS-2015.pdf&#34;&gt;annual survey on city-systems&lt;/a&gt; is a data-rich report with problem evaluation and measurement. Anyone interested
-in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take a look. London and New York are included as benchmarks.&lt;/p&gt;
-</description>
+in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take a look. London and New York are included as benchmarks.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -572,27 +693,23 @@ in a bird&amp;rsquo;s eye view of problems, across 21 Indian cities  should take
       <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/smarthopper/least_bumpy_ride/</guid>
-      <description>
+      <description>&lt;h4 id=&#34;least-bumpy-routing&#34;&gt;Least Bumpy Routing&lt;/h4&gt;
 
-&lt;h4 id=&#34;least-bumpy-routing:2cd36ad9af90a975251feeaeed6d527a&#34;&gt;Least Bumpy Routing&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; extended to use road smoothness data provided by cyclists.&lt;br /&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://viveknallur.github.io/smarthopper/introduction&#34;&gt;SmartHopper&lt;/a&gt; extended to use road smoothness data provided by cyclists.&lt;/p&gt;
-
-&lt;p&gt;One of the aims of SmartHopper is to be able to accept any spatial sensor data provided by citizens, and turn it into
+One of the aims of SmartHopper is to be able to accept any spatial sensor data provided by citizens, and turn it into
 useful information. One of our Masters&amp;rsquo; students is an avid cyclist, and he wrote an app that collected smoothness data
 from sensors attached to bikes. He then asked his friends to attach sensors and simply use it during their daily rides
 through the city. We were able to turn this road-by-road smoothness data into a heatmap and routing information with
 minimal effort (took us about 2-3 person days).&lt;/p&gt;
 
 &lt;p&gt;Take a look at the routing that&amp;rsquo;s now made possible, with SmartHopper
-&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least_Bumpy_800x600.jpg&#34; alt=&#34;Smoothest Cycling Route Through Dublin&#34; /&gt;
-&lt;/p&gt;
+&lt;img src=&#34;http://viveknallur.github.io/images/smarthopper/Least_Bumpy_800x600.jpg&#34; alt=&#34;Smoothest Cycling Route Through Dublin&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Notice, that in the visualization, the user can opt to see different layers of road smoothness. And also, SmartHopper simply took
 this information, and used it for providing the smoothest (or rather, &amp;ldquo;least bumpy&amp;rdquo;) route.&lt;/p&gt;
 
-&lt;p&gt;What else can you imagine SmartHopper being extended for?&lt;/p&gt;
-</description>
+&lt;p&gt;What else can you imagine SmartHopper being extended for?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -601,12 +718,12 @@ this information, and used it for providing the smoothest (or rather, &amp;ldquo
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/seams-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
+      <description>&lt;p&gt;
+Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
 in Multi-Agent Systems&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;
 Yaay!&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -615,11 +732,11 @@ Yaay!&lt;/p&gt;
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
+      <description>&lt;p&gt;
+Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
 Yaay!&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -628,12 +745,9 @@ Yaay!&lt;/p&gt;
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/eamonn-passes/</guid>
-      <description>
+      <description>&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours-hugomore42&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours! &lt;/h5&gt;
 
-&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours:d098cef219f9391405a424ae6f194f17&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours!&lt;/h5&gt;
-
-&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;
-</description>
+&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -642,13 +756,12 @@ Yaay!&lt;/p&gt;
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/futurecities-youtube/</guid>
-      <description>&lt;p&gt;FutureCities now has a Youtube! channel&lt;/p&gt;
+      <description>&lt;p&gt;FutureCities now has a Youtube! channel &lt;/p&gt;
 
 &lt;p&gt;The FutureCities centre now has a Youtube! channel, so it&amp;rsquo;s easier to find all
 of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC9odOg7SQMug4mQGzdJJehg&#34;&gt;FutureCities Youtube Channel&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC9odOg7SQMug4mQGzdJJehg&#34;&gt;FutureCities Youtube Channel&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -657,9 +770,7 @@ of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/eamonn-submits/</guid>
-      <description>
-
-&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection:dee999b9b5019ee00d8b9e52e357b2eb&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection!&lt;/h5&gt;
+      <description>&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection-hugomore42&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection! &lt;/h5&gt;
 
 &lt;p&gt;Eamonn has just submitted his thesis entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;. Way to go, Eamonn! Very well done! Of course, it&amp;rsquo;s really special to me since he&amp;rsquo;s my first PhD student mentee. It&amp;rsquo;s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!&lt;/p&gt;
 
@@ -671,46 +782,7 @@ of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
 and the components themselves, change dynamically?&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reproducible Results in Software Engineering</title>
-      <link>http://viveknallur.github.io/research/reproducible_research/</link>
-      <pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://viveknallur.github.io/research/reproducible_research/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Perhaps the central problem we face in all of computer science is how we are
-to get to the situation where we build on top of the work of others rather
-than redoing so much of it in a trivially different way.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&amp;ndash; Richard Hamming (From Turing Award lecture(1968))
-&lt;em&gt;Journal of the ACM (Jan 1969), 16, No. 1, 10.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;reproducing-and-sharing-results-of-experiments-in-software-engineering:0a02261f8657866700056ef61d86ade2&#34;&gt;Reproducing and Sharing Results of Experiments in Software Engineering&lt;/h4&gt;
-
-&lt;p&gt;Richard Hamming&amp;rsquo;s statement has perhaps never been as true, as it is true today. There are literally hundreds of conferences, with tens of thousands of papers published every year. Surely, going by the volume of output, we should be in a much better position with regard to the big problems, than we are at the moment. Of course, there are some problems that are genuinely hard, but even so, a whole lot of effort is expended in trying to do something trivially better or trivially different.&lt;/p&gt;
-
-&lt;p&gt;Part of the problem is that, at least in computer science, there&amp;rsquo;s no value accorded to repeating and verifying experiments. Due to the proliferation of platforms, libraries, languages, the amount of effort involved in reproducing someone else&amp;rsquo;s experiment is so huge that the average researcher doesn&amp;rsquo;t attempt it. If one is unable to reproduce a result, so what? It must be because the environment wasn&amp;rsquo;t just right, or the data-structure wasn&amp;rsquo;t the same as the one in the paper. Or reproducer&amp;rsquo;s code is wrong (even more insidiously, &amp;ldquo;has a bug&amp;rdquo;). The net result is that not many results are reproduced, which of course, then leads to a situation, where published papers have non-reproduceable results! This state of affairs would be unacceptable in any other science.&lt;/p&gt;
-
-&lt;p&gt;While Software Engineering has yet to figure out how to document and preserve forever and ever, the ideas/decisions/assumptions behind a big piece of code, we have reached a point where it is possible to checkpoint a piece of working code and make it available economically to anyone who wants it. Virtual Machines, while cool and dandy, are terribly big and difficult to share. Docker containers, though, in  my opinion, hit a sweet spot where, for certain kinds of code and libraries, the exact configuration and environment can be captured and shared with the world. Thanks to the Docker hub, we can also be reasonably sure that it (the code) won&amp;rsquo;t go away, as soon as researcher moves institutions (To my great mortification and embarrassment, all of my code and data vanished from my PhD student website, soon after I graduated. Which meant that reproducing (and building upon) my TSE paper results was next to impossible).&lt;/p&gt;
-
-&lt;h4 id=&#34;docker-hub-address:0a02261f8657866700056ef61d86ade2&#34;&gt;Docker Hub Address&lt;/h4&gt;
-
-&lt;p&gt;Having learnt my lesson, I&amp;rsquo;m going to put up all of  my paper submissions&amp;rsquo; code
-up on Docker Hub in a docker container. So, at the very least, folks can reproduce my results, if not build on it. I&amp;rsquo;m also trying to convince my colleagues to do the same.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hub.docker.com/r/viveknallur/&#34;&gt;Vivek Nallur&amp;rsquo;s Docker Hub Repo&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Complex Adaptive Systems on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/tags/complex-adaptive-systems/</link>
+    <link>http://viveknallur.github.io/tags/complex-adaptive-systems/index.xml</link>
     <description>Recent content in Complex Adaptive Systems on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Thu, 18 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/complex-adaptive-systems/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,12 +15,12 @@
       <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/seams-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
+      <description>&lt;p&gt;
+Our paper entitled &lt;strong&gt;&amp;ldquo;Clonal Plasticity: A Method for Decentralized Adaptation
 in Multi-Agent Systems&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://seams2016.jgreen.de/&#34;&gt;SEAMS&amp;rsquo;2016&lt;/a&gt;
 Yaay!&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -30,11 +29,11 @@ Yaay!&lt;/p&gt;
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/aamas-acceptance/</guid>
-      <description>&lt;p&gt;Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
+      <description>&lt;p&gt;
+Our paper entitled &lt;strong&gt;&amp;ldquo;Algorithm-Diversity: A Mechanism for Distributive Justice in a Socio-Technical MAS&amp;rdquo;&lt;/strong&gt; accepted at &lt;a href=&#34;http://sis.smu.edu.sg/aamas2016&#34;&gt;AAMAS&amp;rsquo;2016&lt;/a&gt;
 Yaay!&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;
-</description>
+&lt;p&gt;I&amp;rsquo;ll put up a pre-print copy of the paper in the &lt;em&gt;research&lt;/em&gt; section of the site. In the meantime, if you just can&amp;rsquo;t wait, send me an email.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,12 +42,9 @@ Yaay!&lt;/p&gt;
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/eamonn-passes/</guid>
-      <description>
+      <description>&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours-hugomore42&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours! &lt;/h5&gt;
 
-&lt;h5 id=&#34;eamonn-o-toole-passes-his-viva-on-decentralized-emergence-detection-with-flying-colours:d098cef219f9391405a424ae6f194f17&#34;&gt;Eamonn O&amp;rsquo;Toole passes his viva on decentralized emergence detection with flying colours!&lt;/h5&gt;
-
-&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;
-</description>
+&lt;p&gt;Eamonn successfully defended his thesis (entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;) on 15-Jan-2016. Way to go, soon-to-be Dr. Eamonn! Very well done!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -57,13 +53,12 @@ Yaay!&lt;/p&gt;
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/futurecities-youtube/</guid>
-      <description>&lt;p&gt;FutureCities now has a Youtube! channel&lt;/p&gt;
+      <description>&lt;p&gt;FutureCities now has a Youtube! channel &lt;/p&gt;
 
 &lt;p&gt;The FutureCities centre now has a Youtube! channel, so it&amp;rsquo;s easier to find all
 of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC9odOg7SQMug4mQGzdJJehg&#34;&gt;FutureCities Youtube Channel&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC9odOg7SQMug4mQGzdJJehg&#34;&gt;FutureCities Youtube Channel&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,9 +67,7 @@ of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/posts/eamonn-submits/</guid>
-      <description>
-
-&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection:dee999b9b5019ee00d8b9e52e357b2eb&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection!&lt;/h5&gt;
+      <description>&lt;h5 id=&#34;eamonn-o-toole-submits-his-thesis-on-decentralized-emergence-detection-hugomore42&#34;&gt;Eamonn O&amp;rsquo;Toole submits his thesis on decentralized emergence detection! &lt;/h5&gt;
 
 &lt;p&gt;Eamonn has just submitted his thesis entitled &amp;ldquo;Decentralized Detection of Emergence in Complex Adaptive Systems&amp;rdquo;. Way to go, Eamonn! Very well done! Of course, it&amp;rsquo;s really special to me since he&amp;rsquo;s my first PhD student mentee. It&amp;rsquo;s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!&lt;/p&gt;
 
@@ -86,8 +79,7 @@ of our work (when you&amp;rsquo;re not looking up our papers ;))&lt;/p&gt;
 and the components themselves, change dynamically?&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;
-</description>
+&lt;p&gt;For answers to these questions (and more), read his thesis! (We&amp;rsquo;ve also submitted a paper to TAAS. Fingers crossed!).&lt;/p&gt;</description>
     </item>
     
   </channel>

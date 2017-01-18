@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrum on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/tags/scrum/</link>
+    <link>http://viveknallur.github.io/tags/scrum/index.xml</link>
     <description>Recent content in Scrum on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Fri, 25 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,12 +15,12 @@
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://viveknallur.github.io/teaching/project/</guid>
-      <description>
-
-&lt;p&gt;The process of the mini-project, to be developed using the scrum methodology, is
+      <description>&lt;p&gt;The process of the mini-project, to be developed using the scrum methodology, is
 detailed here.&lt;/p&gt;
 
-&lt;h4 id=&#34;group-selection-and-registration:10be9c81b9315bdc8704629d17642664&#34;&gt;Group Selection and Registration&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;group-selection-and-registration&#34;&gt;Group Selection and Registration&lt;/h4&gt;
 
 &lt;p&gt;All students must form groups and register their group with the faculty. A group
 can be formed with 4-6 students. Students are free to form groups of their
@@ -44,7 +43,7 @@ between the team and the faculty.&lt;/li&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;project-selection:10be9c81b9315bdc8704629d17642664&#34;&gt;Project Selection&lt;/h4&gt;
+&lt;h4 id=&#34;project-selection&#34;&gt;Project Selection&lt;/h4&gt;
 
 &lt;p&gt;There are three projects outlined on the &lt;a href=&#34;http://viveknallur.github.io/teaching/project-list&#34;&gt;projects&lt;/a&gt;
 page.  As a group, select one of the projects, according to your language and
@@ -57,7 +56,7 @@ the project.&lt;/p&gt;
 
 &lt;hr/&gt;
 
-&lt;h4 id=&#34;project-development:10be9c81b9315bdc8704629d17642664&#34;&gt;Project Development&lt;/h4&gt;
+&lt;h4 id=&#34;project-development&#34;&gt;Project Development&lt;/h4&gt;
 
 &lt;p&gt;Project development will be done using the scrum methodology. This entails
 weekly sprint cycles. After the client describes the project requirements, the
@@ -91,8 +90,7 @@ the client. This will modify the &lt;em&gt;Product Backlog&lt;/em&gt;.
 Deliverables&lt;/em&gt; mentioned in the detailed requirements must be committed to the
 team-leader&amp;rsquo;s repository by the end of 13-December, at the latest.&lt;/p&gt;
 
-&lt;hr/&gt;
-</description>
+&lt;hr/&gt;</description>
     </item>
     
   </channel>

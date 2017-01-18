@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithmic Diversity on Vivek Nallur</title>
-    <link>http://viveknallur.github.io/tags/algorithmic-diversity/</link>
+    <link>http://viveknallur.github.io/tags/algorithmic-diversity/index.xml</link>
     <description>Recent content in Algorithmic Diversity on Vivek Nallur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Vivek Nallur</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://viveknallur.github.io/tags/algorithmic-diversity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -27,8 +26,7 @@ do not stay at the same level, as when deployed.&lt;/p&gt;
 &lt;p&gt;We are investigating whether using a pool of algorithms, instead of a single optimal pre-chosen algorithm, could impact the software system&amp;rsquo;s quality attributes
 in a positive way, and if so, how do we quantify it? And herein lies the challenge. A little reflection would lead us to the conclusion that, in an uncertain
 operating environment, using a pool of algorithms would definitely affect the system&amp;rsquo;s robustness, but by how much? And can we pre-determine the
-amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;
-</description>
+amount of diversity in this pool? These are some of the questions that we aim to answer, with our experiments in algorithmic diversity.&lt;/p&gt;</description>
     </item>
     
   </channel>
