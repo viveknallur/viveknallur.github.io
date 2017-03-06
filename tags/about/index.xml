@@ -58,14 +58,14 @@ paragraph!&lt;/p&gt;
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 
-&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
+&lt;p&gt;I am a lecturer/assistant professor at &lt;a href=&#34;https://www.cs.ucd.ie/&#34;&gt;School of Computer Science&lt;/a&gt;. Previously, I used to work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
 &lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
 Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
 Dublin&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;current-project&#34;&gt;Current Project&lt;/h2&gt;
+&lt;h2 id=&#34;past-project&#34;&gt;Past Project&lt;/h2&gt;
 
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;</description>
+&lt;p&gt;At Trinity, I used to work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;</description>
     </item>
     
   </channel>

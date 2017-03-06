@@ -59,14 +59,14 @@ paragraph!&lt;/p&gt;
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 
-&lt;p&gt;I work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
+&lt;p&gt;I am a lecturer/assistant professor at &lt;a href=&#34;https://www.cs.ucd.ie/&#34;&gt;School of Computer Science&lt;/a&gt;. Previously, I used to work as a &lt;a href=&#34;{{ site.baseurl }}/research.html&#34;&gt;Research Fellow&lt;/a&gt; with the
 &lt;a href=&#34;http://www.dsg.cs.tcd.ie&#34;&gt;Distributed Systems Group&lt;/a&gt; in the &lt;a href=&#34;http://www.scss.tcd.ie&#34;&gt;School of
 Computer Science &amp;amp; Statistics&lt;/a&gt; at &lt;a href=&#34;http://www.tcd.ie&#34;&gt;Trinity College
 Dublin&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;current-project&#34;&gt;Current Project&lt;/h2&gt;
+&lt;h2 id=&#34;past-project&#34;&gt;Past Project&lt;/h2&gt;
 
-&lt;p&gt;I work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;</description>
+&lt;p&gt;At Trinity, I used to work on an EU project called &lt;a href=&#34;http://diversify-project.eu&#34;&gt;Diversify&lt;/a&gt; which aims at using &amp;lsquo;Diversity&amp;rsquo; as a foundational principle in making better collaborative adaptive systems. My main interest is in self-adaptive systems, engineering them, predicting/controlling their various properties, getting them to collaborate, and  preventing/boosting emergent effects.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,20 +79,19 @@ Dublin&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&#34;location&#34;&gt;Location&lt;/h1&gt;
 
-&lt;p&gt;Lloyd Institute(&lt;a href=&#34;https://www.tcd.ie/Maps/&#34;&gt;Map&lt;/a&gt;)&lt;br /&gt;
-&lt;strong&gt;Office&lt;/strong&gt;: 1.17&lt;/p&gt;
+&lt;p&gt;School of Computer Science(&lt;a href=&#34;https://www.google.com/maps/dir//53.3092493,-6.2238942/@53.3093473,-6.2941617,12z/data=!3m1!4b1&#34;&gt;Google Maps link&lt;/a&gt;)&lt;br /&gt;
+&lt;strong&gt;Office&lt;/strong&gt;: A1.01&lt;/p&gt;
 
 &lt;h1 id=&#34;postal&#34;&gt;Postal&lt;/h1&gt;
 
-&lt;p&gt;Distributed Systems Group,&lt;br /&gt;
-School of Computer Science &amp;amp; Statistics,&lt;br /&gt;
-Trinity College,&lt;br /&gt;
-Dublin 2,&lt;br /&gt;
+&lt;p&gt;School of Computer Science,&lt;br /&gt;
+University College Dublin,&lt;br /&gt;
+Dublin 4,&lt;br /&gt;
 Ireland&lt;/p&gt;
 
 &lt;h1 id=&#34;electronic&#34;&gt;Electronic&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at scss.tcd.ie&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;Email&lt;/em&gt;: firstname.lastname at ucd.ie&lt;/p&gt;</description>
     </item>
     
   </channel>
