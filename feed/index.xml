@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vivek Nallur</title>
+	<atom:link href="https://viveknallur.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viveknallur.github.io</link>
+	<description>The site for Vivek&#039;s (mostly academic) life</description>
+	<lastBuildDate>Wed, 23 May 2018 12:11:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>What is Machine Ethics?</title>
+		<link>https://viveknallur.github.io/what-is-machine-ethics/</link>
+		<comments>https://viveknallur.github.io/what-is-machine-ethics/#respond</comments>
+		<pubDate>Tue, 22 May 2018 22:35:43 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+				<category><![CDATA[Machine Ethics]]></category>
+
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=232</guid>
+		<description><![CDATA[What does it mean for a machine to have ethics? Is that even possible? Why would we care if a machine is ethical or not, as long as it does what we tell it to do? There are a variety of positions on each of these questions. The two extreme positions on whether a machine [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>What does it mean for a machine to have ethics? Is that even possible? Why would we care if a machine is ethical or not, as long as it does what we tell it to do?</em></p>
+<p>There are a variety of positions on each of these questions. The two extreme positions on whether a machine can be ethical are as follows:</p>
+<ul>
+<li><em>Machines can never have ethics, since machines are bereft of emotions and emotions are integral to ethics</em>.</li>
+<li><em>Humans are not special. It is entirely possible that some machines could have a sense of ethics.</em></li>
+</ul>
+<p><span id="more-232"></span></p>
+<p>The first position essentially contends that there is something special about human beings which gives us a sense of ethics. According to this position, human beings have free-will, intentionality and consciousness, all of which are pre-requisites for ethics. If you agree with this position, then there is no more debate to be had. Since machines, even autonomous ones do not have <span style="text-decoration: underline;">intentionality</span> or <span style="text-decoration: underline;">consciousness</span>, they can never be said to have any sense of ethics. The trouble with this position is these foundational terms are not well-defined. <em>What exactly is consciousness? </em>Even those in the I-know-it-when-I-see-it camp can only possibly know that they themselves are conscious, but can never really tell if another human being is conscious.</p>
+<p>The second position contends that it is irrelevant whether a machine is human-like or not, but it may still have the ability to be ethical and can be evaluated on that question. James H. Moor in his <em>The Nature, Importance and Difficulty of Machine Ethics</em><span id="CetfJsfrpQCEU7~PTXvdc" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;1888356253&quot;]" data-footnote="undefined"><sup>1</sup></span> contends that there are four different degrees of ethical evaluations for autonomous agents:</p>
+<ol>
+<li>Ethical Impact Agents &#8211; Autonomous machines or robots or software that has an ethical impact on the world it interacts with. He uses the example of usage robot jockeys for camel racing in Qatar. Having robot jockeys decreases the demand for children being trafficked from poorer countries to be camel jockeys, thus having an ethical impact.</li>
+<li>Implicit Ethical Agents &#8211; This refers to software / hardware this is created to follow some ethical principles, but does not actually reason about ethics itself. Thus, any banking software that ensures that banking rules are followed is an implicit ethical agent. It is implicitly ethical because the creators of the software programmed it to behave in an ethical manner, and not cheat people out of money. However, the software itself cannot reason about its behaviour.</li>
+<li>Explicit Ethical Agents &#8211; These are software / hardware that have some ethical principles programmed into them, and the agents use these principles to choose from several alternative actions, autonomously. For example, Michael Anderson, Susan Anderson and Chris Armen discuss <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.7355&amp;rep=rep1&amp;type=pdf">two ethical theories that they programmed into a robot,</a> but it (the robot) is far from being called an ethical agent. They contend that regardless of the efficacy (completeness, soundness, robustness) of the theory, it could be better to have ethical principles programmed into robots than not. This is so because machines can at least be consistent, which is lacking in human beings.</li>
+<li>Full Ethical Agents &#8211; Adult human beings are usually considered full ethical agents, because not only do they (presumably) act ethically, but they can also provide a justification for why they acted the way they did. This is usually the most contentious part of machines with ethics. Some people believe that only full ethical agents can be called ethical agents at all.</li>
+</ol>
+<p>Whether we consider machines to have consciousness, free-will and intentionality or not, we will have to concede that as machines become more and more autonomous, they need to have some mechanism to ensure that they behave ethically towards human beings. Nick Bostrom created his now-famous example of a super-intelligence that consumes all of the planet&#8217;s resources trying to make more and more paperclips. Given that we may not be able to thwart such a super-intelligence, it might be only ethical considerations that prevent the super-intelligence from drowning the planet in paperclips.</p>
+<p>&nbsp;</p>
+<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;1888356253&quot;]">
+<div id="abt-bibliography__container" class="abt-bibliography__container">
+<div id="1888356253">
+<div class="csl-entry flush">
+<div class="csl-left-margin">1.</div>
+<div class="csl-right-inline">Moor JH. The Nature, Importance, and Difficulty of Machine Ethics. <i>I</i>. 2006;21(4):18-21. doi:<a href="https://doi.org/10.1109/mis.2006.80" target="_blank" rel="noopener noreferrer">10.1109/mis.2006.80</a></div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://viveknallur.github.io/what-is-machine-ethics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Machine Ethics &#8211; Welcome</title>
+		<link>https://viveknallur.github.io/machine-ethics-welcome/</link>
+		<pubDate>Tue, 24 Apr 2018 15:01:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Machine Ethics]]></category>
+
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=129</guid>
+		<description><![CDATA[This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!! If you want to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!!</p>
+<p>If you want to contribute a post, <a href="https://viveknallur.github.io/contact/contact-me/">get in touch</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Awarded Seed Funding</title>
+		<link>https://viveknallur.github.io/awarded-seed-funding/</link>
+		<comments>https://viveknallur.github.io/awarded-seed-funding/#respond</comments>
+		<pubDate>Mon, 23 Apr 2018 10:29:22 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+				<category><![CDATA[Vivek's Research Blog]]></category>
+
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=237</guid>
+		<description><![CDATA[I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of Inserting Ethics Into Autonomous Machines.  Yay! The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of <em>Inserting Ethics Into Autonomous Machines</em>.  Yay!</p>
+<p>The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be considered? How should they be implemented? How could we verify that a machine that claims to follow an ethical principle, is indeed ethical?</p>
+<p>The School of Computer Science has kindly agreed to co-fund some of these talks, which means that we should be able to reimburse speakers from the EU, for flights as well as a night&#8217;s stay. Looking forward to an eclectic and thought-provoking set of talks.</p>
+<p>If you have any ideas for speakers or topics, <a href="https://viveknallur.github.io/contact-me/">get in touch</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://viveknallur.github.io/awarded-seed-funding/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eamonn O’Toole submits his thesis on decentralized emergence detection!</title>
+		<link>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/</link>
+		<comments>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/#respond</comments>
+		<pubDate>Sat, 07 Nov 2015 17:43:40 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+				<category><![CDATA[Vivek's Research Blog]]></category>
+
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=225</guid>
+		<description><![CDATA[Eamonn has just submitted his thesis entitled “Decentralized Detection of Emergence in Complex Adaptive Systems”. Way to go, Eamonn! Very well done! Of course, it’s really special to me since he’s my first PhD student mentee. It’s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far! The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Eamonn has just submitted his thesis entitled “Decentralized Detection of Emergence in Complex Adaptive Systems”. Way to go, Eamonn! Very well done! Of course, it’s really special to me since he’s my first PhD student mentee. It’s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!</p>
+<p>The thesis looks at the problem of detecting emergence in a large-scale complex adaptive systems, where each part could potentially be adapting independently. Given the large-scale and decentralized nature of such systems, the big questions are:</p>
+<ul>
+<li><em>Is it possible to detect emergence in a decentralized fashion?</em></li>
+<li><em>How do you know which variables are interesting, given that the environment and the components themselves, change dynamically?</em></li>
+</ul>
+<p>For answers to these questions (and more), read his thesis! Too busy to read a thesis (you&#8217;re missing out)? Check out our TAAS Paper<span id="PgnqkLFUHu44vtaqij3Ze" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;1777792285&quot;]" data-footnote="undefined"><sup>1</sup></span>.</p>
+<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;1777792285&quot;]">
+<div id="abt-bibliography__container" class="abt-bibliography__container">
+<div id="1777792285">
+<div class="csl-entry flush">
+<div class="csl-left-margin">1.</div>
+<div class="csl-right-inline">O’toole E, Nallur V, Clarke S. Decentralised Detection of Emergence in Complex Adaptive Systems. <i>A</i>. 2017;12(1):1-31. doi:<a href="https://doi.org/10.1145/3019597" target="_blank" rel="noopener noreferrer">10.1145/3019597</a></div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
