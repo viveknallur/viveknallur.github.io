@@ -12,12 +12,82 @@
 	<atom:link href="https://viveknallur.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly academic) life</description>
-	<lastBuildDate>Wed, 23 May 2018 22:23:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Jun 2018 17:51:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>Can Machines be Moral Agents?</title>
+		<link>https://viveknallur.github.io/can-machines-be-moral-agents/</link>
+		<comments>https://viveknallur.github.io/can-machines-be-moral-agents/#respond</comments>
+		<pubDate>Tue, 12 Jun 2018 17:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+				<category><![CDATA[Machine Ethics]]></category>
+
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=261</guid>
+		<description><![CDATA[The question of whether a machine can ever be a moral agent, i.e., be an agent that can be considered morally responsible, is dependent on which side of the philosophical debate one falls on. Normally, we consider human beings to be moral agents, but technology created by humans to be morally neutral. That is, a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The question of whether a machine can ever be a moral agent, i.e., be an agent that can be considered morally responsible, is dependent on which side of the philosophical debate one falls on. Normally, we consider human beings to be moral agents, but technology created by humans to be morally neutral. That is, a knife is not a moral entity and no one expects to reprimand the knife if it cuts one&#8217;s hand or praise it if it slices through vegetables. The human wielding the knife is usually responsible for the actions done, using the knife. Thus, the knife&#8217;s effect on the world, whether positive or negative, is not the responsibility of the knife, even though it is clearly the consequence of the knife. Does this mean that only human beings are morally responsible, for any consequence of technological objects in the environment? And are any artificial artifacts exempt from morality? Clearly, this is not entirely black-and-white. For instance, infants, and children are usually not expected to be morally responsible for their actions, while artificial persons (such as corporations) are. So, the natural-ness or artificiality is not the sole determining criteria.</p>
+<p><span id="more-261"></span></p>
+<p>Regardless of which ethical theory one believes in, most philosophers seem to agree that there are three properties to be examined while determining if an agent is morally responsible or not:</p>
+<ol>
+<li>Autonomy &#8211; This is the least contentious of all. If an act is forced, through design/coercion/any other means, then the agent cannot be held morally responsible for the act. This is also sometimes characterized as <em>free-will</em>. The agent must be able to choose among a multiplicity of actions (even &#8220;not acting&#8221; is an action) in a given situation, based on some internal states.</li>
+<li>Intentionality &#8211; The agent must <span style="text-decoration: underline;">intend</span> to perform the action. Thus, sneezing/reflex actions are not moral actions, even if they affect the environment, positively or negatively. This is the most difficult to show/prove.</li>
+<li>Responsibility &#8211; Is the agent in a position of responsibility or can the agent be held responsible for the action? (This is why small children are not considered to be full moral agents. They are not thought of as being responsible for the consequences of their actions)</li>
+</ol>
+<p>Deborah Johnson considers other conditions<span id="qiP_1LvH0ts6jaWrbszaC" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;3495340121&quot;]" data-footnote="undefined"><sup>1</sup></span> that can be used to decide whether an action is morally evaluate-able, but concedes that most of those conditions can be met for machines (or at least, met as convincingly as human beings) apart from <em>intending to act</em>.</p>
+<h4>Autonomy</h4>
+<p>Human beings like to think of themselves as autonomous, and machines and robots as technological artifacts having no autonomy because these are (ultimately) deterministic programs. Despite recent advances in Machine Learning and AI  where mechanisms have non-deterministic outputs, researchers such as Bringsjord contend that these are not truly autonomous actions, rather actions that are determined by a random factor<span id="1LPEdCPyOo9Rl7e1FfkOU" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;1091718972&quot;]" data-footnote="undefined"><sup>2</sup></span>. The problem with this line of reasoning is that it applies to human beings as well. We are all products of our environment, our culture, our education, etc. So who is truly autonomous?</p>
+<h4>Intentionality</h4>
+<p>Intentionality is, to my mind, the most difficult aspect of the triad. In theory, for most machines/robots/artificial agents, we could have access to their internal states and thereby (posthoc) show that their actions were intentional. However, sufficiently complex internal states along with autonomy would make showing this rigorously, impossible. Again, this argument about non-rigour holds for human beings as well. According to Sullins, this rigour is really not necessary<span id="iSXrXIdle3dSnfGPkED2R" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;4176879265&quot;]" data-footnote="undefined"><sup>3</sup></span>. Given complex behaviour, when one is forced to rely on what <em>seems to</em> <em>people</em> like pre-disposition or intention, it is enough to call this intentionality. Deborah Johnson, on the other hand, contends that there is very definite intentionality: intentionality of designers and intentionality of users<span id="~j75Q5mj7GUR3pwFANisY" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;3495340121&quot;]" data-footnote="undefined"><sup>1</sup></span>. She views the robot/autonomous agent as &#8220;<em>poised to behave</em>&#8221; in the way that the designers intended it to, but the &#8220;intentionality of computer systems is inert or latent without the intentionality of the user&#8221;.  So, though intentionality on the part of the agent is difficult to prove, many researchers are prepared to concede that some sort of intentionality could exist.</p>
+<h4>Responsibility</h4>
+<p>If a machine&#8217;s behaviour can only reasonably be described if it has a sense of responsibility, <em>i.e.</em>, the behaviour only makes sense if the machine (in the absence of any known malfunction) had a sense of responsibility, then we must ascribe responsibility to the machine<span id="qS_KxoIA~MEqq6Kvxf2bv" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;4176879265&quot;]" data-footnote="undefined"><sup>3</sup></span>. This effectively means that:</p>
+<ul>
+<li>if the machine knows that its actions will change the environment, and then autonomically decides on which action to take, then it must &#8216;want&#8217; that change.</li>
+<li>If it &#8216;wants&#8217; this change, and takes action to effect that change, then it is effectively assuming that it is responsible for bringing about that change.</li>
+</ul>
+<p>There are two other interesting positions, on whether an agent is a moral agent or not. Nadeau contends that only a fully thought out action with reasoning can be a free action. And if free will is a necessity for moral agency, then human beings are <em>not moral agents!</em> In fact, only a robot/agent can be completely logical and therefore completely free. Hence, if we can build such a machine, it will be the first truly moral agent!<span id="CCjOuGGoQI2etswcWcXtW" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;1077859105&quot;]" data-footnote="undefined"><sup>4</sup></span></p>
+<p>The other interesting position comes from Luciano Floridi<span id="oLcs_6BBU47aBsEPzLOCG" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;125313493&quot;]" data-footnote="undefined"><sup>5</sup></span>. He argues that a theory-of-mind based morality is unnecessary, and that morality can be discussed without recourse to anthropomorphically charged and philosophically contested concepts. According to Floridi, the entire notion of agent-hood depends on the level of abstraction from which we view a system. That is, even human beings would not be considered agents, if we viewed human beings as collections of molecules subject to bio-chemical and physical forces. The bio-chemical perspective is technically correct, but unsuitable for a discussion of society, laws or ethics. To discuss such concepts relating to agent-hood, we typically use a different level of abstraction. Hence, it is enough for the machine to be subjected to the same level of abstraction that a human is, while deciding whether the machine is an agent or not. He argues that the right level of abstraction must contain three criteria: (a) <em>interactivity; </em>(b) <em>autonomy; </em> and (c) <em>adaptability</em>. He then goes on to discuss multiple different machines, that could potentially satisfy each or any of these criteria. He finally posits that any machine that satisfies all three criteria has as much right to agenthood, as a human being.</p>
+<p>In between the no-agenthood position and the full-agenthood position, there are other positions to take. Johnson, for instance, takes the position that while machines can never be full-agents, they are quite definitely moral entities<span id="MGLgIOXSxc3ZY3d2ZNPtY" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;3495340121&quot;]"><sup>1</sup></span>.</p>
+<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;3495340121&quot;,&quot;1091718972&quot;,&quot;4176879265&quot;,&quot;1077859105&quot;,&quot;125313493&quot;]">
+<div id="abt-bibliography__container" class="abt-bibliography__container">
+<div id="3495340121">
+<div class="csl-entry flush">
+<div class="csl-left-margin">1.</div>
+<div class="csl-right-inline">Johnson DG. Computer systems: Moral entities but not moral agents. <i>E</i>. 2006;8(4):195-204. doi:<a href="https://doi.org/10.1007/s10676-006-9111-5" target="_blank" rel="noopener noreferrer">10.1007/s10676-006-9111-5</a></div>
+</div>
+</div>
+<div id="1091718972">
+<div class="csl-entry flush">
+<div class="csl-left-margin">2.</div>
+<div class="csl-right-inline">Bringsjord S. Ethical robots: the future can heed us. <i>A</i>. 2007;22(4):539-550. doi:<a href="https://doi.org/10.1007/s00146-007-0090-9" target="_blank" rel="noopener noreferrer">10.1007/s00146-007-0090-9</a></div>
+</div>
+</div>
+<div id="4176879265">
+<div class="csl-entry flush">
+<div class="csl-left-margin">3.</div>
+<div class="csl-right-inline">Sullins JP. When Is a Robot a Moral Agent? In: Anderson M, Anderson SL, eds. <i>Machine Ethics</i>. Cambridge University Press; 0:151-161. doi:<a href="https://doi.org/10.1017/cbo9780511978036.013" target="_blank" rel="noopener noreferrer">10.1017/cbo9780511978036.013</a></div>
+</div>
+</div>
+<div id="1077859105">
+<div class="csl-entry flush">
+<div class="csl-left-margin">4.</div>
+<div class="csl-right-inline">Nadeau JE. Only Androids Can Be Ethical. <i>Thinking about Android Epistemology</i>. 2006:241&#8211;248.</div>
+</div>
+</div>
+<div id="125313493">
+<div class="csl-entry flush">
+<div class="csl-left-margin">5.</div>
+<div class="csl-right-inline">Floridi L. On the Morality of Artificial Agents. In: Anderson M, Anderson SL, eds. <i>Machine Ethics</i>. Cambridge University Press; 0:184-212. doi:<a href="https://doi.org/10.1017/cbo9780511978036.016" target="_blank" rel="noopener noreferrer">10.1017/cbo9780511978036.016</a></div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://viveknallur.github.io/can-machines-be-moral-agents/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>What is Machine Ethics?</title>
 		<link>https://viveknallur.github.io/what-is-machine-ethics/</link>
 		<comments>https://viveknallur.github.io/what-is-machine-ethics/#respond</comments>
