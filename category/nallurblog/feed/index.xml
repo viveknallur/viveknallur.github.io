@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vivek&#8217;s Research Blog &#8211; Vivek Nallur</title>
-	<atom:link href="https://viveknallur.github.io/category/nallurblog/feed/" rel="self" type="application/rss+xml" />
-	<link>https://viveknallur.github.io</link>
+	<atom:link href="/category/nallurblog/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
 	<lastBuildDate>Tue, 07 Aug 2018 14:28:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,46 +19,46 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Going to AAMAS&#8217;18</title>
-		<link>https://viveknallur.github.io/going-to-aamas18/</link>
-		<comments>https://viveknallur.github.io/going-to-aamas18/#respond</comments>
+		<link>/going-to-aamas18/</link>
+		<comments>/going-to-aamas18/#respond</comments>
 		<pubDate>Fri, 06 Jul 2018 09:04:42 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=284</guid>
+		<guid isPermaLink="false">/?p=284</guid>
 		<description><![CDATA[Excited to be going to AAMAS 2018. Presenting two papers there: JAAMAS Track &#8211; Clonal Plasticity Adapative and Learning Agents Workshop &#8211; ARENA: Towards a Game Playing Framework Looking forward to meeting the community again, and forging some new links.]]></description>
 				<content:encoded><![CDATA[<p>Excited to be going to AAMAS 2018. Presenting two papers there:</p>
 <ul>
-<li>JAAMAS Track &#8211; <a href="https://viveknallur.github.io/research/publications/">Clonal Plasticity</a></li>
-<li>Adapative and Learning Agents Workshop &#8211; <a href="https://viveknallur.github.io/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
+<li>JAAMAS Track &#8211; <a href="/research/publications/">Clonal Plasticity</a></li>
+<li>Adapative and Learning Agents Workshop &#8211; <a href="/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
 </ul>
 <p>Looking forward to meeting the community again, and forging some new links.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/going-to-aamas18/feed/</wfw:commentRss>
+			<wfw:commentRss>/going-to-aamas18/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Awarded Seed Funding</title>
-		<link>https://viveknallur.github.io/awarded-seed-funding/</link>
-		<comments>https://viveknallur.github.io/awarded-seed-funding/#respond</comments>
+		<link>/awarded-seed-funding/</link>
+		<comments>/awarded-seed-funding/#respond</comments>
 		<pubDate>Mon, 23 Apr 2018 10:29:22 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=237</guid>
+		<guid isPermaLink="false">/?p=237</guid>
 		<description><![CDATA[I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of Inserting Ethics Into Autonomous Machines.  Yay! The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of <em>Inserting Ethics Into Autonomous Machines</em>.  Yay!</p>
 <p>The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be considered? How should they be implemented? How could we verify that a machine that claims to follow an ethical principle, is indeed ethical?</p>
 <p>The School of Computer Science has kindly agreed to co-fund some of these talks, which means that we should be able to reimburse speakers from the EU, for flights as well as a night&#8217;s stay. Looking forward to an eclectic and thought-provoking set of talks.</p>
-<p>If you have any ideas for speakers or topics, <a href="https://viveknallur.github.io/contact-me/">get in touch</a>.</p>
+<p>If you have any ideas for speakers or topics, <a href="/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/awarded-seed-funding/feed/</wfw:commentRss>
+			<wfw:commentRss>/awarded-seed-funding/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Eamonn O’Toole submits his thesis on decentralized emergence detection!</title>
-		<link>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/</link>
-		<comments>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/#respond</comments>
+		<link>/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/</link>
+		<comments>/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/#respond</comments>
 		<pubDate>Sat, 07 Nov 2015 17:43:40 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
@@ -83,7 +83,7 @@
 </div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/feed/</wfw:commentRss>
+			<wfw:commentRss>/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

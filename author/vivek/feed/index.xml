@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vivek Nallur &#8211; Vivek Nallur</title>
-	<atom:link href="https://viveknallur.github.io/author/vivek/feed/" rel="self" type="application/rss+xml" />
-	<link>https://viveknallur.github.io</link>
+	<atom:link href="/author/vivek/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
 	<lastBuildDate>Tue, 07 Aug 2018 14:28:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,33 +19,33 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Going to AAMAS&#8217;18</title>
-		<link>https://viveknallur.github.io/going-to-aamas18/</link>
-		<comments>https://viveknallur.github.io/going-to-aamas18/#respond</comments>
+		<link>/going-to-aamas18/</link>
+		<comments>/going-to-aamas18/#respond</comments>
 		<pubDate>Fri, 06 Jul 2018 09:04:42 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=284</guid>
+		<guid isPermaLink="false">/?p=284</guid>
 		<description><![CDATA[Excited to be going to AAMAS 2018. Presenting two papers there: JAAMAS Track &#8211; Clonal Plasticity Adapative and Learning Agents Workshop &#8211; ARENA: Towards a Game Playing Framework Looking forward to meeting the community again, and forging some new links.]]></description>
 				<content:encoded><![CDATA[<p>Excited to be going to AAMAS 2018. Presenting two papers there:</p>
 <ul>
-<li>JAAMAS Track &#8211; <a href="https://viveknallur.github.io/research/publications/">Clonal Plasticity</a></li>
-<li>Adapative and Learning Agents Workshop &#8211; <a href="https://viveknallur.github.io/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
+<li>JAAMAS Track &#8211; <a href="/research/publications/">Clonal Plasticity</a></li>
+<li>Adapative and Learning Agents Workshop &#8211; <a href="/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
 </ul>
 <p>Looking forward to meeting the community again, and forging some new links.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/going-to-aamas18/feed/</wfw:commentRss>
+			<wfw:commentRss>/going-to-aamas18/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Implementing Ethics in Machines</title>
-		<link>https://viveknallur.github.io/implementing-ethics-in-machines/</link>
-		<comments>https://viveknallur.github.io/implementing-ethics-in-machines/#respond</comments>
+		<link>/implementing-ethics-in-machines/</link>
+		<comments>/implementing-ethics-in-machines/#respond</comments>
 		<pubDate>Thu, 28 Jun 2018 16:49:14 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=270</guid>
+		<guid isPermaLink="false">/?p=270</guid>
 		<description><![CDATA[If we wanted to implement ethics in a robot, how would we do it? What ethics should we implement? Are Asimov&#8217;s three laws enough? Although, there seems to be philosophical consensus that Asimov&#8217;s Three Laws of Robotics are nowhere near enough for a satisfactory ethical robot, there are still attempts at creating robots that do [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>If we wanted to implement ethics in a robot, how would we do it? What ethics should we implement? Are Asimov&#8217;s three laws enough?</p>
 <p>Although, there seems to be philosophical consensus that Asimov&#8217;s Three Laws of Robotics are nowhere near enough for a satisfactory ethical robot, there are still attempts at creating robots that do implement some version of Asimov&#8217;s Laws. Perhaps this tells us something about ourselves, as human beings. Even for researchers, fiction exerts a power of imagination and framing that is difficult to shake off.</p>
@@ -84,18 +84,18 @@
 </div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/implementing-ethics-in-machines/feed/</wfw:commentRss>
+			<wfw:commentRss>/implementing-ethics-in-machines/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Can Machines be Moral Agents?</title>
-		<link>https://viveknallur.github.io/can-machines-be-moral-agents/</link>
-		<comments>https://viveknallur.github.io/can-machines-be-moral-agents/#respond</comments>
+		<link>/can-machines-be-moral-agents/</link>
+		<comments>/can-machines-be-moral-agents/#respond</comments>
 		<pubDate>Tue, 12 Jun 2018 17:51:05 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=261</guid>
+		<guid isPermaLink="false">/?p=261</guid>
 		<description><![CDATA[The question of whether a machine can ever be a moral agent, i.e., be an agent that can be considered morally responsible, is dependent on which side of the philosophical debate one falls on. Normally, we consider human beings to be moral agents, but technology created by humans to be morally neutral. That is, a [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The question of whether a machine can ever be a moral agent, i.e., be an agent that can be considered morally responsible, is dependent on which side of the philosophical debate one falls on. Normally, we consider human beings to be moral agents, but technology created by humans to be morally neutral. That is, a knife is not a moral entity and no one expects to reprimand the knife if it cuts one&#8217;s hand or praise it if it slices through vegetables. The human wielding the knife is usually responsible for the actions done, using the knife. Thus, the knife&#8217;s effect on the world, whether positive or negative, is not the responsibility of the knife, even though it is clearly the consequence of the knife. Does this mean that only human beings are morally responsible, for any consequence of technological objects in the environment? And are any artificial artifacts exempt from morality? Clearly, this is not entirely black-and-white. For instance, infants, and children are usually not expected to be morally responsible for their actions, while artificial persons (such as corporations) are. So, the natural-ness or artificiality is not the sole determining criteria.</p>
 <p><span id="more-261"></span></p>
@@ -154,18 +154,18 @@
 </div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/can-machines-be-moral-agents/feed/</wfw:commentRss>
+			<wfw:commentRss>/can-machines-be-moral-agents/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>What is Machine Ethics?</title>
-		<link>https://viveknallur.github.io/what-is-machine-ethics/</link>
-		<comments>https://viveknallur.github.io/what-is-machine-ethics/#respond</comments>
+		<link>/what-is-machine-ethics/</link>
+		<comments>/what-is-machine-ethics/#respond</comments>
 		<pubDate>Tue, 22 May 2018 22:35:43 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=232</guid>
+		<guid isPermaLink="false">/?p=232</guid>
 		<description><![CDATA[What does it mean for a machine to have ethics? Is that even possible? Why would we care if a machine is ethical or not, as long as it does what we tell it to do? There are a variety of positions on each of these questions. The two extreme positions on whether a machine [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><em>What does it mean for a machine to have ethics? Is that even possible? Why would we care if a machine is ethical or not, as long as it does what we tell it to do?</em></p>
 <p>There are a variety of positions on each of these questions. The two extreme positions on whether a machine can be ethical are as follows:</p>
@@ -195,44 +195,44 @@
 </div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/what-is-machine-ethics/feed/</wfw:commentRss>
+			<wfw:commentRss>/what-is-machine-ethics/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Machine Ethics &#8211; Welcome</title>
-		<link>https://viveknallur.github.io/machine-ethics-welcome/</link>
+		<link>/machine-ethics-welcome/</link>
 		<pubDate>Tue, 24 Apr 2018 15:01:44 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=129</guid>
+		<guid isPermaLink="false">/?p=129</guid>
 		<description><![CDATA[This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!! If you want to [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!!</p>
-<p>If you want to contribute a post, <a href="https://viveknallur.github.io/contact/contact-me/">get in touch</a>.</p>
+<p>If you want to contribute a post, <a href="/contact/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Awarded Seed Funding</title>
-		<link>https://viveknallur.github.io/awarded-seed-funding/</link>
-		<comments>https://viveknallur.github.io/awarded-seed-funding/#respond</comments>
+		<link>/awarded-seed-funding/</link>
+		<comments>/awarded-seed-funding/#respond</comments>
 		<pubDate>Mon, 23 Apr 2018 10:29:22 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=237</guid>
+		<guid isPermaLink="false">/?p=237</guid>
 		<description><![CDATA[I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of Inserting Ethics Into Autonomous Machines.  Yay! The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of <em>Inserting Ethics Into Autonomous Machines</em>.  Yay!</p>
 <p>The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be considered? How should they be implemented? How could we verify that a machine that claims to follow an ethical principle, is indeed ethical?</p>
 <p>The School of Computer Science has kindly agreed to co-fund some of these talks, which means that we should be able to reimburse speakers from the EU, for flights as well as a night&#8217;s stay. Looking forward to an eclectic and thought-provoking set of talks.</p>
-<p>If you have any ideas for speakers or topics, <a href="https://viveknallur.github.io/contact-me/">get in touch</a>.</p>
+<p>If you have any ideas for speakers or topics, <a href="/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/awarded-seed-funding/feed/</wfw:commentRss>
+			<wfw:commentRss>/awarded-seed-funding/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Eamonn O’Toole submits his thesis on decentralized emergence detection!</title>
-		<link>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/</link>
-		<comments>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/#respond</comments>
+		<link>/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/</link>
+		<comments>/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/#respond</comments>
 		<pubDate>Sat, 07 Nov 2015 17:43:40 +0000</pubDate>
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
@@ -257,7 +257,7 @@
 </div>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/feed/</wfw:commentRss>
+			<wfw:commentRss>/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
