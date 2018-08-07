@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: What is Machine Ethics?</title>
-	<atom:link href="/what-is-machine-ethics/feed/" rel="self" type="application/rss+xml" />
-	<link>/what-is-machine-ethics/</link>
+	<atom:link href="https://viveknallur.github.io/what-is-machine-ethics/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viveknallur.github.io/what-is-machine-ethics/</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Tue, 07 Aug 2018 14:55:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Aug 2018 15:02:32 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
