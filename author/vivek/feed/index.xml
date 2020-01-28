@@ -12,12 +12,31 @@
 	<atom:link href="https://viveknallur.github.io/author/vivek/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Wed, 28 Aug 2019 15:08:10 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2020 10:38:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
 	<item>
+		<title>New PhD student starting work on Machine Ethics</title>
+		<link>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/</link>
+		<comments>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/#respond</comments>
+		<pubDate>Wed, 22 Jan 2020 10:38:05 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+				<category><![CDATA[Machine Ethics]]></category>
+
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=344</guid>
+		<description><![CDATA[Very excited to welcome Rajitha Ramanayake as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride. His abstract, from his phd application, is as follows: Artificial [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Very excited to welcome Rajitha Ramanayake as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride.</p>
+<p>His abstract, from his phd application, is as follows:</p>
+<blockquote><p>Artificial Intelligence (AI) techniques such as reinforcement learning and deep learning have enjoyed some success in accomplishing tasks at human-level capability in the recent past. It is expected that several human jobs will be replaced by intelligent and autonomous systems in the near future. When domains that have direct links/involvement with the community, such as health-care, social data mining and advertising, personal assistants and autonomous vehicles, use artificial intelligence, the importance of values and the morality of an AI system comes into the picture. These systems could easily encounter situations that contain a moral dilemma which will affect a community or an individual’s life. Therefore, in order to decide which actions must be taken in such situations, we need to introduce a sense of values into these AI agents. One way to infer a sense of values onto intelligent systems is by embedding ethics into them. As a result, there are many attempts being made to provide AI systems with a sense of ethics. However, there is no general consensus on what type of ethics (i.e. utilitarian ethics, deontological ethics, virtue ethics, the principle of<br />
+double effect) can/should be embedded into an AI or what Approach (i.e.  Evolutionary computing, Multi-agent systems, Machine learning, Deep learning, Reinforcement Learning)  would be most suitable for implementing these types of ethics. The need to find philosophical theories and technological methods that can be used to build an artificial agent &#8211; and which can be entrusted to act as an ethical agent &#8211; is of vital importance in the future of intelligent agents. My research will concern itself with techniques in computer science that can be used to implement ethical behaviour</p></blockquote>
+<p style="text-align: left;">Let&#8217;s come back to this in four years time to see where he&#8217;s got <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Invited Talk at CERN, Geneva</title>
 		<link>https://viveknallur.github.io/invited-talk-at-cern-geneva/</link>
 		<comments>https://viveknallur.github.io/invited-talk-at-cern-geneva/#respond</comments>
