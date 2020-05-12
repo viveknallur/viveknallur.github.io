@@ -12,12 +12,40 @@
 	<atom:link href="https://viveknallur.github.io/author/vivek/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Tue, 28 Jan 2020 10:58:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 May 2020 10:57:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.13</generator>
+	<generator>https://wordpress.org/?v=4.9.14</generator>
 	<item>
+		<title>IEEE P7008 Standard &#8211; Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems</title>
+		<link>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/</link>
+		<comments>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/#respond</comments>
+		<pubDate>Tue, 12 May 2020 10:56:35 +0000</pubDate>
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+				<category><![CDATA[Machine Ethics]]></category>
+
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=350</guid>
+		<description><![CDATA[I have recently started contributing to the IEEE P7008 Standards committee for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems. A nudge is an overt or covert suggestion or manipulation designed to influence the emotions or behaviour of a user.  Depending on your perspective, this might seem ominous or useful. All human beings are susceptible [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have recently started contributing to the IEEE P7008 Standards committee for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems.</p>
+<p>A nudge is an overt or covert suggestion or manipulation designed to influence the emotions or behaviour of a user.  Depending on your perspective, this might seem ominous or useful. All human beings are susceptible to behavioural nudges, i.e., manipulation of content, colours, choices, even the order of choices, etc., which encourage / discourage us from a particular behaviour.  Starting from behavioural economics, where Tversky and Kahneman showed that human being behave in predictably irrational ways<span id="mMhX~bjiiJHWmUxDzqn0h" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;165803140&quot;]" data-footnote="undefined"><sup>1</sup></span>, there has been considerable research in trying to explain how individuals evaluate choices. This is in contrast to standard economic theory that assumes that individuals are rational and self-interested agents. Perhaps the most popular explanation of behavioural puzzles is <a href="https://en.wikipedia.org/wiki/Predictably_Irrational">Dan Ariely&#8217;s book &#8211; Predictably Irrational</a>. Governments, organizations and companies have been trying to use these insights to influence how populations, societies and consumers behave. This has given rise to the study of the <em>nudge &#8211; </em>subtly and adaptively influencing someone&#8217;s choice without limiting their actual choices.</p>
+<p>Combined with Big Data and Machine Learning, the use of nudges can be used by systems to influence user behaviour. A common example is the use of <em>pre-checked boxes</em>. If the text next to a checkbox is boring/not clearly understood/legalese, a user is tempted to leave it as they found it. That is, if a checkbox is asking for consent to bombard you with marketing material, you are tempted to leave the checkbox checked if you don&#8217;t really understand what is being asked, or the language used is such that it insinuates a loss if you uncheck it. This is a nudge because you are quite capable of un-checking the box, but you have chosen to not do it.  Given the power of Big Data, an algorithm could identify which kind of nudges work on you personally, and then ensure that only those nudges are shown to you.  These sort of nudges can clearly be used for all kinds of purposes. For example, ensuring that users make good choices (say, encouraging them to save for retirement) or making choices where the organization benefits (say, accepting tracking cookies).</p>
+<p>The IEEE committee&#8217;s focus is on how human beings (or design teams and organizations) should ensure that their nudges are ethical. There is clearly no standard system of ethics that everyone subscribes to. So the committee is focussed on specifying a design process which will at least ensure that every company/organization that creates intelligent systems that uses nudges, will explicitly confront the ethical choices it is making.</p>
+<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;165803140&quot;]">
+<div id="abt-bibliography__container" class="abt-bibliography__container">
+<div id="165803140">
+<div class="csl-entry flush">
+<div class="csl-left-margin">1.</div>
+<div class="csl-right-inline">Tversky A, Kahneman D. Rational Choice and the Framing of Decisions. In: <i>Multiple Criteria Decision Making and Risk Analysis Using Microcomputers</i>. Springer Berlin Heidelberg; 1989:81-126. doi:<a href="https://doi.org/10.1007/978-3-642-74919-3_4" target="_blank" rel="noopener noreferrer">10.1007/978-3-642-74919-3_4</a></div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>New PhD student starting work on Machine Ethics</title>
 		<link>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/</link>
 		<comments>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/#respond</comments>
@@ -25,7 +53,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=344</guid>
+		<guid isPermaLink="false">http://desktop-0gddg8k/wordpress/?p=344</guid>
 		<description><![CDATA[Very excited to welcome Rajitha Ramanayake as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride. His abstract, from his phd application, is as follows: Artificial [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Very excited to welcome <a href="https://www.linkedin.com/in/rajitharamanayake/">Rajitha Ramanayake</a> as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride.</p>
 <p>His abstract, from his phd application, is as follows:</p>
@@ -44,7 +72,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=341</guid>
+		<guid isPermaLink="false">http://desktop-0gddg8k/wordpress/?p=341</guid>
 		<description><![CDATA[I was recently invited by Dr. Alberto Di Meglio, head of OpenLab @ CERN to give a talk on Machine Ethics. Super-excited to interact with computer scientists, physicists and folks from multiple disciplines, and gather their views on how AI impacts society and what computer science should be doing about it. Refreshing to know that [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>I was recently invited by <a href="https://openlab.cern/team/alberto-di-meglio">Dr. Alberto Di Meglio</a>, head of OpenLab @ CERN to give a <a href="https://indico.cern.ch/event/837519/">talk on Machine Ethics</a>. Super-excited to interact with computer scientists, physicists and folks from multiple disciplines, and gather their views on how AI impacts society and what computer science should be doing about it. Refreshing to know that even high-energy physicists &#8216;get it&#8217; with regard to our (scientists&#8217;) obligations to engage deeply with society. The video of the talk can be found <a href="http://cds.cern.ch/record/2687725?ln=en">here</a>.</p>
 ]]></content:encoded>
@@ -59,7 +87,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=337</guid>
+		<guid isPermaLink="false">http://desktop-0gddg8k/wordpress/?p=337</guid>
 		<description><![CDATA[After the end of the first inter-disciplinary workshop on Implementing Machine Ethics, the participants agreed that it was rare for events to be truly inter-disciplinary, and that they enjoyed talking through and thinking about the multiple perspectives, about ethics inside machines. To facilitate more discussion on the topic, a mailing list was set up on [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>After the end of the <a href="https://aristotle.ucd.ie/">first inter-disciplinary workshop on Implementing Machine Ethics</a>, the participants agreed that it was rare for events to be truly inter-disciplinary, and that they enjoyed talking through and thinking about the multiple perspectives, about ethics inside machines.</p>
 <p>To facilitate more discussion on the topic, a <a href="https://listserv.heanet.ie/cgi-bin/wa?A0=MACHINE-ETHICS&amp;X=OP1893714A7B4A48A071">mailing list</a> was set up on HEANet&#8217;s listserv service. It is meant for everyone who is interested in the inter-disciplinary aspects of <i>how</i>, <i>why</i>, and <i>what</i> ethics should be implemented in machines. Clicking on the link above will take you to the HEANET website. You can see a subscribe and unsubscribe button in the menu on the right hand side called options. Please do consider joining if you are interested in society, AI, philosophy, technology, law and how they intersect.</p>
@@ -75,12 +103,12 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
 
-		<guid isPermaLink="false">http://localhost/wordpress/?p=284</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=284</guid>
 		<description><![CDATA[Excited to be going to AAMAS 2018. Presenting two papers there: JAAMAS Track &#8211; Clonal Plasticity Adapative and Learning Agents Workshop &#8211; ARENA: Towards a Game Playing Framework Looking forward to meeting the community again, and forging some new links.]]></description>
 				<content:encoded><![CDATA[<p>Excited to be going to AAMAS 2018. Presenting two papers there:</p>
 <ul>
-<li>JAAMAS Track &#8211; <a href="http://localhost/wordpress/research/publications/">Clonal Plasticity</a></li>
-<li>Adapative and Learning Agents Workshop &#8211; <a href="http://localhost/wordpress/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
+<li>JAAMAS Track &#8211; <a href="https://viveknallur.github.io/research/publications/">Clonal Plasticity</a></li>
+<li>Adapative and Learning Agents Workshop &#8211; <a href="https://viveknallur.github.io/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
 </ul>
 <p>Looking forward to meeting the community again, and forging some new links.</p>
 ]]></content:encoded>
@@ -95,7 +123,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">http://localhost/wordpress/?p=270</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=270</guid>
 		<description><![CDATA[If we wanted to implement ethics in a robot, how would we do it? What ethics should we implement? Are Asimov&#8217;s three laws enough? Although, there seems to be philosophical consensus that Asimov&#8217;s Three Laws of Robotics are nowhere near enough for a satisfactory ethical robot, there are still attempts at creating robots that do [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>If we wanted to implement ethics in a robot, how would we do it? What ethics should we implement? Are Asimov&#8217;s three laws enough?</p>
 <p>Although, there seems to be philosophical consensus that Asimov&#8217;s Three Laws of Robotics are nowhere near enough for a satisfactory ethical robot, there are still attempts at creating robots that do implement some version of Asimov&#8217;s Laws. Perhaps this tells us something about ourselves, as human beings. Even for researchers, fiction exerts a power of imagination and framing that is difficult to shake off.</p>
@@ -145,7 +173,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">http://localhost/wordpress/?p=261</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=261</guid>
 		<description><![CDATA[The question of whether a machine can ever be a moral agent, i.e., be an agent that can be considered morally responsible, is dependent on which side of the philosophical debate one falls on. Normally, we consider human beings to be moral agents, but technology created by humans to be morally neutral. That is, a [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>The question of whether a machine can ever be a moral agent, i.e., be an agent that can be considered morally responsible, is dependent on which side of the philosophical debate one falls on. Normally, we consider human beings to be moral agents, but technology created by humans to be morally neutral. That is, a knife is not a moral entity and no one expects to reprimand the knife if it cuts one&#8217;s hand or praise it if it slices through vegetables. The human wielding the knife is usually responsible for the actions done, using the knife. Thus, the knife&#8217;s effect on the world, whether positive or negative, is not the responsibility of the knife, even though it is clearly the consequence of the knife. Does this mean that only human beings are morally responsible, for any consequence of technological objects in the environment? And are any artificial artifacts exempt from morality? Clearly, this is not entirely black-and-white. For instance, infants, and children are usually not expected to be morally responsible for their actions, while artificial persons (such as corporations) are. So, the natural-ness or artificiality is not the sole determining criteria.</p>
 <p><span id="more-261"></span></p>
@@ -215,7 +243,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">http://localhost/wordpress/?p=232</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=232</guid>
 		<description><![CDATA[What does it mean for a machine to have ethics? Is that even possible? Why would we care if a machine is ethical or not, as long as it does what we tell it to do? There are a variety of positions on each of these questions. The two extreme positions on whether a machine [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p><em>What does it mean for a machine to have ethics? Is that even possible? Why would we care if a machine is ethical or not, as long as it does what we tell it to do?</em></p>
 <p>There are a variety of positions on each of these questions. The two extreme positions on whether a machine can be ethical are as follows:</p>
@@ -255,10 +283,10 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Machine Ethics]]></category>
 
-		<guid isPermaLink="false">http://localhost/wordpress/?p=129</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=129</guid>
 		<description><![CDATA[This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!! If you want to [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!!</p>
-<p>If you want to contribute a post, <a href="http://localhost/wordpress/contact/contact-me/">get in touch</a>.</p>
+<p>If you want to contribute a post, <a href="https://viveknallur.github.io/contact/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -269,45 +297,14 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 				<category><![CDATA[Vivek's Research Blog]]></category>
 
-		<guid isPermaLink="false">http://localhost/wordpress/?p=237</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=237</guid>
 		<description><![CDATA[I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of Inserting Ethics Into Autonomous Machines.  Yay! The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of <em>Inserting Ethics Into Autonomous Machines</em>.  Yay!</p>
 <p>The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be considered? How should they be implemented? How could we verify that a machine that claims to follow an ethical principle, is indeed ethical?</p>
 <p>The School of Computer Science has kindly agreed to co-fund some of these talks, which means that we should be able to reimburse speakers from the EU, for flights as well as a night&#8217;s stay. Looking forward to an eclectic and thought-provoking set of talks.</p>
-<p>If you have any ideas for speakers or topics, <a href="http://localhost/wordpress/contact-me/">get in touch</a>.</p>
+<p>If you have any ideas for speakers or topics, <a href="https://viveknallur.github.io/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://viveknallur.github.io/awarded-seed-funding/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Eamonn O’Toole submits his thesis on decentralized emergence detection!</title>
-		<link>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/</link>
-		<comments>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/#respond</comments>
-		<pubDate>Sat, 07 Nov 2015 17:43:40 +0000</pubDate>
-		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
-				<category><![CDATA[Vivek's Research Blog]]></category>
-
-		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=225</guid>
-		<description><![CDATA[Eamonn has just submitted his thesis entitled “Decentralized Detection of Emergence in Complex Adaptive Systems”. Way to go, Eamonn! Very well done! Of course, it’s really special to me since he’s my first PhD student mentee. It’s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far! The [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Eamonn has just submitted his thesis entitled “Decentralized Detection of Emergence in Complex Adaptive Systems”. Way to go, Eamonn! Very well done! Of course, it’s really special to me since he’s my first PhD student mentee. It’s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!</p>
-<p>The thesis looks at the problem of detecting emergence in a large-scale complex adaptive systems, where each part could potentially be adapting independently. Given the large-scale and decentralized nature of such systems, the big questions are:</p>
-<ul>
-<li><em>Is it possible to detect emergence in a decentralized fashion?</em></li>
-<li><em>How do you know which variables are interesting, given that the environment and the components themselves, change dynamically?</em></li>
-</ul>
-<p>For answers to these questions (and more), read his thesis! Too busy to read a thesis (you&#8217;re missing out)? Check out our TAAS Paper<span id="PgnqkLFUHu44vtaqij3Ze" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;1777792285&quot;]" data-footnote="undefined"><sup>1</sup></span>.</p>
-<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;1777792285&quot;]">
-<div id="abt-bibliography__container" class="abt-bibliography__container">
-<div id="1777792285">
-<div class="csl-entry flush">
-<div class="csl-left-margin">1.</div>
-<div class="csl-right-inline">O’toole E, Nallur V, Clarke S. Decentralised Detection of Emergence in Complex Adaptive Systems. <i>A</i>. 2017;12(1):1-31. doi:<a href="https://doi.org/10.1145/3019597" target="_blank" rel="noopener noreferrer">10.1145/3019597</a></div>
-</div>
-</div>
-</div>
-</div>
-]]></content:encoded>
-			<wfw:commentRss>https://viveknallur.github.io/eamonn-otoole-submits-his-thesis-on-decentralized-emergence-detection/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
