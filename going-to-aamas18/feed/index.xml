@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Going to AAMAS&#8217;18</title>
+	<title>
+	Comments on: Going to AAMAS&#8217;18	</title>
 	<atom:link href="https://viveknallur.github.io/going-to-aamas18/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io/going-to-aamas18/</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 15 May 2020 13:14:46 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.14</generator>
+	<lastBuildDate>Fri, 06 Jul 2018 09:35:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>

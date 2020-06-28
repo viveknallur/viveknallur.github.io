@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: First UCD Inter-Disciplinary Workshop on Implementing Machine Ethics</title>
+	<title>
+	Comments on: First UCD Inter-Disciplinary Workshop on Implementing Machine Ethics	</title>
 	<atom:link href="https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 15 May 2020 13:14:46 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.14</generator>
+	<lastBuildDate>Sat, 18 May 2019 09:21:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>

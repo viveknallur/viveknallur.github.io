@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: What is Machine Ethics?</title>
+	<title>
+	Comments on: What is Machine Ethics?	</title>
 	<atom:link href="https://viveknallur.github.io/what-is-machine-ethics/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io/what-is-machine-ethics/</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 15 May 2020 13:14:46 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.14</generator>
+	<lastBuildDate>Wed, 23 May 2018 11:11:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>

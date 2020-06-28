@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: New PhD student starting work on Machine Ethics</title>
+	<title>
+	Comments on: New PhD student starting work on Machine Ethics	</title>
 	<atom:link href="https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 15 May 2020 13:14:45 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.14</generator>
+	<lastBuildDate>Tue, 28 Jan 2020 10:58:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 </channel>
 </rss>
