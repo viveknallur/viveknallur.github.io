@@ -12,7 +12,7 @@
 	<atom:link href="https://viveknallur.github.io/author/vivek/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 15 May 2020 13:14:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jul 2020 13:23:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 	<item>
+		<title>The Second Workshop on Implementing Machine Ethics</title>
+		<link>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/</link>
+					<comments>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2020 13:04:40 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=373</guid>
+
+					<description><![CDATA[The Machine Ethics Research Group recently organized the second workshop on Implementing Machine Ethics. Due to the covid-19 lockdown, it was held in an online-only mode, with participants and presenters interacting via Zoom and Sli.do. We had some really thought-provoking talks from a variety of domains (literature, law, philosophy, computer science), and questions from a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The Machine Ethics Research Group recently organized the <a href="https://aristotle.ucd.ie/">second workshop on Implementing Machine Ethics</a>. Due to the covid-19 lockdown, it was held in an online-only mode, with participants and presenters interacting via Zoom and Sli.do. We had some really thought-provoking talks from a variety of domains (literature, law, philosophy, computer science), and questions from a very engaged audience. All of the presented slides can be found on the <a href="https://aristotle.ucd.ie/#schedule">website.</a> The abstracts submitted by the presenters have been uploaded to Zenodo, and can be accessed (and cited) via the DOI: <a href="https://doi.org/10.5281/zenodo.3938851"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3938851.svg" alt="DOI" /></a></p>
+<p>We are hoping to make it a continuing event and have applied to AAAI for acceptance as a regular symposium. There is a mailing list for those interested in continuing discussions or notices of collaboration opportunities. Please click <a href="https://listserv.heanet.ie/cgi-bin/wa?A0=MACHINE-ETHICS&amp;X=OP1893714A7B4A48A071" target="_blank" rel="noopener noreferrer">here</a> to sign up. The mailing list is hosted by HEANet, Ireland. You can see a &#8220;Subscribe or Unsubscribe&#8221; link in the menu on the right hand side, in a box called &#8220;Options&#8221;. Please do consider joining.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>IEEE P7008 Standard &#8211; Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems</title>
 		<link>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/</link>
 					<comments>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/#respond</comments>
@@ -324,28 +344,6 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 <p>If you want to contribute a post, <a href="https://viveknallur.github.io/contact/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>Awarded Seed Funding</title>
-		<link>https://viveknallur.github.io/awarded-seed-funding/</link>
-					<comments>https://viveknallur.github.io/awarded-seed-funding/#respond</comments>
-		
-		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
-		<pubDate>Mon, 23 Apr 2018 10:29:22 +0000</pubDate>
-				<category><![CDATA[Vivek's Research Blog]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=237</guid>
-
-					<description><![CDATA[I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of Inserting Ethics Into Autonomous Machines.  Yay! The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of <em>Inserting Ethics Into Autonomous Machines</em>.  Yay!</p>
-<p>The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be considered? How should they be implemented? How could we verify that a machine that claims to follow an ethical principle, is indeed ethical?</p>
-<p>The School of Computer Science has kindly agreed to co-fund some of these talks, which means that we should be able to reimburse speakers from the EU, for flights as well as a night&#8217;s stay. Looking forward to an eclectic and thought-provoking set of talks.</p>
-<p>If you have any ideas for speakers or topics, <a href="https://viveknallur.github.io/contact-me/">get in touch</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://viveknallur.github.io/awarded-seed-funding/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
