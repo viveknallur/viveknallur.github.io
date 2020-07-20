@@ -12,7 +12,7 @@
 	<atom:link href="https://viveknallur.github.io/author/vivek/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Thu, 16 Jul 2020 13:23:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jul 2020 14:21:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,25 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 	<item>
+		<title>ELSI Panel for OpenAAL</title>
+		<link>https://viveknallur.github.io/elsi-panel-for-openaal/</link>
+					<comments>https://viveknallur.github.io/elsi-panel-for-openaal/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2020 14:21:20 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=379</guid>
+
+					<description><![CDATA[Very pleased to be a part of the ELSI panel on the OpenAAL project being spearheaded by the Heriot-Watt University. Ambient assisted living, especially in these locked-down times, will provide us with the ability to provide care to vulnerable segments of the population. However, with the introduction of robots into our personal space, comes the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Very pleased to be a part of the ELSI panel on the <a href="https://ralt.hw.ac.uk/openaal.html">OpenAAL project</a> being spearheaded by the Heriot-Watt University. Ambient assisted living, especially in these locked-down times, will provide us with the ability to provide care to vulnerable segments of the population. However, with the introduction of robots into our personal space, comes the challenge of addressing its impact on the patients, their families, and other care-givers. People respond differently when interacting with machines, than they do with humans. And it is our responsibility to ensure that the outcome of introducing robots takes into account the multiple stakeholders, their views, and any ethical implications of interactions.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/elsi-panel-for-openaal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>The Second Workshop on Implementing Machine Ethics</title>
 		<link>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/</link>
 					<comments>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/#respond</comments>
@@ -327,23 +346,6 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 					
 					<wfw:commentRss>https://viveknallur.github.io/what-is-machine-ethics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Machine Ethics &#8211; Welcome</title>
-		<link>https://viveknallur.github.io/machine-ethics-welcome/</link>
-		
-		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
-		<pubDate>Tue, 24 Apr 2018 15:01:44 +0000</pubDate>
-				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=129</guid>
-
-					<description><![CDATA[This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!! If you want to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>This is the first post on the Machine Ethics blog. In this blog, I and some guests, will be posting article-reviews, positions, thoughts, and (sometimes) news about the field of Machine Ethics.  These may relate to the field of Artificial Intelligence, Philosophy, Logic, Law, Politics or (better yet) all of them!!</p>
-<p>If you want to contribute a post, <a href="https://viveknallur.github.io/contact/contact-me/">get in touch</a>.</p>
-]]></content:encoded>
-					
 		
 		
 			</item>
