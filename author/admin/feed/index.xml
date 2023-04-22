@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=5.4.12</generator>
 	<item>
 		<title>Funded PhD position available</title>
 		<link>https://viveknallur.github.io/funded-phd-position-available/</link>
@@ -28,10 +28,10 @@
 		<pubDate>Sat, 18 May 2019 09:10:26 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
 		<category><![CDATA[Vivek's Research Blog]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=322</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=322</guid>
 
 					<description><![CDATA[Announcing an opportunity for inter-disciplinary research into implementing ethics in computers! Take a look at the new PhD position available in the School of Computer Science, at UCD. If you&#8217;re interested in investigating what it would mean for machine (any autonomic agent, really) to be ethical, how one would implement and verify such an agent, join the Machine [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Announcing an opportunity for inter-disciplinary research into implementing ethics in computers! Take a look at the <a href="https://viveknallur.github.io/fully-funded-phd-position-on-implementing-machine-ethics/">new PhD position available</a> in the School of Computer Science, at UCD. If you&#8217;re interested in investigating what it would mean for machine (any autonomic agent, really) to be ethical, how one would implement and verify such an agent, <a href="https://viveknallur.github.io/contact-me/">join the Machine Ethics Research Group</a> .</p>
+										<content:encoded><![CDATA[<p>Announcing an opportunity for inter-disciplinary research into implementing ethics in computers! Take a look at the <a href="http://localhost/wordpress/fully-funded-phd-position-on-implementing-machine-ethics/">new PhD position available</a> in the School of Computer Science, at UCD. If you&#8217;re interested in investigating what it would mean for machine (any autonomic agent, really) to be ethical, how one would implement and verify such an agent, <a href="http://localhost/wordpress/contact-me/">join the Machine Ethics Research Group</a> .</p>
 <p>We&#8217;re also organizing a workshop around the same theme. Check out the <a href="https://aristotle.ucd.ie/">First UCD Inter-disciplinary Workshop on Implementing Machine Ethics.</a></p>
 ]]></content:encoded>
 					
@@ -48,7 +48,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 06 May 2019 15:47:03 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=315</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=315</guid>
 
 					<description><![CDATA[Really excited to be involved in organizing UCD&#8217;s first international inter-disciplinary workshop on Implementing Machine Ethics. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers: Prof. Alan Winfield: Prof. Winfield is a [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Really excited to be involved in organizing UCD&#8217;s <a href="https://aristotle.ucd.ie/">first international inter-disciplinary workshop on Implementing Machine Ethics</a>. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers:</p>
@@ -61,7 +61,7 @@
 Notification of acceptance<em>: 3-June-2019</em><br />
 Workshop Dates<em>: 2-3-July-2019</em></p>
 <p>Location: <em>University College Dublin</em>, Dublin</p>
-<p>Here&#8217;s the link to the <a href="https://viveknallur.github.io/wp-content/uploads/2019/05/CallForAbstracts-ImplementingMachineEthics.pdf">CallForAbstracts</a></p>
+<p>Here&#8217;s the link to the <a href="http://localhost/wordpress/wp-content/uploads/2019/05/CallForAbstracts-ImplementingMachineEthics.pdf">CallForAbstracts</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/feed/</wfw:commentRss>

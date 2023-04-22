@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=5.4.12</generator>
 	<item>
 		<title>Super cool physics and AI (and Ethics)</title>
 		<link>https://viveknallur.github.io/super-cool-physics-and-ai-and-ethics/</link>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2020 10:49:01 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=408</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=408</guid>
 
 					<description><![CDATA[Physicists are (sometimes) some of my favourite people. They do really cool science, and ask questions about the fundamental nature of our reality. It is very gratifying to know that some of them have also started to look back at ourselves, how we use information, and what information can tell us about the nature of [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Physicists are (sometimes) some of my favourite people. They do really cool science, and ask questions about the fundamental nature of our reality. It is very gratifying to know that some of them have also started to look back at ourselves, how we use information, and what information can tell us about the nature of our social reality. Some physicists have started to take a deeper look into the algorithms that are used at the heart of physics-computing, and wondering what impacts they (the algorithms) might have on us.</p>
@@ -47,7 +47,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Tue, 25 Aug 2020 10:37:00 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=406</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=406</guid>
 
 					<description><![CDATA[Delighted to announce that the AAAI have accepted our proposal for Implementing AI Ethics, as a part of their Spring Symposium Series. We have an excellent organizing committee with a healthy mix of industry, policy, academics and technologists. Looking forward to the speakers and participants of the Symposium, in March 2021! Here&#8217;s hoping that we [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Delighted to announce that the AAAI have accepted <a href="https://www.aaai.org/Symposia/Spring/sss21symposia.php#ss06">our proposal for Implementing AI Ethics</a>, as a part of their <a href="https://www.aaai.org/Symposia/Spring/sss21.php">Spring Symposium Series</a>. We have an excellent organizing committee with a healthy mix of industry, policy, academics and technologists. Looking forward to the speakers and participants of the Symposium, in March 2021!</p>
@@ -67,7 +67,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 14:21:20 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=379</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=379</guid>
 
 					<description><![CDATA[Very pleased to be a part of the ELSI panel on the OpenAAL project being spearheaded by the Heriot-Watt University. Ambient assisted living, especially in these locked-down times, will provide us with the ability to provide care to vulnerable segments of the population. However, with the introduction of robots into our personal space, comes the [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Very pleased to be a part of the ELSI panel on the <a href="https://ralt.hw.ac.uk/openaal.html">OpenAAL project</a> being spearheaded by the Heriot-Watt University. Ambient assisted living, especially in these locked-down times, will provide us with the ability to provide care to vulnerable segments of the population. However, with the introduction of robots into our personal space, comes the challenge of addressing its impact on the patients, their families, and other care-givers. People respond differently when interacting with machines, than they do with humans. And it is our responsibility to ensure that the outcome of introducing robots takes into account the multiple stakeholders, their views, and any ethical implications of interactions.</p>
@@ -86,7 +86,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Wed, 01 Jul 2020 13:04:40 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=373</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=373</guid>
 
 					<description><![CDATA[The Machine Ethics Research Group recently organized the second workshop on Implementing Machine Ethics. Due to the covid-19 lockdown, it was held in an online-only mode, with participants and presenters interacting via Zoom and Sli.do. We had some really thought-provoking talks from a variety of domains (literature, law, philosophy, computer science), and questions from a [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>The Machine Ethics Research Group recently organized the <a href="https://aristotle.ucd.ie/">second workshop on Implementing Machine Ethics</a>. Due to the covid-19 lockdown, it was held in an online-only mode, with participants and presenters interacting via Zoom and Sli.do. We had some really thought-provoking talks from a variety of domains (literature, law, philosophy, computer science), and questions from a very engaged audience. All of the presented slides can be found on the <a href="https://aristotle.ucd.ie/#schedule">website.</a> The abstracts submitted by the presenters have been uploaded to Zenodo, and can be accessed (and cited) via the DOI: <a href="https://doi.org/10.5281/zenodo.3938851"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3938851.svg" alt="DOI" /></a></p>
@@ -106,7 +106,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Tue, 12 May 2020 10:56:35 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=350</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=350</guid>
 
 					<description><![CDATA[I have recently started contributing to the IEEE P7008 Standards committee for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems. A nudge is an overt or covert suggestion or manipulation designed to influence the emotions or behaviour of a user.  Depending on your perspective, this might seem ominous or useful. All human beings are susceptible [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>I have recently started contributing to the IEEE P7008 Standards committee for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems.</p>
@@ -138,7 +138,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Wed, 22 Jan 2020 10:38:05 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">http://desktop-0gddg8k/wordpress/?p=344</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=344</guid>
 
 					<description><![CDATA[Very excited to welcome Rajitha Ramanayake as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride. His abstract, from his phd application, is as follows: Artificial [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Very excited to welcome <a href="https://www.linkedin.com/in/rajitharamanayake/">Rajitha Ramanayake</a> as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride.</p>
@@ -161,7 +161,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Thu, 22 Aug 2019 15:06:23 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">http://desktop-0gddg8k/wordpress/?p=341</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=341</guid>
 
 					<description><![CDATA[I was recently invited by Dr. Alberto Di Meglio, head of OpenLab @ CERN to give a talk on Machine Ethics. Super-excited to interact with computer scientists, physicists and folks from multiple disciplines, and gather their views on how AI impacts society and what computer science should be doing about it. Refreshing to know that [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>I was recently invited by <a href="https://openlab.cern/team/alberto-di-meglio">Dr. Alberto Di Meglio</a>, head of OpenLab @ CERN to give a <a href="https://indico.cern.ch/event/837519/">talk on Machine Ethics</a>. Super-excited to interact with computer scientists, physicists and folks from multiple disciplines, and gather their views on how AI impacts society and what computer science should be doing about it. Refreshing to know that even high-energy physicists &#8216;get it&#8217; with regard to our (scientists&#8217;) obligations to engage deeply with society. The video of the talk can be found <a href="http://cds.cern.ch/record/2687725?ln=en">here</a>.</p>
@@ -180,7 +180,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Sun, 14 Jul 2019 14:54:29 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">http://desktop-0gddg8k/wordpress/?p=337</guid>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=337</guid>
 
 					<description><![CDATA[After the end of the first inter-disciplinary workshop on Implementing Machine Ethics, the participants agreed that it was rare for events to be truly inter-disciplinary, and that they enjoyed talking through and thinking about the multiple perspectives, about ethics inside machines. To facilitate more discussion on the topic, a mailing list was set up on [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>After the end of the <a href="https://aristotle.ucd.ie/">first inter-disciplinary workshop on Implementing Machine Ethics</a>, the participants agreed that it was rare for events to be truly inter-disciplinary, and that they enjoyed talking through and thinking about the multiple perspectives, about ethics inside machines.</p>
@@ -201,10 +201,10 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<pubDate>Sat, 18 May 2019 09:10:26 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
 		<category><![CDATA[Vivek's Research Blog]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=322</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=322</guid>
 
 					<description><![CDATA[Announcing an opportunity for inter-disciplinary research into implementing ethics in computers! Take a look at the new PhD position available in the School of Computer Science, at UCD. If you&#8217;re interested in investigating what it would mean for machine (any autonomic agent, really) to be ethical, how one would implement and verify such an agent, join the Machine [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Announcing an opportunity for inter-disciplinary research into implementing ethics in computers! Take a look at the <a href="https://viveknallur.github.io/fully-funded-phd-position-on-implementing-machine-ethics/">new PhD position available</a> in the School of Computer Science, at UCD. If you&#8217;re interested in investigating what it would mean for machine (any autonomic agent, really) to be ethical, how one would implement and verify such an agent, <a href="https://viveknallur.github.io/contact-me/">join the Machine Ethics Research Group</a> .</p>
+										<content:encoded><![CDATA[<p>Announcing an opportunity for inter-disciplinary research into implementing ethics in computers! Take a look at the <a href="http://localhost/wordpress/fully-funded-phd-position-on-implementing-machine-ethics/">new PhD position available</a> in the School of Computer Science, at UCD. If you&#8217;re interested in investigating what it would mean for machine (any autonomic agent, really) to be ethical, how one would implement and verify such an agent, <a href="http://localhost/wordpress/contact-me/">join the Machine Ethics Research Group</a> .</p>
 <p>We&#8217;re also organizing a workshop around the same theme. Check out the <a href="https://aristotle.ucd.ie/">First UCD Inter-disciplinary Workshop on Implementing Machine Ethics.</a></p>
 ]]></content:encoded>
 					
@@ -221,7 +221,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 06 May 2019 15:47:03 +0000</pubDate>
 				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=315</guid>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=315</guid>
 
 					<description><![CDATA[Really excited to be involved in organizing UCD&#8217;s first international inter-disciplinary workshop on Implementing Machine Ethics. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers: Prof. Alan Winfield: Prof. Winfield is a [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Really excited to be involved in organizing UCD&#8217;s <a href="https://aristotle.ucd.ie/">first international inter-disciplinary workshop on Implementing Machine Ethics</a>. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers:</p>
@@ -234,7 +234,7 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 Notification of acceptance<em>: 3-June-2019</em><br />
 Workshop Dates<em>: 2-3-July-2019</em></p>
 <p>Location: <em>University College Dublin</em>, Dublin</p>
-<p>Here&#8217;s the link to the <a href="https://viveknallur.github.io/wp-content/uploads/2019/05/CallForAbstracts-ImplementingMachineEthics.pdf">CallForAbstracts</a></p>
+<p>Here&#8217;s the link to the <a href="http://localhost/wordpress/wp-content/uploads/2019/05/CallForAbstracts-ImplementingMachineEthics.pdf">CallForAbstracts</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/feed/</wfw:commentRss>
