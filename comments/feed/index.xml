@@ -11,11 +11,11 @@
 	<atom:link href="https://viveknallur.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Sat, 22 Apr 2023 13:06:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 May 2023 16:50:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.12</generator>
+	<generator>https://wordpress.org/?v=5.4.13</generator>
 </channel>
 </rss>
