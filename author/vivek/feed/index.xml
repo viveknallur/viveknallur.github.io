@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vivek Nallur &#8211; Vivek Nallur</title>
+	<atom:link href="https://viveknallur.github.io/author/vivek/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viveknallur.github.io</link>
+	<description>The site for Vivek&#039;s (mostly) academic life</description>
+	<lastBuildDate>Mon, 24 Jul 2023 14:53:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.13</generator>
+	<item>
+		<title>Super cool physics and AI (and Ethics)</title>
+		<link>https://viveknallur.github.io/super-cool-physics-and-ai-and-ethics/</link>
+					<comments>https://viveknallur.github.io/super-cool-physics-and-ai-and-ethics/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2020 10:49:01 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=408</guid>
+
+					<description><![CDATA[Physicists are (sometimes) some of my favourite people. They do really cool science, and ask questions about the fundamental nature of our reality. It is very gratifying to know that some of them have also started to look back at ourselves, how we use information, and what information can tell us about the nature of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Physicists are (sometimes) some of my favourite people. They do really cool science, and ask questions about the fundamental nature of our reality. It is very gratifying to know that some of them have also started to look back at ourselves, how we use information, and what information can tell us about the nature of our social reality. Some physicists have started to take a deeper look into the algorithms that are used at the heart of physics-computing, and wondering what impacts they (the algorithms) might have on us.</p>
+<p><a href="https://www.wired.com/author/sophia-chen/">Sophia Chen,</a> writing for W.I.R.E.D magazine wrote about how the field of AI is attracting <a href="https://www.wired.com/story/to-make-fairer-ai-physicists-peer-inside-its-black-box/">physicists to peer inside the algorithms</a>. She also mentions me, and some of the questions that I think are really relevant to the field.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/super-cool-physics-and-ai-and-ethics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AAAI Spring Symposium on Implementing AI Ethics (22-24 March, 2021)</title>
+		<link>https://viveknallur.github.io/aaai-spring-symposium-on-implementing-ai-ethics-22-24-march-2021/</link>
+					<comments>https://viveknallur.github.io/aaai-spring-symposium-on-implementing-ai-ethics-22-24-march-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2020 10:37:00 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=406</guid>
+
+					<description><![CDATA[Delighted to announce that the AAAI have accepted our proposal for Implementing AI Ethics, as a part of their Spring Symposium Series. We have an excellent organizing committee with a healthy mix of industry, policy, academics and technologists. Looking forward to the speakers and participants of the Symposium, in March 2021! Here&#8217;s hoping that we [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Delighted to announce that the AAAI have accepted <a href="https://www.aaai.org/Symposia/Spring/sss21symposia.php#ss06">our proposal for Implementing AI Ethics</a>, as a part of their <a href="https://www.aaai.org/Symposia/Spring/sss21.php">Spring Symposium Series</a>. We have an excellent organizing committee with a healthy mix of industry, policy, academics and technologists. Looking forward to the speakers and participants of the Symposium, in March 2021!</p>
+<p>Here&#8217;s hoping that we can all meet face-to-face!!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/aaai-spring-symposium-on-implementing-ai-ethics-22-24-march-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ELSI Panel for OpenAAL</title>
+		<link>https://viveknallur.github.io/elsi-panel-for-openaal/</link>
+					<comments>https://viveknallur.github.io/elsi-panel-for-openaal/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2020 14:21:20 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=379</guid>
+
+					<description><![CDATA[Very pleased to be a part of the ELSI panel on the OpenAAL project being spearheaded by the Heriot-Watt University. Ambient assisted living, especially in these locked-down times, will provide us with the ability to provide care to vulnerable segments of the population. However, with the introduction of robots into our personal space, comes the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Very pleased to be a part of the ELSI panel on the <a href="https://ralt.hw.ac.uk/openaal.html">OpenAAL project</a> being spearheaded by the Heriot-Watt University. Ambient assisted living, especially in these locked-down times, will provide us with the ability to provide care to vulnerable segments of the population. However, with the introduction of robots into our personal space, comes the challenge of addressing its impact on the patients, their families, and other care-givers. People respond differently when interacting with machines, than they do with humans. And it is our responsibility to ensure that the outcome of introducing robots takes into account the multiple stakeholders, their views, and any ethical implications of interactions.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/elsi-panel-for-openaal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Second Workshop on Implementing Machine Ethics</title>
+		<link>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/</link>
+					<comments>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2020 13:04:40 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=373</guid>
+
+					<description><![CDATA[The Machine Ethics Research Group recently organized the second workshop on Implementing Machine Ethics. Due to the covid-19 lockdown, it was held in an online-only mode, with participants and presenters interacting via Zoom and Sli.do. We had some really thought-provoking talks from a variety of domains (literature, law, philosophy, computer science), and questions from a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The Machine Ethics Research Group recently organized the <a href="https://aristotle.ucd.ie/">second workshop on Implementing Machine Ethics</a>. Due to the covid-19 lockdown, it was held in an online-only mode, with participants and presenters interacting via Zoom and Sli.do. We had some really thought-provoking talks from a variety of domains (literature, law, philosophy, computer science), and questions from a very engaged audience. All of the presented slides can be found on the <a href="https://aristotle.ucd.ie/#schedule">website.</a> The abstracts submitted by the presenters have been uploaded to Zenodo, and can be accessed (and cited) via the DOI: <a href="https://doi.org/10.5281/zenodo.3938851"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3938851.svg" alt="DOI" /></a></p>
+<p>We are hoping to make it a continuing event and have applied to AAAI for acceptance as a regular symposium. There is a mailing list for those interested in continuing discussions or notices of collaboration opportunities. Please click <a href="https://listserv.heanet.ie/cgi-bin/wa?A0=MACHINE-ETHICS&amp;X=OP1893714A7B4A48A071" target="_blank" rel="noopener noreferrer">here</a> to sign up. The mailing list is hosted by HEANet, Ireland. You can see a &#8220;Subscribe or Unsubscribe&#8221; link in the menu on the right hand side, in a box called &#8220;Options&#8221;. Please do consider joining.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/the-second-workshop-on-implementing-machine-ethics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IEEE P7008 Standard &#8211; Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems</title>
+		<link>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/</link>
+					<comments>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 10:56:35 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=350</guid>
+
+					<description><![CDATA[I have recently started contributing to the IEEE P7008 Standards committee for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems. A nudge is an overt or covert suggestion or manipulation designed to influence the emotions or behaviour of a user.  Depending on your perspective, this might seem ominous or useful. All human beings are susceptible [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I have recently started contributing to the IEEE P7008 Standards committee for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems.</p>
+<p>A nudge is an overt or covert suggestion or manipulation designed to influence the emotions or behaviour of a user.  Depending on your perspective, this might seem ominous or useful. All human beings are susceptible to behavioural nudges, i.e., manipulation of content, colours, choices, even the order of choices, etc., which encourage / discourage us from a particular behaviour.  Starting from behavioural economics, where Tversky and Kahneman showed that human beings (quite consistently) behave in irrational ways<span id="mMhX~bjiiJHWmUxDzqn0h" class="abt-citation noselect mceNonEditable" data-reflist="[&quot;165803140&quot;]" data-footnote="undefined"><sup>1</sup></span>, there has been considerable research in trying to explain how individuals evaluate choices. This is in contrast to standard economic theory that used to assume that individuals were completely rational, and always self-interested agents. Perhaps the most popular explanation of such behaviour is <a href="https://en.wikipedia.org/wiki/Predictably_Irrational">Dan Ariely&#8217;s book &#8211; Predictably Irrational</a>. Governments, organizations and companies have been trying to use these insights to influence how populations, societies and consumers behave. This has given rise to the study of the <em>nudge &#8211; </em>subtly and adaptively influencing someone&#8217;s choice without limiting their actual choices.</p>
+<p>Combined with Big Data and Machine Learning, the use of nudges can be used by systems to influence user behaviour. A common example is the use of <em>pre-checked boxes</em>. If the text next to a checkbox is boring/not clearly understood/legalese, a user is tempted to leave it as they found it. That is, if a checkbox is asking for consent to bombard you with marketing material, you are tempted to leave the checkbox checked if you don&#8217;t really understand what is being asked, or the language used is such that it insinuates a loss if you uncheck it. This is a nudge because you are quite capable of un-checking the box, but you have chosen to not do it.  Given the power of Big Data, an algorithm could identify which kind of nudges work on you personally, and then ensure that only those nudges are shown to you.  These sort of nudges can clearly be used for all kinds of purposes. For example, ensuring that users make good choices (say, encouraging them to save for retirement) or making choices where the organization benefits (say, accepting tracking cookies).</p>
+<p>The IEEE committee&#8217;s focus is on how human beings (or design teams and organizations) should ensure that their nudges are ethical. There is clearly no standard system of ethics that everyone subscribes to. So the committee is focussed on specifying a design process which will at least ensure that every company/organization that creates intelligent systems that uses nudges, will explicitly confront the ethical choices it is making.</p>
+<div id="abt-bibliography" class="abt-bibliography noselect mceNonEditable" data-reflist="[&quot;165803140&quot;]">
+<div id="abt-bibliography__container" class="abt-bibliography__container">
+<div id="165803140">
+<div class="csl-entry flush">
+<div class="csl-left-margin">1.</div>
+<div class="csl-right-inline">Tversky A, Kahneman D. Rational Choice and the Framing of Decisions. In: <i>Multiple Criteria Decision Making and Risk Analysis Using Microcomputers</i>. Springer Berlin Heidelberg; 1989:81-126. doi:<a href="https://doi.org/10.1007/978-3-642-74919-3_4" target="_blank" rel="noopener noreferrer">10.1007/978-3-642-74919-3_4</a></div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/ieee-p7008-standard-ethically-driven-nudging-for-robotic-intelligent-and-autonomous-systems/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New PhD student starting work on Machine Ethics</title>
+		<link>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/</link>
+					<comments>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2020 10:38:05 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=344</guid>
+
+					<description><![CDATA[Very excited to welcome Rajitha Ramanayake as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride. His abstract, from his phd application, is as follows: Artificial [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Very excited to welcome <a href="https://www.linkedin.com/in/rajitharamanayake/">Rajitha Ramanayake</a> as a PhD student to work on Machine Ethics. He plans to work on techniques to reliably insert a notion of ethics into autonomous agents. Here&#8217;s hoping that it&#8217;s a great research journey, and that he enjoys the ride.</p>
+<p>His abstract, from his phd application, is as follows:</p>
+<blockquote><p>Artificial Intelligence (AI) techniques such as reinforcement learning and deep learning have enjoyed some success in accomplishing tasks at human-level capability in the recent past. It is expected that several human jobs will be replaced by intelligent and autonomous systems in the near future. When domains that have direct links/involvement with the community, such as health-care, social data mining and advertising, personal assistants and autonomous vehicles, use artificial intelligence, the importance of values and the morality of an AI system comes into the picture. These systems could easily encounter situations that contain a moral dilemma which will affect a community or an individual’s life. Therefore, in order to decide which actions must be taken in such situations, we need to introduce a sense of values into these AI agents. One way to infer a sense of values onto intelligent systems is by embedding ethics into them. As a result, there are many attempts being made to provide AI systems with a sense of ethics. However, there is no general consensus on what type of ethics (i.e. utilitarian ethics, deontological ethics, virtue ethics, the principle of<br />
+double effect) can/should be embedded into an AI or what Approach (i.e.  Evolutionary computing, Multi-agent systems, Machine learning, Deep learning, Reinforcement Learning)  would be most suitable for implementing these types of ethics. The need to find philosophical theories and technological methods that can be used to build an artificial agent &#8211; and which can be entrusted to act as an ethical agent &#8211; is of vital importance in the future of intelligent agents. My research will concern itself with techniques in computer science that can be used to implement ethical behaviour</p></blockquote>
+<p style="text-align: left;">Let&#8217;s come back to this in four years time to see where he&#8217;s got <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/new-phd-student-starting-work-on-machine-ethics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Invited Talk at CERN, Geneva</title>
+		<link>https://viveknallur.github.io/invited-talk-at-cern-geneva/</link>
+					<comments>https://viveknallur.github.io/invited-talk-at-cern-geneva/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Thu, 22 Aug 2019 15:06:23 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=341</guid>
+
+					<description><![CDATA[I was recently invited by Dr. Alberto Di Meglio, head of OpenLab @ CERN to give a talk on Machine Ethics. Super-excited to interact with computer scientists, physicists and folks from multiple disciplines, and gather their views on how AI impacts society and what computer science should be doing about it. Refreshing to know that [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I was recently invited by <a href="https://openlab.cern/team/alberto-di-meglio">Dr. Alberto Di Meglio</a>, head of OpenLab @ CERN to give a <a href="https://indico.cern.ch/event/837519/">talk on Machine Ethics</a>. Super-excited to interact with computer scientists, physicists and folks from multiple disciplines, and gather their views on how AI impacts society and what computer science should be doing about it. Refreshing to know that even high-energy physicists &#8216;get it&#8217; with regard to our (scientists&#8217;) obligations to engage deeply with society. The video of the talk can be found <a href="http://cds.cern.ch/record/2687725?ln=en">here</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/invited-talk-at-cern-geneva/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New mailing list on machine ethics created</title>
+		<link>https://viveknallur.github.io/new-mailing-list-on-machine-ethics-created/</link>
+					<comments>https://viveknallur.github.io/new-mailing-list-on-machine-ethics-created/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Sun, 14 Jul 2019 14:54:29 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=337</guid>
+
+					<description><![CDATA[After the end of the first inter-disciplinary workshop on Implementing Machine Ethics, the participants agreed that it was rare for events to be truly inter-disciplinary, and that they enjoyed talking through and thinking about the multiple perspectives, about ethics inside machines. To facilitate more discussion on the topic, a mailing list was set up on [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>After the end of the <a href="https://aristotle.ucd.ie/">first inter-disciplinary workshop on Implementing Machine Ethics</a>, the participants agreed that it was rare for events to be truly inter-disciplinary, and that they enjoyed talking through and thinking about the multiple perspectives, about ethics inside machines.</p>
+<p>To facilitate more discussion on the topic, a <a href="https://listserv.heanet.ie/cgi-bin/wa?A0=MACHINE-ETHICS&amp;X=OP1893714A7B4A48A071">mailing list</a> was set up on HEANet&#8217;s listserv service. It is meant for everyone who is interested in the inter-disciplinary aspects of <i>how</i>, <i>why</i>, and <i>what</i> ethics should be implemented in machines. Clicking on the link above will take you to the HEANET website. You can see a subscribe and unsubscribe button in the menu on the right hand side called options. Please do consider joining if you are interested in society, AI, philosophy, technology, law and how they intersect.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/new-mailing-list-on-machine-ethics-created/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First UCD Inter-Disciplinary Workshop on Implementing Machine Ethics</title>
+		<link>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/</link>
+					<comments>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Mon, 06 May 2019 15:47:03 +0000</pubDate>
+				<category><![CDATA[Machine Ethics]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=315</guid>
+
+					<description><![CDATA[Really excited to be involved in organizing UCD&#8217;s first international inter-disciplinary workshop on Implementing Machine Ethics. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers: Prof. Alan Winfield: Prof. Winfield is a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Really excited to be involved in organizing UCD&#8217;s <a href="https://aristotle.ucd.ie/">first international inter-disciplinary workshop on Implementing Machine Ethics</a>. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers:</p>
+<ul>
+<li><a href="https://people.uwe.ac.uk/Person/AlanWinfield">Prof. Alan Winfield</a>: Prof. Winfield is a roboticist with the Bristol Robotics Lab. His research interests include robot ethics, cognitive science, artificial intelligence and open science.</li>
+<li><a href="https://fra.europa.eu/en/person/goodey-joanna">Dr. Joanna Goodey</a>: Dr. Goodey is the head of the Freedoms and Justice Department in the European Union Agency for Fundamental Rights. Her research interests span criminology, fundamental rights, and human geography.</li>
+</ul>
+<p>The relevant dates are as below:</p>
+<p>Deadline for submission of abstract<em>: 12-May-2019</em><br />
+Notification of acceptance<em>: 3-June-2019</em><br />
+Workshop Dates<em>: 2-3-July-2019</em></p>
+<p>Location: <em>University College Dublin</em>, Dublin</p>
+<p>Here&#8217;s the link to the <a href="https://viveknallur.github.io/wp-content/uploads/2019/05/CallForAbstracts-ImplementingMachineEthics.pdf">CallForAbstracts</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Going to AAMAS&#8217;18</title>
+		<link>https://viveknallur.github.io/going-to-aamas18/</link>
+					<comments>https://viveknallur.github.io/going-to-aamas18/#respond</comments>
+		
+		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2018 09:04:42 +0000</pubDate>
+				<category><![CDATA[Vivek's Research Blog]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=284</guid>
+
+					<description><![CDATA[Excited to be going to AAMAS 2018. Presenting two papers there: JAAMAS Track &#8211; Clonal Plasticity Adapative and Learning Agents Workshop &#8211; ARENA: Towards a Game Playing Framework Looking forward to meeting the community again, and forging some new links.]]></description>
+										<content:encoded><![CDATA[<p>Excited to be going to AAMAS 2018. Presenting two papers there:</p>
+<ul>
+<li>JAAMAS Track &#8211; <a href="https://viveknallur.github.io/research/publications/">Clonal Plasticity</a></li>
+<li>Adapative and Learning Agents Workshop &#8211; <a href="https://viveknallur.github.io/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
+</ul>
+<p>Looking forward to meeting the community again, and forging some new links.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/going-to-aamas18/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
