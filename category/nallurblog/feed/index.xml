@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.13</generator>
+	<generator>https://wordpress.org/?v=5.4.15</generator>
 	<item>
 		<title>Going to AAMAS&#8217;18</title>
 		<link>https://viveknallur.github.io/going-to-aamas18/</link>
@@ -32,8 +32,8 @@
 					<description><![CDATA[Excited to be going to AAMAS 2018. Presenting two papers there: JAAMAS Track &#8211; Clonal Plasticity Adapative and Learning Agents Workshop &#8211; ARENA: Towards a Game Playing Framework Looking forward to meeting the community again, and forging some new links.]]></description>
 										<content:encoded><![CDATA[<p>Excited to be going to AAMAS 2018. Presenting two papers there:</p>
 <ul>
-<li>JAAMAS Track &#8211; <a href="http://desktop-0gddg8k/wordpress/research/publications/">Clonal Plasticity</a></li>
-<li>Adapative and Learning Agents Workshop &#8211; <a href="http://desktop-0gddg8k/wordpress/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
+<li>JAAMAS Track &#8211; <a href="https://viveknallur.github.io/research/publications/">Clonal Plasticity</a></li>
+<li>Adapative and Learning Agents Workshop &#8211; <a href="https://viveknallur.github.io/research/publications/">ARENA: Towards a Game Playing Framework</a></li>
 </ul>
 <p>Looking forward to meeting the community again, and forging some new links.</p>
 ]]></content:encoded>
@@ -57,7 +57,7 @@
 										<content:encoded><![CDATA[<p>I&#8217;ve just been awarded Seed Funding to start creating an inter-disciplinary network on the theme of <em>Inserting Ethics Into Autonomous Machines</em>.  Yay!</p>
 <p>The idea is (initially) to have invited talks from multiple disciplines (e.g. law, philosophy, robotics, hci) to flesh out various aspects of ethics from an implementation perspective. What sort of ethical theories can/should be considered? How should they be implemented? How could we verify that a machine that claims to follow an ethical principle, is indeed ethical?</p>
 <p>The School of Computer Science has kindly agreed to co-fund some of these talks, which means that we should be able to reimburse speakers from the EU, for flights as well as a night&#8217;s stay. Looking forward to an eclectic and thought-provoking set of talks.</p>
-<p>If you have any ideas for speakers or topics, <a href="http://desktop-0gddg8k/wordpress/contact-me/">get in touch</a>.</p>
+<p>If you have any ideas for speakers or topics, <a href="https://viveknallur.github.io/contact-me/">get in touch</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://viveknallur.github.io/awarded-seed-funding/feed/</wfw:commentRss>
@@ -73,7 +73,7 @@
 		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
 		<pubDate>Sat, 07 Nov 2015 17:43:40 +0000</pubDate>
 				<category><![CDATA[Vivek's Research Blog]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=225</guid>
+		<guid isPermaLink="false">http://127.0.0.1/wordpress/?p=225</guid>
 
 					<description><![CDATA[Eamonn has just submitted his thesis entitled “Decentralized Detection of Emergence in Complex Adaptive Systems”. Way to go, Eamonn! Very well done! Of course, it’s really special to me since he’s my first PhD student mentee. It’s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far! The [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Eamonn has just submitted his thesis entitled “Decentralized Detection of Emergence in Complex Adaptive Systems”. Way to go, Eamonn! Very well done! Of course, it’s really special to me since he’s my first PhD student mentee. It’s been a pleasure discussing philosophies, ideas, problems and solution concepts with you, mate. Hope you go far!</p>
