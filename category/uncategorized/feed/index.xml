@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>admin &#8211; Vivek Nallur</title>
-	<atom:link href="https://viveknallur.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Vivek Nallur</title>
+	<atom:link href="https://viveknallur.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
 	<lastBuildDate>Fri, 12 Apr 2024 12:43:59 +0000</lastBuildDate>
@@ -108,68 +108,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://viveknallur.github.io/call-for-papers-implementing-ethical-reasoning-in-autonomous-agents/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Special Track on Implementing Machine Ethics at EUMAS 2024</title>
-		<link>https://viveknallur.github.io/special-track-on-implementing-machine-ethics-at-eumas-2024/</link>
-					<comments>https://viveknallur.github.io/special-track-on-implementing-machine-ethics-at-eumas-2024/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 12 Apr 2024 09:31:28 +0000</pubDate>
-				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">https://viveknallur.github.io/?p=498</guid>
-
-					<description><![CDATA[EUMAS 2024 is being held at School of Computer Science, University College Dublin in August&#8217;2024. The Call for Papers is out, and I&#8217;m super excited to announce that they have a special track on implementing Machine Ethics, being led by yours truly, Marija Slavkovik (University of Bergen) and Sarah Moth-Lund Christensen (University of Leeds). Looking [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://euramas.github.io/eumas2024/" rel="noopener noreferrer" target="_blank">EUMAS 2024</a> is being held at School of Computer Science, University College Dublin in August&#8217;2024. The <a href="https://euramas.github.io/eumas2024/#cfp" rel="noopener noreferrer" target="_blank">Call for Papers</a> is out, and I&#8217;m super excited to announce that they have a special track on implementing Machine Ethics, being led by yours truly, <a href="https://slavkovik.com/" rel="noopener noreferrer" target="_blank">Marija Slavkovik</a> (University of Bergen) and <a href="https://ahc.leeds.ac.uk/philosophy/staff/3941/dr-sarah-moth-lund-christensen" rel="noopener noreferrer" target="_blank">Sarah Moth-Lund Christensen</a> (University of Leeds). Looking forward to all the exciting work being done in this area!!</p>
-<p>Submit your papers at: <a href="https://easychair.org/my/conference?conf=eumas2024" rel="noopener noreferrer" target="_blank">https://easychair.org/my/conference?conf=eumas2024</a> </p>
-<p><strong>Paper submission deadline: 15 May 2024 (AoE)</strong></p>
-<p>Here&#8217;s the blurb from the conference website:</p>
-<blockquote><p>
-Submissions are solicited on, but not limited to, the following themes / questions:</p>
-<ol>
-<li>What kinds of values and value-conflicts are (in)expressible in algorithmic form?</li>
-<li>Can ethical behaviour be guaranteed or verified in computational media?</li>
-<li>Implementation of ethical reasoning mechanisms founded on non-western ethical traditions</li>
-<li>Can artificial moral decision-making be decoupled from mere implementation of normative ethical theories?</li>
-<li>Privacy and Trust relationships between humans and machines in the presence of hybrid actions</li>
-<li>Implementation of ethical reasoning in logic-based methods</li>
-<li>Representation of ethical principles in AI agents</li>
-<li>Machine-learning based approaches to ethical reasoning</li>
-<li>Development of machine ethics in cognitive robot programs</li>
-<li>Robot learning for ethical reasoning</li>
-<li>Integration of symbolic and neural information systems for ethical reasoning</li>
-<li>Development of formal frameworks for ethical decision-making</li>
-<li>Techniques for explaining the ethical reasoning of AI agents</li>
-<li>Frameworks for ethical collaboration between humans and AI agents</li>
-<li>Building trust in intelligent systems through ethical design and interaction</li>
-</ol>
-</blockquote>
-<p>The Programme Committee consists of the following:</p>
-<ul>
-<li>Michael Anderson, University of Hartford</li>
-<li>Selmer Bringsjord, Rensselaer Polytechnic Institute (RPI)</li>
-<li>Louise Dennis, University of Manchester</li>
-<li>Maurice Pagnucco, University of New South Wales</li>
-<li>Yang Song, University of New South Wales</li>
-<li>Ken Satoh, National Institute of Informatics Japan</li>
-<li>Leon van der Torre, University of Luxembourg</li>
-<li>Jean-Gabriel Ganascia, Sorbonne, France</li>
-<li>John P. Sullins, Sonoma State University</li>
-<li>Kevin Baum, University of Saarbrucken</li>
-<li>Edmond Awad, University of Exeter</li>
-<li>John Horty, University of Maryland</li>
-<li>Pere Pardo, University of Luxembourg</li>
-<li>Thomas Powers, University of Delaware</li>
-<li>Juan Carlos Nieves, Umea University</li>
-<li>Ryan Tonkens, Lakehead University</li>
-<li>Paul Formosa, Macquarie University, Australia</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://viveknallur.github.io/special-track-on-implementing-machine-ethics-at-eumas-2024/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

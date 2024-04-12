@@ -12,7 +12,7 @@
 	<atom:link href="https://viveknallur.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 12 Apr 2024 11:13:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Apr 2024 12:43:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,99 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.15</generator>
 	<item>
+		<title>Call for Papers &#8211; Implementing Ethical Reasoning in Autonomous Agents</title>
+		<link>https://viveknallur.github.io/call-for-papers-implementing-ethical-reasoning-in-autonomous-agents/</link>
+					<comments>https://viveknallur.github.io/call-for-papers-implementing-ethical-reasoning-in-autonomous-agents/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2024 12:43:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://viveknallur.github.io/?p=508</guid>
+
+					<description><![CDATA[EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the stakeholders involved (from highly trained human-machine teams to a cohort of elderly / children), also affect the possible value considerations deeply.  This track aims to provide a venue for discussions of problems, possible solution-concepts, best practices, benchmarks, related to machine ethics. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We welcome original, unpublished papers including improved versions of extended abstracts or rejected papers from AAMAS, AAAI and IJCAI 2023. The submission should describe work that has not been previously published, accepted for publication, nor is currently under review by another conference or journal. Proceedings, as a part of EUMAS 2024, will be published as part of the Lecture Notes in Computer Science (LNCS) series of Springer</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Submissions are solicited on, but not limited to, the following themes / questions:</span></p>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What kinds of values and value-conflicts are (in)expressible in algorithmic form?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Can ethical behaviour be guaranteed or verified in computational media?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Implementation of ethical reasoning mechanisms founded on non-western ethical traditions</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Can artificial moral decision-making be decoupled from mere implementation of normative ethical theories? </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy and Trust relationships between humans and machines in the presence of hybrid actions</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Implementation of ethical reasoning in logic-based methods</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Representation of ethical principles in AI agents</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Machine-learning based approaches to ethical reasoning</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Development of machine ethics in cognitive robot programs</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Robot learning for ethical reasoning</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Integration of symbolic and neural information systems for ethical reasoning</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Development of formal frameworks for ethical decision-making</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Techniques for explaining the ethical reasoning of AI agents</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Frameworks for ethical collaboration between humans and AI agents</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Building trust in intelligent systems through ethical design and interaction</span></li>
+</ul>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Important Dates (all deadlines &#8211; AoE)</span></h2>
+<p>&nbsp;</p>
+<table  class=" table table-hover" >
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Submission Deadline</span></td>
+<td><span style="font-weight: 400;">15-May-2024</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Author Notification </span></td>
+<td><span style="font-weight: 400;">30-June-2024</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Camera-ready Deadline</span></td>
+<td><span style="font-weight: 400;">15-July-2024</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Conference Dates</span></td>
+<td><span style="font-weight: 400;">26-28 August-2024</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Logistics</span></h2>
+<p><span style="font-weight: 400;">Paper size and format &#8211; All submissions will be peer-reviewed in a single blind fashion. Submission should be at most 15 pages long, with any number of pages for references and, if needed, a clearly marked appendix and be formatted according to Springer’s LNCS format.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><strong>Submission Link</strong>:</span> <a href="https://easychair.org/conferences/?conf=eumas2024"><span style="font-weight: 400;">https://easychair.org/conferences/?conf=eumas2024</span></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Organizing Committee</span></h2>
+<p><span style="font-weight: 400;">Vivek Nallur, University College Dublin, Ireland</span></p>
+<p><span style="font-weight: 400;">Marija Slavkovik, University of Bergen, Norway</span></p>
+<p><span style="font-weight: 400;">Sarah Moth-Lund Christensen, Leeds University, UK</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Programme Committee</span></h2>
+<p><span style="font-weight: 400;">Michael Anderson, University of Hartford</span></p>
+<p><span style="font-weight: 400;">Selmer Bringsjord, Rensselaer Polytechnic Institute (RPI)</span></p>
+<p><span style="font-weight: 400;">Louise Dennis, University of Manchester</span></p>
+<p><span style="font-weight: 400;">Maurice Pagnucco, University of New South Wales</span></p>
+<p><span style="font-weight: 400;">Yang Song, University of New South Wales</span></p>
+<p><span style="font-weight: 400;">Ken Satoh, National Institute of Informatics Japan</span></p>
+<p><span style="font-weight: 400;">Leon van der Torre, University of Luxembourg</span></p>
+<p><span style="font-weight: 400;">Jean-Gabriel Ganascia, Sorbonne, France</span></p>
+<p><span style="font-weight: 400;">John P. Sullins, Sonoma State University</span></p>
+<p><span style="font-weight: 400;">Kevin Baum, University of Saarbrucken</span></p>
+<p><span style="font-weight: 400;">Edmond Awad, University of Exeter</span></p>
+<p><span style="font-weight: 400;">John Horty, University of Maryland</span></p>
+<p><span style="font-weight: 400;">Pere Pardo, University of Luxembourg</span></p>
+<p><span style="font-weight: 400;">Thomas Powers, University of Delaware</span></p>
+<p><span style="font-weight: 400;">Juan Carlos Nieves, Umea University</span></p>
+<p><span style="font-weight: 400;">Ryan Tonkens, Lakehead University</span></p>
+<p><span style="font-weight: 400;">Paul Formosa, Macquarie University, Australia</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viveknallur.github.io/call-for-papers-implementing-ethical-reasoning-in-autonomous-agents/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Special Track on Implementing Machine Ethics at EUMAS 2024</title>
 		<link>https://viveknallur.github.io/special-track-on-implementing-machine-ethics-at-eumas-2024/</link>
 					<comments>https://viveknallur.github.io/special-track-on-implementing-machine-ethics-at-eumas-2024/#respond</comments>
@@ -250,35 +343,6 @@ double effect) can/should be embedded into an AI or what Approach (i.e.  Evolut
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://viveknallur.github.io/new-mailing-list-on-machine-ethics-created/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>First UCD Inter-Disciplinary Workshop on Implementing Machine Ethics</title>
-		<link>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/</link>
-					<comments>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/#respond</comments>
-		
-		<dc:creator><![CDATA[Vivek Nallur]]></dc:creator>
-		<pubDate>Mon, 06 May 2019 15:47:03 +0000</pubDate>
-				<category><![CDATA[Machine Ethics]]></category>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=315</guid>
-
-					<description><![CDATA[Really excited to be involved in organizing UCD&#8217;s first international inter-disciplinary workshop on Implementing Machine Ethics. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers: Prof. Alan Winfield: Prof. Winfield is a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Really excited to be involved in organizing UCD&#8217;s <a href="https://aristotle.ucd.ie/">first international inter-disciplinary workshop on Implementing Machine Ethics</a>. If you are interested in AI, ethics, law, society or even in how autonomous machines might affect our future, do check out the workshop. We have an exciting lineup of keynote speakers:</p>
-<ul>
-<li><a href="https://people.uwe.ac.uk/Person/AlanWinfield">Prof. Alan Winfield</a>: Prof. Winfield is a roboticist with the Bristol Robotics Lab. His research interests include robot ethics, cognitive science, artificial intelligence and open science.</li>
-<li><a href="https://fra.europa.eu/en/person/goodey-joanna">Dr. Joanna Goodey</a>: Dr. Goodey is the head of the Freedoms and Justice Department in the European Union Agency for Fundamental Rights. Her research interests span criminology, fundamental rights, and human geography.</li>
-</ul>
-<p>The relevant dates are as below:</p>
-<p>Deadline for submission of abstract<em>: 12-May-2019</em><br />
-Notification of acceptance<em>: 3-June-2019</em><br />
-Workshop Dates<em>: 2-3-July-2019</em></p>
-<p>Location: <em>University College Dublin</em>, Dublin</p>
-<p>Here&#8217;s the link to the <a href="https://viveknallur.github.io/wp-content/uploads/2019/05/CallForAbstracts-ImplementingMachineEthics.pdf">CallForAbstracts</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://viveknallur.github.io/first-ucd-inter-disciplinary-workshop-on-implementing-machine-ethics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
