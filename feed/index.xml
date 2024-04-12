@@ -12,7 +12,7 @@
 	<atom:link href="https://viveknallur.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 12 Apr 2024 12:53:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Apr 2024 14:45:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,7 @@
 		<guid isPermaLink="false">https://viveknallur.github.io/?p=508</guid>
 
 					<description><![CDATA[EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the stakeholders involved (from highly trained human-machine teams to a cohort of elderly / children), also affect the possible value considerations deeply.&nbsp; This track aims to provide a venue for discussions of problems, possible solution-concepts, best practices, benchmarks, related to machine ethics.&nbsp;</span></p>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><a href="https://euramas.github.io/eumas2024/" rel="noopener noreferrer" target="_blank">EUMAS’24</a> will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the stakeholders involved (from highly trained human-machine teams to a cohort of elderly / children), also affect the possible value considerations deeply.&nbsp; This track aims to provide a venue for discussions of problems, possible solution-concepts, best practices, benchmarks, related to machine ethics.&nbsp;</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We welcome original, unpublished papers including improved versions of extended abstracts or rejected papers from AAMAS, AAAI and IJCAI 2023. The submission should describe work that has not been previously published, accepted for publication, nor is currently under review by another conference or journal. Proceedings, as a part of EUMAS 2024, will be published as part of the Lecture Notes in Computer Science (LNCS) series of Springer</span></p>
 <p>&nbsp;</p>
