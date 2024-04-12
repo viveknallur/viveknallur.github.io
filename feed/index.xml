@@ -12,7 +12,7 @@
 	<atom:link href="https://viveknallur.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viveknallur.github.io</link>
 	<description>The site for Vivek&#039;s (mostly) academic life</description>
-	<lastBuildDate>Fri, 12 Apr 2024 12:43:59 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Apr 2024 12:53:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,11 +26,11 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Apr 2024 12:43:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Machine Ethics]]></category>
 		<guid isPermaLink="false">https://viveknallur.github.io/?p=508</guid>
 
 					<description><![CDATA[EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the stakeholders involved (from highly trained human-machine teams to a cohort of elderly / children), also affect the possible value considerations deeply.  This track aims to provide a venue for discussions of problems, possible solution-concepts, best practices, benchmarks, related to machine ethics. </span></p>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">EUMAS’24 will feature a special track on Agents and Ethics. This track is focussed on the implementation of ethical reasoning mechanisms in various autonomous decision-making settings. Depending on the context of the agent (software / hardware), the kinds of values (or value-conflicts) that are encountered could be quite varied. The multiplicity and agency of the stakeholders involved (from highly trained human-machine teams to a cohort of elderly / children), also affect the possible value considerations deeply.&nbsp; This track aims to provide a venue for discussions of problems, possible solution-concepts, best practices, benchmarks, related to machine ethics.&nbsp;</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">We welcome original, unpublished papers including improved versions of extended abstracts or rejected papers from AAMAS, AAAI and IJCAI 2023. The submission should describe work that has not been previously published, accepted for publication, nor is currently under review by another conference or journal. Proceedings, as a part of EUMAS 2024, will be published as part of the Lecture Notes in Computer Science (LNCS) series of Springer</span></p>
 <p>&nbsp;</p>
@@ -40,7 +40,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What kinds of values and value-conflicts are (in)expressible in algorithmic form?</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Can ethical behaviour be guaranteed or verified in computational media?</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Implementation of ethical reasoning mechanisms founded on non-western ethical traditions</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Can artificial moral decision-making be decoupled from mere implementation of normative ethical theories? </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Can artificial moral decision-making be decoupled from mere implementation of normative ethical theories?&nbsp;</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy and Trust relationships between humans and machines in the presence of hybrid actions</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Implementation of ethical reasoning in logic-based methods</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Representation of ethical principles in AI agents</span></li>
@@ -63,7 +63,7 @@
 <td><span style="font-weight: 400;">15-May-2024</span></td>
 </tr>
 <tr>
-<td><span style="font-weight: 400;">Author Notification </span></td>
+<td><span style="font-weight: 400;">Author Notification&nbsp;</span></td>
 <td><span style="font-weight: 400;">30-June-2024</span></td>
 </tr>
 <tr>
